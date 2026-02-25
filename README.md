@@ -46,4 +46,7 @@
 
 # Obvious Quality Notes ✏️
 
+* City and State categories align; however, country is not relevant
+* All Customer names have south asian origin
+* Sales are heavily skewed with the United States leading with 62.3M sales and the second being India with only 13.5M
 * 
