@@ -44,4 +44,6 @@
 **Encoding:**
 * charset=us-ascii
 
-# Quality Notes ✏️
+# Obvious Quality Notes ✏️
+
+* 
