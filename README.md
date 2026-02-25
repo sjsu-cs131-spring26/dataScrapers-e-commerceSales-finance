@@ -25,7 +25,7 @@
 **File Formating:**
 * CSV (Comma seperated Values)
 
-**Compression:"**
+**Compression:**
 * .zip (4 MB)
 * .csv (17.38 MB)
 
