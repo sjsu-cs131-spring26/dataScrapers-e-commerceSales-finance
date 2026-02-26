@@ -50,7 +50,6 @@
 * Due to the synthetic nature of the dataset, some correlations are too linear
   * All customer names have South Asian origins
   * No typos when searching for items
-  * 
 * Sales are heavily skewed with the United States leading with 62.3M sales and the second being India with only 13.5M
 * The Timeline of the dataset ranges from the end of 2019 to the end of 2024
 * 43233 unique customers in the dataset
