@@ -1,0 +1,1001 @@
+OrderID,OrderDate,CustomerID,CustomerName,ProductID,ProductName,Category,Brand,Quantity,UnitPrice,Discount,Tax,ShippingCost,TotalAmount,PaymentMethod,OrderStatus,City,State,Country,SellerID
+ORD0082999,2023-07-17,CUST045900,Aarav Singh,P00015,Instant Pot,Electronics,BrightLux,5,510.05,0.15,108.39,11.27,2287.37,Amazon Pay,Pending,Chicago,IL,India,SELL00102
+ORD0012273,2023-02-01,CUST046344,Aarav Patel,P00041,Webcam Full HD,Clothing,UrbanStyle,5,367.94,0.15,125.1,0.27,1689.11,Cash on Delivery,Delivered,Philadelphia,PA,United States,SELL00126
+ORD0042111,2023-12-22,CUST035606,Ritika Gupta,P00022,Water Bottle,Books,BrightLux,4,541.48,0.2,311.89,7.36,2051.99,Credit Card,Delivered,Dallas,TX,India,SELL01116
+ORD0021036,2021-04-28,CUST041374,Mohit Sharma,P00010,Smartwatch,Toys & Games,KiddoFun,3,588.55,0.05,134.19,9.0,1820.56,Amazon Pay,Delivered,Austin,TX,United States,SELL00508
+ORD0021748,2024-05-10,CUST015190,Vihaan Kapoor,P00029,T-Shirt,Books,BrightLux,3,345.17,0.05,49.19,14.28,1047.2,UPI,Delivered,Washington,DC,United States,SELL01342
+ORD0075733,2021-11-16,CUST020188,Simran Gupta,P00035,Desk Plant,Clothing,FitLife,3,418.89,0.0,100.53,3.51,1360.71,Net Banking,Pending,Charlotte,NC,United States,SELL01113
+ORD0062001,2024-07-31,CUST048073,Aman Mehta,P00032,Board Game,Toys & Games,HomeEase,2,456.86,0.15,38.83,5.69,821.18,Credit Card,Delivered,San Francisco,CA,United States,SELL01155
+ORD0001960,2020-02-23,CUST005934,Vihaan Kumar,P00041,Webcam Full HD,Home & Kitchen,ReadMore,2,162.67,0.2,0.0,14.77,275.04,Credit Card,Delivered,Denver,CO,United Kingdom,SELL01117
+ORD0059723,2021-05-03,CUST046164,Vivaan Kumar,P00049,Children's Book,Clothing,FitLife,1,226.5,0.0,11.32,13.24,251.06,UPI,Delivered,Charlotte,NC,India,SELL01007
+ORD0091916,2023-06-07,CUST031358,Priya Kumar,P00027,Winter Jacket,Home & Kitchen,UrbanStyle,5,516.73,0.2,103.35,7.54,2177.81,UPI,Delivered,Washington,DC,United States,SELL01653
+ORD0000544,2021-09-27,CUST024742,Kabir Mehta,P00002,Bluetooth Speaker,Home & Kitchen,Apex,1,404.79,0.0,20.24,12.05,437.08,Credit Card,Delivered,New York,NY,United States,SELL00752
+ORD0007680,2024-04-13,CUST029935,Vivaan Reddy,P00025,Running Shoes,Sports & Outdoors,HomeEase,2,446.37,0.2,128.55,0.96,843.7,Net Banking,Delivered,Phoenix,AZ,United States,SELL00821
+ORD0032957,2024-12-29,CUST038060,Aditya Verma,P00014,Drone Mini,Clothing,KiddoFun,2,110.96,0.0,26.63,10.01,258.56,Amazon Pay,Returned,Philadelphia,PA,Canada,SELL00358
+ORD0010502,2020-09-07,CUST048501,Aditya Sharma,P00005,Laptop Sleeve,Home & Kitchen,ReadMore,4,39.89,0.3,8.94,6.01,126.64,Debit Card,Delivered,Seattle,WA,United States,SELL01410
+ORD0070837,2023-12-31,CUST015138,Aditya Sharma,P00022,Water Bottle,Books,FitLife,4,539.65,0.1,155.42,1.81,2099.97,Net Banking,Cancelled,Austin,TX,United States,SELL01186
+ORD0031415,2023-07-28,CUST048315,Vivaan Patel,P00036,Smart Light Bulb,Home & Kitchen,Apex,4,497.15,0.2,79.54,2.32,1672.74,Amazon Pay,Delivered,San Jose,CA,United States,SELL00342
+ORD0075055,2022-06-23,CUST043057,Aarav Verma,P00006,Gaming Mouse,Toys & Games,FitLife,1,493.03,0.15,75.43,4.84,499.35,Debit Card,Delivered,San Antonio,TX,United States,SELL00491
+ORD0039998,2020-06-20,CUST038746,Anjali Reddy,P00033,Puzzle 1000pc,Home & Kitchen,UrbanStyle,1,500.36,0.05,38.03,3.17,516.54,Debit Card,Delivered,Seattle,WA,United States,SELL01573
+ORD0038577,2022-02-10,CUST006726,Priya Sharma,P00025,Running Shoes,Electronics,BrightLux,5,241.7,0.1,195.78,7.27,1290.7,UPI,Delivered,Dallas,TX,United States,SELL01461
+ORD0024023,2024-06-05,CUST021383,Vihaan Gupta,P00021,Backpack,Electronics,FitLife,2,181.19,0.05,27.54,11.84,383.64,Credit Card,Delivered,Charlotte,NC,United States,SELL01660
+ORD0067330,2022-02-10,CUST005987,Vivaan Singh,P00034,Desk Organizer,Home & Kitchen,Zenith,4,526.87,0.0,105.37,11.2,2224.05,UPI,Delivered,Dallas,TX,United Kingdom,SELL01165
+ORD0010432,2022-03-01,CUST029339,Vikas Joshi,P00017,Electric Kettle,Electronics,HomeEase,2,321.07,0.05,30.5,4.62,645.15,Amazon Pay,Cancelled,Los Angeles,CA,United States,SELL00345
+ORD0025617,2020-02-21,CUST043515,Mohit Mehta,P00040,Microphone,Books,BrightLux,2,415.24,0.0,99.66,6.37,936.51,Credit Card,Delivered,San Jose,CA,United States,SELL01089
+ORD0014035,2023-01-20,CUST031965,Pooja Joshi,P00036,Smart Light Bulb,Books,HomeEase,2,171.29,0.0,17.13,13.85,373.56,Credit Card,Shipped,San Jose,CA,United States,SELL01477
+ORD0052886,2023-11-13,CUST040917,Vihaan Sharma,P00002,Bluetooth Speaker,Sports & Outdoors,CoreTech,1,525.8,0.0,42.06,3.05,570.91,Amazon Pay,Pending,Los Angeles,CA,United States,SELL01515
+ORD0017015,2023-05-23,CUST023402,Aditya Joshi,P00029,T-Shirt,Clothing,BrightLux,4,308.22,0.15,52.4,9.99,1110.34,Credit Card,Delivered,Los Angeles,CA,United States,SELL01547
+ORD0045194,2020-11-22,CUST026256,Anjali Verma,P00029,T-Shirt,Home & Kitchen,ReadMore,3,198.13,0.1,26.75,13.95,575.65,Debit Card,Delivered,Los Angeles,CA,United States,SELL01676
+ORD0023022,2022-12-18,CUST022558,Vikas Verma,P00042,Projector Mini,Toys & Games,ReadMore,1,22.63,0.0,2.72,2.23,27.58,Credit Card,Delivered,Indianapolis,IN,United States,SELL01305
+ORD0039385,2020-12-09,CUST007042,Aman Gupta,P00005,Laptop Sleeve,Electronics,KiddoFun,5,415.5,0.0,249.3,5.69,2332.49,UPI,Shipped,Charlotte,NC,United Kingdom,SELL00595
+ORD0092112,2021-01-15,CUST036699,Aditya Joshi,P00034,Desk Organizer,Electronics,Apex,1,119.45,0.1,12.9,13.83,134.24,Credit Card,Delivered,Fort Worth,TX,United States,SELL00752
+ORD0029609,2022-04-08,CUST037487,Sahil Singh,P00008,4K Monitor,Home & Kitchen,UrbanStyle,1,379.79,0.15,25.83,10.04,358.69,Debit Card,Delivered,Austin,TX,United States,SELL01100
+ORD0074144,2023-02-03,CUST027438,Kabir Sharma,P00042,Projector Mini,Toys & Games,UrbanStyle,5,20.65,0.2,4.13,7.25,93.98,Amazon Pay,Delivered,Columbus,OH,United States,SELL00860
+ORD0090792,2021-12-25,CUST006839,Rohit Verma,P00024,Yoga Mat,Sports & Outdoors,CoreTech,5,262.87,0.0,157.72,7.45,1479.52,Credit Card,Shipped,Philadelphia,PA,United States,SELL01242
+ORD0044395,2023-06-28,CUST043049,Karan Kumar,P00005,Laptop Sleeve,Toys & Games,BrightLux,4,44.42,0.0,21.32,11.02,210.02,Debit Card,Delivered,Washington,DC,United States,SELL01543
+ORD0089009,2023-04-05,CUST006735,Anjali Singh,P00017,Electric Kettle,Sports & Outdoors,FitLife,2,247.8,0.0,89.21,9.82,594.63,Credit Card,Shipped,San Antonio,TX,United States,SELL00237
+ORD0032267,2021-01-18,CUST008218,Anjali Gupta,P00033,Puzzle 1000pc,Clothing,NexPro,5,162.03,0.2,51.85,4.29,704.26,UPI,Shipped,San Jose,CA,United States,SELL00016
+ORD0028832,2024-05-19,CUST042057,Neha Kapoor,P00049,Children's Book,Clothing,FitLife,2,339.21,0.0,81.41,4.58,764.41,Debit Card,Delivered,Fort Worth,TX,United States,SELL00280
+ORD0091159,2023-12-22,CUST009451,Rohit Kumar,P00033,Puzzle 1000pc,Electronics,Apex,1,449.73,0.0,22.49,9.89,482.11,Credit Card,Returned,Columbus,OH,United States,SELL00801
+ORD0065273,2021-09-27,CUST000480,Aarav Kapoor,P00007,Mechanical Keyboard,Books,FitLife,3,451.12,0.0,67.67,4.08,1425.11,Credit Card,Delivered,Phoenix,AZ,United States,SELL00059
+ORD0068655,2020-05-08,CUST038826,Rohit Patel,P00016,Air Fryer,Electronics,NexPro,4,281.08,0.1,80.95,3.05,1095.89,Credit Card,Delivered,Jacksonville,FL,United Kingdom,SELL00346
+ORD0077867,2024-11-08,CUST017485,Sneha Patel,P00011,Fitness Band,Books,UrbanStyle,2,244.69,0.1,79.28,10.4,530.12,Debit Card,Delivered,Jacksonville,FL,United States,SELL01320
+ORD0096587,2024-07-16,CUST041684,Sunita Joshi,P00040,Microphone,Toys & Games,BrightLux,4,73.56,0.0,23.54,9.35,327.13,Net Banking,Delivered,Dallas,TX,Canada,SELL00394
+ORD0081189,2020-10-05,CUST044684,Mohit Gupta,P00040,Microphone,Books,NexPro,2,556.03,0.2,0.0,13.44,903.09,Credit Card,Delivered,San Jose,CA,United States,SELL00106
+ORD0057670,2021-10-22,CUST005055,Pooja Kumar,P00011,Fitness Band,Books,Zenith,1,293.43,0.05,33.45,6.22,318.43,Debit Card,Delivered,Washington,DC,United States,SELL00759
+ORD0087348,2023-02-21,CUST025265,Neha Patel,P00002,Bluetooth Speaker,Sports & Outdoors,Apex,2,322.72,0.0,116.18,7.46,769.08,Amazon Pay,Delivered,San Francisco,CA,India,SELL00650
+ORD0068439,2023-12-05,CUST049156,Neha Singh,P00006,Gaming Mouse,Electronics,UrbanStyle,2,327.22,0.15,66.75,1.99,625.01,Credit Card,Delivered,Los Angeles,CA,United States,SELL00029
+ORD0077794,2021-09-01,CUST046553,Aman Joshi,P00023,Cookware Set,Toys & Games,KiddoFun,1,347.78,0.0,41.73,2.65,392.16,Debit Card,Delivered,San Antonio,TX,United States,SELL00868
+ORD0047910,2020-03-28,CUST049042,Vivaan Mehta,P00046,Car Charger,Clothing,Zenith,1,110.75,0.1,7.97,10.91,118.56,Amazon Pay,Delivered,San Francisco,CA,United Kingdom,SELL00263
+ORD0087350,2022-07-20,CUST000232,Pooja Mehta,P00040,Microphone,Books,CoreTech,2,501.85,0.05,171.63,4.42,1129.56,Amazon Pay,Delivered,Jacksonville,FL,United States,SELL01167
+ORD0079779,2023-11-14,CUST049482,Aarav Patel,P00011,Fitness Band,Books,CoreTech,3,31.0,0.0,4.65,1.92,99.57,Credit Card,Delivered,Los Angeles,CA,United States,SELL01879
+ORD0021442,2022-11-01,CUST046792,Simran Kapoor,P00008,4K Monitor,Toys & Games,HomeEase,5,475.09,0.0,190.04,10.38,2575.87,Debit Card,Delivered,Washington,DC,United States,SELL01556
+ORD0099751,2023-08-10,CUST020490,Arjun Gupta,P00047,Memory Card 128GB,Home & Kitchen,CoreTech,4,543.39,0.15,0.0,7.82,1855.35,Amazon Pay,Delivered,Charlotte,NC,India,SELL01703
+ORD0088601,2020-07-16,CUST000680,Mohit Mehta,P00006,Gaming Mouse,Toys & Games,NexPro,3,324.02,0.0,174.97,1.72,1148.75,Credit Card,Shipped,Dallas,TX,United States,SELL01465
+ORD0087895,2024-02-03,CUST039226,Pooja Singh,P00005,Laptop Sleeve,Clothing,BrightLux,3,367.84,0.3,61.8,9.19,843.45,Net Banking,Delivered,Seattle,WA,United States,SELL01860
+ORD0097003,2023-09-02,CUST031183,Ritika Verma,P00005,Laptop Sleeve,Books,Zenith,4,88.95,0.0,17.79,5.39,378.98,Debit Card,Shipped,Jacksonville,FL,United States,SELL00704
+ORD0024541,2022-04-06,CUST019712,Sahil Reddy,P00026,Sunglasses,Sports & Outdoors,BrightLux,3,100.12,0.0,24.03,0.88,325.27,Net Banking,Delivered,Charlotte,NC,United States,SELL00182
+ORD0020083,2024-01-01,CUST030555,Neha Kumar,P00048,Wireless Charger,Toys & Games,HomeEase,3,80.68,0.15,16.46,5.97,228.16,Net Banking,Delivered,Columbus,OH,United States,SELL00012
+ORD0009832,2021-10-11,CUST034655,Sunita Mehta,P00049,Children's Book,Electronics,UrbanStyle,2,563.54,0.1,182.59,6.79,1203.75,Debit Card,Delivered,Denver,CO,United States,SELL00994
+ORD0081023,2022-12-23,CUST026031,Sneha Sharma,P00015,Instant Pot,Books,CoreTech,2,185.82,0.15,15.79,10.69,342.37,Credit Card,Shipped,Seattle,WA,United States,SELL01827
+ORD0096004,2021-04-01,CUST044621,Sunita Reddy,P00046,Car Charger,Toys & Games,HomeEase,3,33.12,0.05,7.55,11.86,113.8,Credit Card,Delivered,Denver,CO,United States,SELL00066
+ORD0022498,2022-03-03,CUST038113,Ritika Joshi,P00027,Winter Jacket,Books,Zenith,2,100.99,0.25,18.18,9.79,179.46,UPI,Delivered,San Francisco,CA,Australia,SELL01321
+ORD0091279,2020-10-05,CUST011586,Kabir Kumar,P00026,Sunglasses,Electronics,KiddoFun,5,572.95,0.1,206.26,3.7,2788.23,Credit Card,Delivered,Denver,CO,United States,SELL01782
+ORD0045064,2021-05-13,CUST005457,Aman Reddy,P00034,Desk Organizer,Electronics,UrbanStyle,3,478.3,0.05,109.05,9.25,1481.46,Amazon Pay,Delivered,Philadelphia,PA,United States,SELL01203
+ORD0082022,2020-02-07,CUST042846,Ritika Kapoor,P00015,Instant Pot,Home & Kitchen,Zenith,1,547.33,0.15,83.74,8.62,557.59,Credit Card,Delivered,San Antonio,TX,United States,SELL01534
+ORD0054713,2020-10-11,CUST033885,Pooja Singh,P00038,External HDD 2TB,Books,Apex,5,117.54,0.0,47.02,1.84,636.56,UPI,Delivered,Indianapolis,IN,United States,SELL01644
+ORD0026901,2022-06-04,CUST016771,Vihaan Patel,P00020,Office Chair,Sports & Outdoors,CoreTech,1,577.66,0.05,0.0,13.49,562.27,Debit Card,Delivered,Houston,TX,Australia,SELL01775
+ORD0094278,2020-06-30,CUST018540,Aarav Gupta,P00024,Yoga Mat,Clothing,UrbanStyle,4,541.94,0.2,138.74,5.21,1878.16,UPI,Delivered,San Antonio,TX,United States,SELL00137
+ORD0059083,2021-07-19,CUST020695,Ritika Kapoor,P00010,Smartwatch,Books,KiddoFun,2,123.34,0.05,11.72,11.23,257.3,UPI,Delivered,Washington,DC,United States,SELL01969
+ORD0032043,2024-09-05,CUST014085,Vikas Gupta,P00042,Projector Mini,Electronics,FitLife,5,200.24,0.0,120.14,14.95,1136.29,Debit Card,Delivered,Phoenix,AZ,India,SELL00040
+ORD0084723,2024-09-06,CUST041506,Ritika Reddy,P00020,Office Chair,Sports & Outdoors,Zenith,1,209.55,0.05,23.89,0.8,223.76,Debit Card,Shipped,Charlotte,NC,United States,SELL01774
+ORD0039700,2021-02-12,CUST046764,Arjun Sharma,P00039,Graphic Tablet,Electronics,Apex,4,577.83,0.0,184.91,2.0,2498.23,UPI,Delivered,Denver,CO,United States,SELL00536
+ORD0038676,2024-09-23,CUST015668,Sneha Kapoor,P00036,Smart Light Bulb,Home & Kitchen,BrightLux,1,292.27,0.05,22.21,5.6,305.47,Credit Card,Returned,New York,NY,United States,SELL01929
+ORD0046017,2022-11-18,CUST000335,Anjali Mehta,P00036,Smart Light Bulb,Clothing,FitLife,5,79.47,0.0,19.87,9.54,426.76,Debit Card,Pending,Austin,TX,United States,SELL01817
+ORD0003759,2024-06-30,CUST007577,Neha Mehta,P00006,Gaming Mouse,Home & Kitchen,Apex,2,289.36,0.0,69.45,0.66,648.83,Credit Card,Delivered,Fort Worth,TX,United States,SELL01365
+ORD0018531,2024-10-26,CUST026249,Neha Reddy,P00015,Instant Pot,Electronics,HomeEase,5,148.31,0.0,59.32,7.27,808.14,UPI,Cancelled,Columbus,OH,United States,SELL01107
+ORD0048699,2023-11-17,CUST035531,Aman Mehta,P00018,Vacuum Cleaner,Home & Kitchen,ReadMore,3,504.49,0.0,121.08,1.94,1636.49,Credit Card,Cancelled,Chicago,IL,United States,SELL01585
+ORD0022246,2022-01-27,CUST019346,Arjun Patel,P00001,Wireless Earbuds,Books,ReadMore,3,428.22,0.0,64.23,13.92,1362.81,Credit Card,Shipped,New York,NY,United States,SELL01886
+ORD0093452,2023-07-18,CUST049853,Simran Reddy,P00020,Office Chair,Home & Kitchen,HomeEase,2,237.89,0.0,23.79,3.72,503.29,Debit Card,Cancelled,Seattle,WA,United States,SELL00569
+ORD0099327,2023-12-07,CUST003791,Aman Patel,P00030,Dress Shirt,Clothing,ReadMore,4,86.39,0.0,17.28,14.75,377.59,Credit Card,Delivered,Los Angeles,CA,United States,SELL00599
+ORD0097900,2023-10-09,CUST039995,Mohit Joshi,P00049,Children's Book,Clothing,UrbanStyle,5,476.81,0.0,190.72,1.94,2576.71,Debit Card,Delivered,Washington,DC,United Kingdom,SELL00637
+ORD0042572,2024-04-10,CUST026559,Arjun Kapoor,P00010,Smartwatch,Home & Kitchen,HomeEase,1,215.99,0.05,10.26,4.53,219.98,Credit Card,Shipped,Washington,DC,United States,SELL00631
+ORD0063955,2022-02-14,CUST048894,Mohit Reddy,P00047,Memory Card 128GB,Toys & Games,BrightLux,3,217.77,0.05,49.65,9.12,679.41,Net Banking,Delivered,San Francisco,CA,United States,SELL00118
+ORD0066454,2020-09-14,CUST026929,Aditya Patel,P00024,Yoga Mat,Toys & Games,BrightLux,5,122.82,0.15,26.1,8.01,556.09,Amazon Pay,Pending,San Antonio,TX,United States,SELL01539
+ORD0009306,2022-07-07,CUST001919,Kabir Kumar,P00005,Laptop Sleeve,Toys & Games,ReadMore,2,276.91,0.1,59.81,4.69,562.94,Amazon Pay,Delivered,New York,NY,India,SELL00851
+ORD0056966,2020-02-28,CUST037644,Ritika Reddy,P00035,Desk Plant,Toys & Games,UrbanStyle,3,38.02,0.0,5.7,14.23,133.99,UPI,Delivered,San Jose,CA,United Kingdom,SELL00898
+ORD0097980,2021-04-12,CUST029345,Karan Mehta,P00033,Puzzle 1000pc,Books,Apex,1,551.26,0.05,41.9,5.7,571.3,UPI,Delivered,Indianapolis,IN,India,SELL01073
+ORD0031859,2022-07-09,CUST015593,Karan Mehta,P00047,Memory Card 128GB,Clothing,BrightLux,2,81.58,0.2,15.66,4.11,150.3,Credit Card,Cancelled,Jacksonville,FL,United States,SELL01310
+ORD0095697,2023-10-22,CUST023705,Pooja Patel,P00037,Router,Toys & Games,BrightLux,3,398.76,0.1,86.13,2.5,1165.28,Net Banking,Delivered,Philadelphia,PA,Australia,SELL01853
+ORD0090995,2020-08-14,CUST046637,Anjali Patel,P00007,Mechanical Keyboard,Clothing,CoreTech,4,429.71,0.1,278.45,1.75,1827.16,Credit Card,Shipped,Seattle,WA,Canada,SELL00719
+ORD0073500,2024-03-16,CUST024614,Simran Kumar,P00029,T-Shirt,Home & Kitchen,BrightLux,5,210.2,0.0,189.18,8.83,1249.01,Net Banking,Pending,Fort Worth,TX,United States,SELL01863
+ORD0076710,2022-07-07,CUST033527,Sunita Sharma,P00045,Phone Tripod,Toys & Games,CoreTech,5,265.12,0.3,46.4,7.68,982.0,Credit Card,Cancelled,Los Angeles,CA,United States,SELL01949
+ORD0019585,2023-07-12,CUST015288,Arjun Joshi,P00033,Puzzle 1000pc,Toys & Games,FitLife,3,359.93,0.15,110.14,10.96,1038.92,Credit Card,Delivered,Jacksonville,FL,India,SELL00784
+ORD0027098,2021-06-04,CUST000306,Aarav Joshi,P00016,Air Fryer,Home & Kitchen,KiddoFun,2,339.89,0.1,73.42,14.15,699.37,Debit Card,Shipped,Austin,TX,United States,SELL01837
+ORD0078794,2023-06-19,CUST033023,Sahil Mehta,P00024,Yoga Mat,Toys & Games,ReadMore,4,122.93,0.0,88.51,4.4,584.63,Amazon Pay,Delivered,Los Angeles,CA,United States,SELL01709
+ORD0063813,2020-11-24,CUST016828,Sneha Singh,P00018,Vacuum Cleaner,Books,Apex,4,422.24,0.05,128.36,12.73,1745.6,Credit Card,Delivered,Austin,TX,Canada,SELL00998
+ORD0007020,2024-01-22,CUST035997,Kabir Kapoor,P00015,Instant Pot,Books,ReadMore,4,182.88,0.0,36.58,9.75,777.85,Debit Card,Delivered,Houston,TX,United States,SELL00236
+ORD0075803,2024-03-07,CUST002685,Sahil Reddy,P00013,Action Camera,Sports & Outdoors,ReadMore,3,350.84,0.15,44.73,1.92,941.29,Credit Card,Delivered,Charlotte,NC,United States,SELL01761
+ORD0016191,2020-04-27,CUST039503,Arjun Kumar,P00013,Action Camera,Electronics,FitLife,4,508.6,0.0,162.75,5.35,2202.5,Amazon Pay,Delivered,Washington,DC,United States,SELL00031
+ORD0002240,2022-10-13,CUST036114,Ritika Kapoor,P00046,Car Charger,Toys & Games,NexPro,5,412.93,0.0,103.23,13.95,2181.83,Credit Card,Delivered,San Francisco,CA,United Kingdom,SELL01857
+ORD0085954,2023-09-19,CUST000154,Vivaan Kapoor,P00041,Webcam Full HD,Clothing,UrbanStyle,1,298.67,0.0,53.76,8.74,361.17,Debit Card,Shipped,Indianapolis,IN,United States,SELL01933
+ORD0019087,2020-08-17,CUST037446,Pooja Joshi,P00008,4K Monitor,Home & Kitchen,Zenith,2,300.28,0.0,48.04,3.61,652.21,Credit Card,Delivered,Los Angeles,CA,India,SELL01927
+ORD0077331,2024-06-06,CUST043286,Sneha Sharma,P00049,Children's Book,Home & Kitchen,FitLife,2,316.43,0.15,26.9,6.67,571.5,Amazon Pay,Delivered,Los Angeles,CA,United States,SELL01488
+ORD0013441,2024-11-03,CUST010560,Priya Kumar,P00009,Portable SSD 1TB,Sports & Outdoors,FitLife,3,102.57,0.0,24.62,3.86,336.19,Credit Card,Delivered,Denver,CO,United States,SELL00685
+ORD0086711,2022-07-09,CUST031674,Vivaan Gupta,P00036,Smart Light Bulb,Clothing,BrightLux,3,300.72,0.05,0.0,1.45,858.5,Credit Card,Delivered,San Jose,CA,United States,SELL01312
+ORD0000746,2024-02-16,CUST020811,Aditya Mehta,P00020,Office Chair,Toys & Games,FitLife,1,111.71,0.1,8.04,3.49,112.07,Debit Card,Cancelled,Dallas,TX,United States,SELL01943
+ORD0034087,2023-12-14,CUST005366,Vikas Kumar,P00048,Wireless Charger,Books,Apex,5,536.91,0.0,134.23,7.25,2826.03,Cash on Delivery,Shipped,Dallas,TX,United States,SELL01393
+ORD0046559,2023-10-29,CUST034352,Simran Mehta,P00037,Router,Electronics,ReadMore,3,55.86,0.05,19.1,13.5,191.8,UPI,Delivered,Denver,CO,India,SELL00264
+ORD0068616,2023-04-09,CUST003530,Sunita Kapoor,P00003,Smartphone Case,Toys & Games,UrbanStyle,1,470.88,0.0,23.54,10.31,504.73,Debit Card,Delivered,Phoenix,AZ,United States,SELL01346
+ORD0046761,2020-11-24,CUST027645,Vihaan Verma,P00035,Desk Plant,Home & Kitchen,Apex,5,215.88,0.1,48.57,6.56,1026.59,Net Banking,Delivered,Columbus,OH,United States,SELL01207
+ORD0080254,2023-08-28,CUST002240,Sahil Kapoor,P00048,Wireless Charger,Electronics,Zenith,1,489.46,0.1,35.24,7.1,482.85,UPI,Delivered,Denver,CO,India,SELL01160
+ORD0055910,2022-07-05,CUST035515,Vivaan Mehta,P00047,Memory Card 128GB,Toys & Games,ReadMore,5,339.74,0.05,80.69,4.15,1698.6,Credit Card,Shipped,Fort Worth,TX,United States,SELL00256
+ORD0009696,2024-04-01,CUST040776,Priya Mehta,P00015,Instant Pot,Toys & Games,KiddoFun,5,61.61,0.1,22.18,4.97,304.4,Credit Card,Delivered,Indianapolis,IN,Australia,SELL01670
+ORD0015845,2020-07-14,CUST038486,Rohit Reddy,P00046,Car Charger,Clothing,CoreTech,2,243.8,0.0,24.38,0.34,512.32,UPI,Delivered,Fort Worth,TX,India,SELL00797
+ORD0004932,2023-01-21,CUST024678,Sahil Singh,P00003,Smartphone Case,Toys & Games,Zenith,3,222.52,0.05,50.73,8.61,693.52,Credit Card,Delivered,San Diego,CA,United States,SELL01240
+ORD0096196,2020-06-18,CUST044901,Aman Kapoor,P00008,4K Monitor,Sports & Outdoors,KiddoFun,2,303.39,0.05,46.12,8.34,630.9,Amazon Pay,Delivered,San Jose,CA,United States,SELL01353
+ORD0062929,2023-09-29,CUST014695,Sneha Verma,P00033,Puzzle 1000pc,Toys & Games,HomeEase,5,75.79,0.0,45.47,8.97,433.39,Credit Card,Cancelled,Dallas,TX,United States,SELL00053
+ORD0018881,2020-12-22,CUST017880,Priya Patel,P00005,Laptop Sleeve,Electronics,ReadMore,1,274.17,0.15,41.95,6.21,281.2,Credit Card,Delivered,Houston,TX,United States,SELL01626
+ORD0086290,2021-05-21,CUST015806,Sahil Reddy,P00035,Desk Plant,Sports & Outdoors,FitLife,4,275.4,0.0,88.13,2.97,1192.7,Credit Card,Shipped,Columbus,OH,India,SELL01095
+ORD0050795,2024-01-06,CUST048843,Rohit Singh,P00027,Winter Jacket,Home & Kitchen,Apex,3,336.05,0.1,108.88,10.44,1026.66,UPI,Delivered,Houston,TX,United States,SELL01022
+ORD0088435,2024-10-03,CUST025069,Sunita Sharma,P00006,Gaming Mouse,Toys & Games,BrightLux,3,189.86,0.25,21.36,14.97,463.52,Net Banking,Delivered,Seattle,WA,United States,SELL00259
+ORD0099873,2024-04-06,CUST042450,Aman Patel,P00044,Power Bank 20000mAh,Sports & Outdoors,Zenith,1,427.56,0.1,46.18,11.09,442.07,Amazon Pay,Delivered,Denver,CO,United States,SELL01236
+ORD0061400,2023-04-24,CUST036825,Karan Kapoor,P00045,Phone Tripod,Clothing,HomeEase,2,434.7,0.2,55.64,7.53,758.69,Credit Card,Delivered,San Antonio,TX,United States,SELL01684
+ORD0031891,2024-06-04,CUST045491,Aditya Reddy,P00001,Wireless Earbuds,Sports & Outdoors,BrightLux,1,492.68,0.0,39.41,7.22,539.31,Cash on Delivery,Delivered,San Antonio,TX,United States,SELL01287
+ORD0030083,2024-05-31,CUST026199,Ritika Patel,P00007,Mechanical Keyboard,Sports & Outdoors,FitLife,3,480.42,0.0,172.95,10.86,1625.07,UPI,Delivered,Charlotte,NC,United States,SELL01594
+ORD0068334,2023-09-30,CUST020078,Mohit Verma,P00010,Smartwatch,Home & Kitchen,UrbanStyle,1,273.47,0.0,13.67,1.1,288.24,Debit Card,Delivered,Jacksonville,FL,United States,SELL01191
+ORD0079677,2020-12-05,CUST017989,Rohit Kumar,P00012,Noise Cancelling Headphones,Electronics,ReadMore,4,212.9,0.0,0.0,13.12,864.72,Amazon Pay,Delivered,Fort Worth,TX,Australia,SELL01090
+ORD0084252,2021-04-27,CUST022941,Sahil Verma,P00035,Desk Plant,Sports & Outdoors,HomeEase,3,509.28,0.15,64.93,1.94,1365.53,Amazon Pay,Delivered,San Francisco,CA,United States,SELL01731
+ORD0022525,2023-03-15,CUST039651,Ritika Joshi,P00019,LED Desk Lamp,Toys & Games,Apex,3,112.13,0.15,51.47,12.37,349.77,Debit Card,Delivered,Indianapolis,IN,United States,SELL00474
+ORD0074999,2022-08-02,CUST014927,Vikas Singh,P00018,Vacuum Cleaner,Clothing,ReadMore,5,436.4,0.0,261.84,10.61,2454.45,Net Banking,Delivered,San Diego,CA,United States,SELL01163
+ORD0086855,2021-02-02,CUST019179,Simran Joshi,P00037,Router,Clothing,ReadMore,5,56.34,0.0,14.09,8.56,304.35,Credit Card,Delivered,San Antonio,TX,United States,SELL01590
+ORD0081484,2023-11-09,CUST045802,Sunita Patel,P00003,Smartphone Case,Books,KiddoFun,5,270.32,0.05,102.72,6.48,1393.22,Debit Card,Delivered,Jacksonville,FL,Australia,SELL01950
+ORD0057244,2020-08-15,CUST040977,Vikas Kapoor,P00002,Bluetooth Speaker,Home & Kitchen,ReadMore,2,182.76,0.25,21.93,2.84,298.91,Net Banking,Delivered,San Jose,CA,United States,SELL00890
+ORD0085265,2021-07-09,CUST038805,Karan Kapoor,P00010,Smartwatch,Books,Apex,3,246.37,0.0,88.69,13.43,841.23,UPI,Delivered,Austin,TX,United States,SELL00595
+ORD0052532,2022-01-27,CUST034965,Kabir Joshi,P00005,Laptop Sleeve,Sports & Outdoors,CoreTech,1,328.94,0.0,0.0,5.19,334.13,Cash on Delivery,Delivered,Dallas,TX,United States,SELL01468
+ORD0010570,2024-08-22,CUST020517,Vivaan Joshi,P00048,Wireless Charger,Electronics,Zenith,5,67.59,0.0,16.9,12.38,367.23,Credit Card,Shipped,New York,NY,United States,SELL01933
+ORD0081195,2021-08-27,CUST047883,Rohit Sharma,P00035,Desk Plant,Home & Kitchen,ReadMore,5,179.39,0.0,71.76,10.54,979.25,Credit Card,Delivered,Phoenix,AZ,Canada,SELL00084
+ORD0026583,2021-07-29,CUST025529,Simran Sharma,P00012,Noise Cancelling Headphones,Electronics,HomeEase,4,351.26,0.0,70.25,3.14,1478.43,Credit Card,Shipped,Jacksonville,FL,United States,SELL01731
+ORD0085500,2021-10-07,CUST042078,Aman Verma,P00012,Noise Cancelling Headphones,Home & Kitchen,ReadMore,5,117.65,0.0,0.0,3.51,591.76,Amazon Pay,Delivered,Jacksonville,FL,India,SELL00195
+ORD0083493,2024-03-21,CUST003367,Sahil Kapoor,P00018,Vacuum Cleaner,Books,ReadMore,2,468.69,0.0,168.73,12.69,1118.8,Debit Card,Delivered,Los Angeles,CA,United States,SELL00027
+ORD0078783,2023-06-07,CUST002134,Kabir Verma,P00006,Gaming Mouse,Home & Kitchen,HomeEase,3,553.51,0.0,132.84,6.21,1799.58,Debit Card,Delivered,Charlotte,NC,United States,SELL01523
+ORD0074013,2024-05-17,CUST002455,Karan Gupta,P00022,Water Bottle,Electronics,BrightLux,5,50.17,0.0,20.07,0.17,271.09,Cash on Delivery,Shipped,San Jose,CA,United States,SELL01384
+ORD0018470,2021-03-16,CUST017280,Sunita Sharma,P00018,Vacuum Cleaner,Toys & Games,ReadMore,4,445.27,0.05,135.36,6.15,1833.54,Debit Card,Delivered,Chicago,IL,United States,SELL00723
+ORD0096464,2024-02-16,CUST025374,Rohit Mehta,P00024,Yoga Mat,Home & Kitchen,BrightLux,1,573.12,0.1,25.79,2.23,543.83,UPI,Delivered,Austin,TX,United States,SELL00777
+ORD0010226,2024-03-17,CUST003041,Aditya Mehta,P00022,Water Bottle,Sports & Outdoors,BrightLux,3,88.06,0.1,19.02,2.64,259.42,Cash on Delivery,Cancelled,Washington,DC,United States,SELL01596
+ORD0030663,2023-01-03,CUST017288,Aarav Kapoor,P00025,Running Shoes,Sports & Outdoors,HomeEase,4,342.34,0.0,68.47,6.5,1444.33,Debit Card,Delivered,Phoenix,AZ,United States,SELL01423
+ORD0006574,2020-04-13,CUST007276,Sneha Kumar,P00007,Mechanical Keyboard,Electronics,UrbanStyle,5,171.74,0.0,42.94,10.99,912.63,Credit Card,Delivered,San Antonio,TX,India,SELL01974
+ORD0004118,2020-01-01,CUST004055,Rohit Gupta,P00028,Jeans,Sports & Outdoors,FitLife,1,83.46,0.2,5.34,13.76,85.87,Cash on Delivery,Delivered,Phoenix,AZ,United States,SELL01376
+ORD0053368,2022-03-31,CUST008805,Sunita Gupta,P00029,T-Shirt,Home & Kitchen,FitLife,2,465.83,0.15,0.0,12.47,804.38,Net Banking,Delivered,Charlotte,NC,United States,SELL00510
+ORD0043785,2024-10-22,CUST034188,Aman Sharma,P00002,Bluetooth Speaker,Books,Apex,2,264.65,0.0,26.46,10.21,565.97,Debit Card,Delivered,Austin,TX,United States,SELL00811
+ORD0038499,2023-06-13,CUST022939,Kabir Singh,P00014,Drone Mini,Sports & Outdoors,UrbanStyle,5,190.72,0.1,42.91,5.96,907.11,Cash on Delivery,Delivered,Charlotte,NC,Canada,SELL00216
+ORD0058507,2022-07-19,CUST022464,Neha Singh,P00016,Air Fryer,Books,FitLife,2,448.35,0.05,68.15,14.57,934.58,UPI,Returned,Jacksonville,FL,United States,SELL00156
+ORD0050995,2024-10-05,CUST002940,Sunita Kumar,P00050,Novel Bestseller,Clothing,BrightLux,2,362.92,0.0,130.65,8.14,864.63,Credit Card,Delivered,Seattle,WA,United States,SELL00928
+ORD0015257,2022-05-24,CUST013686,Aarav Gupta,P00002,Bluetooth Speaker,Books,CoreTech,3,164.21,0.2,31.53,8.07,433.7,Debit Card,Delivered,San Diego,CA,Australia,SELL01515
+ORD0031896,2020-10-29,CUST041890,Sunita Patel,P00030,Dress Shirt,Sports & Outdoors,BrightLux,4,514.08,0.0,370.14,6.58,2433.04,Credit Card,Delivered,New York,NY,United States,SELL00981
+ORD0006655,2020-09-27,CUST001343,Arjun Singh,P00042,Projector Mini,Books,CoreTech,5,337.65,0.05,80.19,3.27,1687.3,Credit Card,Delivered,San Jose,CA,United States,SELL00084
+ORD0084515,2022-08-25,CUST016771,Anjali Reddy,P00035,Desk Plant,Toys & Games,NexPro,1,72.07,0.0,5.77,5.3,83.14,Debit Card,Delivered,Phoenix,AZ,United States,SELL01067
+ORD0091465,2024-12-13,CUST038742,Anjali Joshi,P00015,Instant Pot,Clothing,BrightLux,2,253.58,0.0,60.86,14.34,582.36,Amazon Pay,Delivered,San Francisco,CA,Canada,SELL01132
+ORD0003588,2023-11-23,CUST034589,Sunita Patel,P00020,Office Chair,Clothing,UrbanStyle,2,269.49,0.0,26.95,2.62,568.55,Credit Card,Delivered,Chicago,IL,United States,SELL01367
+ORD0010843,2023-05-06,CUST036105,Rohit Sharma,P00035,Desk Plant,Clothing,Zenith,5,524.93,0.0,0.0,5.1,2629.75,Amazon Pay,Delivered,Philadelphia,PA,United States,SELL00716
+ORD0030693,2022-08-19,CUST015262,Pooja Joshi,P00046,Car Charger,Toys & Games,UrbanStyle,4,252.15,0.05,114.98,12.45,1085.6,Debit Card,Delivered,San Antonio,TX,United States,SELL01883
+ORD0019363,2021-03-04,CUST014297,Vikas Patel,P00022,Water Bottle,Clothing,BrightLux,5,446.35,0.0,178.54,0.45,2410.74,Credit Card,Delivered,Jacksonville,FL,United States,SELL00375
+ORD0030204,2022-05-12,CUST001936,Anjali Mehta,P00001,Wireless Earbuds,Sports & Outdoors,ReadMore,1,259.46,0.0,12.97,13.85,286.28,Credit Card,Delivered,San Antonio,TX,United States,SELL00498
+ORD0095775,2022-12-31,CUST007752,Ritika Verma,P00029,T-Shirt,Electronics,NexPro,4,510.27,0.0,163.29,1.19,2205.56,Debit Card,Delivered,Indianapolis,IN,United States,SELL01809
+ORD0077046,2023-05-24,CUST030659,Vivaan Patel,P00025,Running Shoes,Books,Zenith,5,393.6,0.0,98.4,7.83,2074.23,Net Banking,Delivered,Denver,CO,India,SELL00449
+ORD0061929,2022-01-05,CUST020307,Vihaan Kumar,P00017,Electric Kettle,Electronics,HomeEase,3,59.77,0.05,30.66,6.3,207.3,Credit Card,Delivered,Austin,TX,United States,SELL01900
+ORD0026638,2022-05-01,CUST039886,Vikas Patel,P00023,Cookware Set,Clothing,HomeEase,5,349.22,0.25,157.15,7.69,1474.42,Credit Card,Delivered,Fort Worth,TX,United States,SELL01517
+ORD0070859,2023-02-19,CUST027765,Karan Reddy,P00043,HDMI Cable 2m,Electronics,FitLife,4,498.14,0.0,159.4,13.44,2165.4,Debit Card,Delivered,Indianapolis,IN,United States,SELL01198
+ORD0040524,2021-11-29,CUST007064,Aarav Singh,P00028,Jeans,Books,Apex,1,414.94,0.05,0.0,0.24,394.43,Debit Card,Delivered,Phoenix,AZ,United Kingdom,SELL01674
+ORD0080861,2020-11-17,CUST028831,Sneha Singh,P00004,USB-C Charger,Clothing,FitLife,2,359.02,0.15,48.83,1.0,660.16,Credit Card,Delivered,San Jose,CA,United Kingdom,SELL01891
+ORD0077703,2022-11-19,CUST038618,Anjali Kapoor,P00033,Puzzle 1000pc,Books,NexPro,2,592.26,0.05,56.26,6.52,1188.07,Debit Card,Delivered,San Antonio,TX,United States,SELL00792
+ORD0058574,2023-09-09,CUST023357,Mohit Singh,P00023,Cookware Set,Electronics,Apex,3,255.44,0.15,0.0,11.65,663.02,Debit Card,Delivered,Houston,TX,United States,SELL00909
+ORD0086062,2020-07-17,CUST026275,Aditya Patel,P00044,Power Bank 20000mAh,Electronics,Zenith,4,345.0,0.05,235.98,12.03,1559.01,Debit Card,Delivered,Austin,TX,United States,SELL01505
+ORD0043657,2023-03-11,CUST046240,Ritika Joshi,P00031,Kids Toy Car,Toys & Games,FitLife,2,203.92,0.0,0.0,6.43,414.27,Credit Card,Pending,Denver,CO,United States,SELL01841
+ORD0083608,2024-05-11,CUST002606,Aarav Gupta,P00002,Bluetooth Speaker,Sports & Outdoors,ReadMore,3,469.41,0.0,168.99,8.4,1585.62,Amazon Pay,Delivered,Philadelphia,PA,United Kingdom,SELL01750
+ORD0076470,2021-10-13,CUST030799,Anjali Reddy,P00005,Laptop Sleeve,Clothing,KiddoFun,1,329.43,0.05,37.56,1.24,351.76,Credit Card,Shipped,Fort Worth,TX,United States,SELL00260
+ORD0066272,2023-01-24,CUST042473,Vivaan Mehta,P00012,Noise Cancelling Headphones,Toys & Games,Apex,4,564.8,0.0,406.66,8.45,2674.31,Credit Card,Delivered,Houston,TX,United States,SELL00769
+ORD0067697,2023-08-24,CUST002663,Mohit Sharma,P00039,Graphic Tablet,Toys & Games,CoreTech,1,308.8,0.05,14.67,12.99,321.02,Credit Card,Delivered,Philadelphia,PA,United States,SELL01813
+ORD0089733,2023-04-03,CUST046083,Aditya Singh,P00042,Projector Mini,Books,FitLife,2,164.76,0.15,0.0,13.12,293.21,Debit Card,Delivered,San Francisco,CA,Canada,SELL00295
+ORD0026612,2022-08-06,CUST042750,Priya Reddy,P00009,Portable SSD 1TB,Toys & Games,CoreTech,1,298.43,0.0,53.72,5.41,357.56,Credit Card,Delivered,San Jose,CA,United States,SELL01684
+ORD0016276,2023-04-12,CUST004495,Sahil Verma,P00043,HDMI Cable 2m,Home & Kitchen,BrightLux,5,559.2,0.1,125.82,13.04,2655.26,UPI,Shipped,Seattle,WA,United States,SELL01824
+ORD0052745,2024-12-06,CUST032239,Vivaan Verma,P00013,Action Camera,Clothing,HomeEase,3,42.89,0.05,14.67,10.57,147.48,Net Banking,Pending,Chicago,IL,United States,SELL01270
+ORD0078969,2021-05-20,CUST027216,Vikas Kapoor,P00047,Memory Card 128GB,Toys & Games,UrbanStyle,3,134.51,0.1,29.05,14.37,406.6,Credit Card,Shipped,San Jose,CA,United States,SELL01945
+ORD0026284,2022-03-06,CUST007918,Pooja Reddy,P00035,Desk Plant,Clothing,NexPro,3,115.47,0.05,39.49,14.39,382.97,Amazon Pay,Returned,San Diego,CA,United States,SELL01126
+ORD0096325,2020-10-13,CUST010532,Sahil Joshi,P00009,Portable SSD 1TB,Electronics,Zenith,3,247.92,0.0,89.25,14.67,847.68,Debit Card,Delivered,San Jose,CA,United States,SELL01485
+ORD0099565,2022-06-27,CUST010498,Aman Verma,P00022,Water Bottle,Clothing,HomeEase,1,395.97,0.05,18.81,10.07,405.05,Debit Card,Delivered,Dallas,TX,United States,SELL00416
+ORD0041550,2022-11-08,CUST024256,Karan Reddy,P00008,4K Monitor,Sports & Outdoors,Zenith,1,325.41,0.05,55.65,2.11,366.9,Debit Card,Delivered,Los Angeles,CA,United States,SELL00152
+ORD0061253,2021-02-09,CUST049664,Pooja Joshi,P00045,Phone Tripod,Electronics,BrightLux,2,31.54,0.1,4.54,8.54,69.85,Credit Card,Delivered,Jacksonville,FL,United States,SELL00897
+ORD0068185,2023-02-02,CUST046099,Sunita Kapoor,P00006,Gaming Mouse,Electronics,KiddoFun,3,36.99,0.0,5.55,0.83,117.35,Cash on Delivery,Delivered,San Francisco,CA,United States,SELL00901
+ORD0038425,2020-10-03,CUST006088,Aman Verma,P00024,Yoga Mat,Toys & Games,CoreTech,2,318.91,0.05,30.3,12.58,648.81,UPI,Pending,Phoenix,AZ,United States,SELL00328
+ORD0043456,2023-10-05,CUST039529,Anjali Kapoor,P00041,Webcam Full HD,Toys & Games,KiddoFun,2,91.97,0.05,0.0,14.86,189.6,Amazon Pay,Delivered,New York,NY,United States,SELL01500
+ORD0014325,2024-09-24,CUST047336,Anjali Patel,P00003,Smartphone Case,Clothing,UrbanStyle,2,249.23,0.05,56.82,12.09,542.45,Net Banking,Shipped,Columbus,OH,United States,SELL01333
+ORD0032454,2020-03-11,CUST001860,Vikas Mehta,P00029,T-Shirt,Toys & Games,UrbanStyle,1,321.99,0.1,14.49,1.37,305.65,Debit Card,Delivered,Chicago,IL,India,SELL00420
+ORD0033895,2024-01-28,CUST014349,Neha Kapoor,P00049,Children's Book,Home & Kitchen,NexPro,5,469.26,0.0,422.33,6.39,2775.02,Debit Card,Delivered,San Antonio,TX,India,SELL01238
+ORD0045502,2021-07-18,CUST034301,Aditya Singh,P00042,Projector Mini,Electronics,KiddoFun,1,380.1,0.1,0.0,10.87,352.96,Credit Card,Delivered,Philadelphia,PA,United States,SELL01637
+ORD0036289,2022-10-30,CUST028394,Pooja Joshi,P00013,Action Camera,Electronics,Zenith,4,431.54,0.0,138.09,8.16,1872.41,Debit Card,Delivered,Phoenix,AZ,United States,SELL00123
+ORD0041695,2022-04-24,CUST004181,Arjun Joshi,P00026,Sunglasses,Books,CoreTech,4,225.83,0.3,31.62,3.89,667.83,Net Banking,Delivered,Jacksonville,FL,United States,SELL00775
+ORD0042702,2024-02-03,CUST004171,Simran Kumar,P00013,Action Camera,Sports & Outdoors,Apex,1,26.34,0.0,1.32,2.77,30.43,Credit Card,Shipped,Columbus,OH,Australia,SELL00679
+ORD0081794,2021-04-11,CUST000784,Vihaan Mehta,P00006,Gaming Mouse,Electronics,Apex,4,546.28,0.05,249.1,9.61,2334.57,Debit Card,Delivered,Chicago,IL,United States,SELL00938
+ORD0066987,2024-07-05,CUST002285,Sunita Joshi,P00035,Desk Plant,Toys & Games,Apex,5,413.14,0.1,92.96,3.57,1955.66,Credit Card,Shipped,Denver,CO,United States,SELL00166
+ORD0073353,2021-06-27,CUST033416,Mohit Patel,P00021,Backpack,Electronics,BrightLux,5,391.14,0.0,97.78,9.24,2062.72,UPI,Delivered,Houston,TX,United States,SELL00773
+ORD0084526,2020-09-18,CUST041077,Simran Singh,P00017,Electric Kettle,Home & Kitchen,NexPro,4,180.01,0.0,86.4,6.59,813.03,Net Banking,Returned,San Jose,CA,United States,SELL01257
+ORD0042607,2022-01-15,CUST048101,Priya Singh,P00025,Running Shoes,Books,Apex,2,319.24,0.0,51.08,10.96,700.52,Credit Card,Delivered,Los Angeles,CA,United States,SELL01751
+ORD0066019,2022-03-07,CUST017078,Aarav Patel,P00006,Gaming Mouse,Toys & Games,BrightLux,4,394.38,0.0,78.88,12.28,1668.68,UPI,Delivered,Charlotte,NC,United States,SELL00801
+ORD0062851,2022-05-06,CUST006808,Vihaan Mehta,P00022,Water Bottle,Sports & Outdoors,CoreTech,2,154.05,0.1,13.86,9.06,300.21,Credit Card,Delivered,San Diego,CA,India,SELL01866
+ORD0004890,2020-08-03,CUST004357,Rohit Sharma,P00036,Smart Light Bulb,Electronics,FitLife,1,540.96,0.15,22.99,6.31,489.12,Credit Card,Delivered,Austin,TX,United States,SELL01206
+ORD0038196,2024-06-11,CUST045788,Vivaan Reddy,P00045,Phone Tripod,Books,Apex,1,514.87,0.05,24.46,13.76,527.35,Net Banking,Delivered,San Jose,CA,United States,SELL01000
+ORD0079503,2020-12-28,CUST049033,Kabir Gupta,P00043,HDMI Cable 2m,Books,ReadMore,2,436.45,0.0,104.75,12.24,989.89,Debit Card,Delivered,San Francisco,CA,Australia,SELL00484
+ORD0035335,2023-07-14,CUST045752,Neha Patel,P00033,Puzzle 1000pc,Sports & Outdoors,ReadMore,5,427.13,0.0,0.0,2.43,2138.08,Credit Card,Delivered,Washington,DC,India,SELL00488
+ORD0033946,2021-03-27,CUST015439,Aditya Sharma,P00038,External HDD 2TB,Sports & Outdoors,FitLife,5,487.33,0.05,0.0,11.64,2326.46,Credit Card,Delivered,Houston,TX,United States,SELL01203
+ORD0099568,2020-08-11,CUST023170,Priya Kapoor,P00005,Laptop Sleeve,Clothing,UrbanStyle,5,43.04,0.0,25.82,13.43,254.45,Credit Card,Shipped,San Jose,CA,Canada,SELL01094
+ORD0070988,2022-07-29,CUST023003,Aarav Patel,P00039,Graphic Tablet,Sports & Outdoors,NexPro,1,221.14,0.0,39.81,8.18,269.13,Debit Card,Delivered,Jacksonville,FL,United States,SELL01485
+ORD0005759,2020-11-25,CUST038096,Sunita Patel,P00023,Cookware Set,Clothing,HomeEase,3,285.16,0.05,146.29,0.87,959.87,Debit Card,Delivered,Charlotte,NC,United States,SELL00610
+ORD0028271,2022-11-06,CUST018912,Simran Mehta,P00020,Office Chair,Electronics,CoreTech,5,308.56,0.05,117.25,9.08,1591.99,Credit Card,Shipped,Columbus,OH,India,SELL00394
+ORD0093206,2021-02-04,CUST030517,Priya Singh,P00023,Cookware Set,Sports & Outdoors,KiddoFun,3,54.83,0.05,7.81,9.0,173.08,Credit Card,Delivered,Seattle,WA,India,SELL00735
+ORD0006105,2022-07-27,CUST040107,Neha Singh,P00022,Water Bottle,Books,BrightLux,5,252.53,0.0,63.13,1.82,1327.6,Debit Card,Shipped,Dallas,TX,United States,SELL00097
+ORD0026627,2020-06-17,CUST011452,Arjun Sharma,P00028,Jeans,Home & Kitchen,NexPro,3,505.59,0.2,60.67,13.44,1287.53,Credit Card,Delivered,Seattle,WA,United States,SELL01861
+ORD0009107,2022-10-13,CUST038460,Anjali Sharma,P00030,Dress Shirt,Books,BrightLux,2,246.97,0.0,39.52,0.82,534.28,Credit Card,Delivered,Jacksonville,FL,United States,SELL01847
+ORD0073096,2021-05-20,CUST009347,Sahil Mehta,P00039,Graphic Tablet,Sports & Outdoors,CoreTech,3,565.02,0.0,135.6,13.63,1844.29,Net Banking,Cancelled,Charlotte,NC,United States,SELL01597
+ORD0057467,2024-08-25,CUST048948,Karan Mehta,P00009,Portable SSD 1TB,Electronics,HomeEase,3,259.51,0.15,33.09,10.25,705.09,UPI,Delivered,Phoenix,AZ,United States,SELL00279
+ORD0060441,2021-05-11,CUST034876,Mohit Joshi,P00033,Puzzle 1000pc,Electronics,NexPro,2,466.63,0.0,74.66,7.97,1015.89,UPI,Delivered,New York,NY,United States,SELL01963
+ORD0066363,2021-10-22,CUST010431,Sunita Mehta,P00049,Children's Book,Home & Kitchen,Apex,5,531.05,0.0,318.63,14.34,2988.22,Net Banking,Delivered,Denver,CO,United States,SELL00273
+ORD0071881,2024-11-13,CUST035457,Arjun Kapoor,P00032,Board Game,Books,KiddoFun,5,132.85,0.3,37.2,10.01,512.18,Credit Card,Delivered,San Diego,CA,India,SELL00169
+ORD0016860,2021-07-01,CUST046912,Sneha Sharma,P00032,Board Game,Home & Kitchen,UrbanStyle,4,263.42,0.05,50.05,11.59,1062.64,UPI,Delivered,New York,NY,India,SELL01735
+ORD0010285,2024-10-11,CUST046711,Neha Patel,P00032,Board Game,Sports & Outdoors,Apex,1,390.37,0.1,28.11,5.57,385.01,Net Banking,Delivered,Washington,DC,United States,SELL00122
+ORD0081899,2021-02-26,CUST007999,Kabir Patel,P00019,LED Desk Lamp,Clothing,NexPro,1,210.9,0.2,8.44,12.13,189.29,Cash on Delivery,Delivered,Charlotte,NC,United States,SELL00630
+ORD0014114,2023-03-11,CUST020107,Mohit Mehta,P00001,Wireless Earbuds,Sports & Outdoors,CoreTech,2,147.2,0.0,52.99,2.95,350.34,Debit Card,Delivered,Indianapolis,IN,United States,SELL01779
+ORD0026352,2022-09-05,CUST042320,Mohit Reddy,P00026,Sunglasses,Electronics,Apex,3,362.82,0.0,130.62,5.78,1224.86,Amazon Pay,Delivered,New York,NY,India,SELL01314
+ORD0046674,2021-09-05,CUST026401,Anjali Gupta,P00009,Portable SSD 1TB,Sports & Outdoors,CoreTech,3,241.49,0.2,104.32,5.12,689.02,Credit Card,Delivered,Charlotte,NC,United States,SELL01318
+ORD0060869,2021-01-08,CUST001336,Neha Gupta,P00021,Backpack,Clothing,UrbanStyle,2,477.46,0.0,0.0,10.59,965.51,Credit Card,Delivered,Jacksonville,FL,India,SELL01782
+ORD0019117,2024-07-20,CUST005809,Vivaan Gupta,P00010,Smartwatch,Books,KiddoFun,2,59.41,0.05,9.03,7.42,129.33,Debit Card,Delivered,Columbus,OH,United States,SELL00669
+ORD0008649,2023-04-29,CUST025079,Sneha Kumar,P00003,Smartphone Case,Sports & Outdoors,FitLife,2,359.44,0.15,73.33,6.76,691.14,UPI,Delivered,San Francisco,CA,India,SELL01444
+ORD0082585,2022-11-01,CUST024427,Mohit Sharma,P00039,Graphic Tablet,Clothing,BrightLux,5,154.65,0.1,55.67,6.44,758.04,Amazon Pay,Delivered,Indianapolis,IN,United Kingdom,SELL01282
+ORD0086458,2024-05-11,CUST001673,Karan Patel,P00041,Webcam Full HD,Toys & Games,ReadMore,1,75.74,0.25,2.84,2.99,62.64,Credit Card,Delivered,Washington,DC,United States,SELL00049
+ORD0077972,2022-09-28,CUST001535,Kabir Joshi,P00040,Microphone,Toys & Games,HomeEase,4,6.3,0.0,3.02,5.15,33.37,Credit Card,Shipped,Charlotte,NC,United States,SELL01359
+ORD0071703,2023-07-01,CUST032546,Ritika Kapoor,P00049,Children's Book,Books,FitLife,4,148.76,0.05,67.83,5.1,638.22,Credit Card,Delivered,Indianapolis,IN,United States,SELL01122
+ORD0012148,2024-11-12,CUST024321,Vivaan Reddy,P00006,Gaming Mouse,Sports & Outdoors,BrightLux,3,354.32,0.2,0.0,10.19,860.56,Credit Card,Pending,San Jose,CA,United States,SELL01693
+ORD0085027,2021-11-30,CUST021231,Priya Sharma,P00017,Electric Kettle,Toys & Games,NexPro,3,393.27,0.0,0.0,5.11,1184.92,Cash on Delivery,Returned,Jacksonville,FL,Canada,SELL00736
+ORD0089007,2023-05-13,CUST013178,Vikas Patel,P00020,Office Chair,Home & Kitchen,CoreTech,1,270.84,0.2,10.83,12.22,239.72,Credit Card,Delivered,Washington,DC,United States,SELL00926
+ORD0013613,2024-07-21,CUST030293,Anjali Sharma,P00033,Puzzle 1000pc,Home & Kitchen,HomeEase,2,389.88,0.0,93.57,12.28,885.61,Credit Card,Delivered,San Antonio,TX,United States,SELL01625
+ORD0057797,2024-05-06,CUST031886,Sahil Singh,P00044,Power Bank 20000mAh,Toys & Games,CoreTech,1,478.01,0.0,0.0,8.41,486.42,Cash on Delivery,Delivered,San Francisco,CA,United States,SELL01467
+ORD0015237,2023-07-24,CUST002163,Karan Kumar,P00035,Desk Plant,Sports & Outdoors,ReadMore,5,271.83,0.2,86.99,9.98,1184.29,Credit Card,Delivered,Austin,TX,United States,SELL00550
+ORD0064141,2023-02-09,CUST011550,Ritika Sharma,P00002,Bluetooth Speaker,Clothing,BrightLux,5,500.56,0.2,0.0,14.1,2016.34,Net Banking,Delivered,Dallas,TX,United Kingdom,SELL00093
+ORD0045585,2020-08-30,CUST043280,Vikas Verma,P00008,4K Monitor,Electronics,BrightLux,2,50.4,0.1,4.54,10.39,105.65,Credit Card,Delivered,Charlotte,NC,United States,SELL01948
+ORD0061957,2023-08-03,CUST045452,Sunita Patel,P00011,Fitness Band,Sports & Outdoors,BrightLux,2,419.52,0.1,37.76,8.63,801.53,Debit Card,Delivered,Houston,TX,United States,SELL00152
+ORD0070353,2022-09-04,CUST016765,Kabir Singh,P00044,Power Bank 20000mAh,Sports & Outdoors,BrightLux,4,211.73,0.05,40.23,0.42,845.22,Debit Card,Delivered,Phoenix,AZ,Canada,SELL01384
+ORD0007857,2021-01-01,CUST043003,Mohit Joshi,P00025,Running Shoes,Electronics,Apex,5,306.89,0.05,0.0,4.89,1462.62,UPI,Shipped,Indianapolis,IN,India,SELL00094
+ORD0061076,2021-11-12,CUST009027,Aman Kumar,P00028,Jeans,Home & Kitchen,Zenith,4,505.81,0.1,218.51,5.63,2045.06,Amazon Pay,Delivered,Indianapolis,IN,Australia,SELL01367
+ORD0071473,2024-12-08,CUST032339,Kabir Singh,P00050,Novel Bestseller,Sports & Outdoors,KiddoFun,5,417.31,0.0,166.92,6.52,2259.99,UPI,Delivered,Dallas,TX,United States,SELL00112
+ORD0084431,2022-02-20,CUST008726,Arjun Sharma,P00035,Desk Plant,Books,Zenith,1,566.45,0.05,26.91,1.68,566.72,Cash on Delivery,Delivered,Phoenix,AZ,United States,SELL00849
+ORD0066232,2022-01-28,CUST048558,Sunita Gupta,P00048,Wireless Charger,Toys & Games,NexPro,5,92.92,0.0,37.17,4.14,505.91,Net Banking,Delivered,Los Angeles,CA,United States,SELL00674
+ORD0078124,2024-03-14,CUST033690,Sneha Joshi,P00012,Noise Cancelling Headphones,Clothing,NexPro,2,438.93,0.05,100.08,7.65,941.7,Net Banking,Shipped,Los Angeles,CA,United States,SELL00191
+ORD0095599,2024-08-27,CUST035076,Aditya Patel,P00028,Jeans,Home & Kitchen,UrbanStyle,5,123.59,0.2,59.32,2.65,556.33,Credit Card,Delivered,Denver,CO,United States,SELL01794
+ORD0079570,2022-05-10,CUST039119,Pooja Reddy,P00050,Novel Bestseller,Toys & Games,HomeEase,3,409.72,0.0,0.0,14.22,1243.38,Net Banking,Delivered,Jacksonville,FL,Canada,SELL00494
+ORD0004934,2023-12-22,CUST004039,Simran Gupta,P00033,Puzzle 1000pc,Books,UrbanStyle,5,502.99,0.1,113.17,5.61,2382.24,Debit Card,Delivered,Chicago,IL,India,SELL01863
+ORD0062658,2022-06-23,CUST003966,Sahil Mehta,P00042,Projector Mini,Electronics,Zenith,4,389.12,0.0,124.52,3.01,1684.01,Credit Card,Delivered,Denver,CO,United States,SELL01509
+ORD0018751,2020-01-27,CUST009800,Vihaan Joshi,P00047,Memory Card 128GB,Clothing,HomeEase,5,423.7,0.3,118.64,3.05,1604.64,Debit Card,Delivered,Los Angeles,CA,United States,SELL00612
+ORD0011069,2022-10-27,CUST011497,Neha Reddy,P00040,Microphone,Toys & Games,HomeEase,5,346.56,0.0,138.62,2.79,1874.21,Net Banking,Delivered,Houston,TX,United States,SELL00676
+ORD0044623,2022-07-19,CUST020023,Ritika Singh,P00001,Wireless Earbuds,Sports & Outdoors,ReadMore,1,343.83,0.0,17.19,5.79,366.81,Debit Card,Delivered,Chicago,IL,United States,SELL00271
+ORD0085940,2023-03-22,CUST002946,Sunita Joshi,P00046,Car Charger,Books,KiddoFun,5,447.85,0.15,95.17,4.86,2003.39,Credit Card,Delivered,San Antonio,TX,United States,SELL00513
+ORD0062655,2020-11-25,CUST024494,Pooja Sharma,P00042,Projector Mini,Books,FitLife,5,237.66,0.25,71.3,0.65,963.17,Credit Card,Delivered,New York,NY,United States,SELL00531
+ORD0024953,2024-12-26,CUST002366,Aarav Verma,P00037,Router,Toys & Games,UrbanStyle,5,411.33,0.1,92.55,13.56,1957.1,Credit Card,Delivered,San Diego,CA,United States,SELL01575
+ORD0050062,2022-01-26,CUST037093,Pooja Mehta,P00044,Power Bank 20000mAh,Books,Zenith,5,587.98,0.1,132.3,4.82,2783.03,UPI,Delivered,Dallas,TX,Canada,SELL00589
+ORD0070839,2023-06-10,CUST023276,Aman Sharma,P00011,Fitness Band,Electronics,Zenith,3,74.8,0.0,40.39,1.51,266.3,UPI,Delivered,Los Angeles,CA,Canada,SELL01748
+ORD0092333,2021-04-01,CUST021160,Aarav Kumar,P00016,Air Fryer,Books,FitLife,3,163.86,0.05,56.04,8.83,531.87,Debit Card,Shipped,Washington,DC,United States,SELL01915
+ORD0011367,2024-02-12,CUST047022,Ritika Singh,P00041,Webcam Full HD,Toys & Games,BrightLux,1,364.4,0.0,43.73,14.25,422.38,Credit Card,Delivered,San Francisco,CA,United States,SELL00982
+ORD0078285,2020-04-04,CUST014801,Aarav Verma,P00040,Microphone,Electronics,ReadMore,5,558.83,0.0,0.0,12.53,2806.68,Debit Card,Shipped,Seattle,WA,Canada,SELL01440
+ORD0095412,2024-08-10,CUST036146,Ritika Joshi,P00047,Memory Card 128GB,Sports & Outdoors,ReadMore,3,460.97,0.05,105.1,8.5,1427.36,Credit Card,Delivered,New York,NY,India,SELL01667
+ORD0064947,2021-10-30,CUST005746,Kabir Gupta,P00035,Desk Plant,Clothing,FitLife,1,499.63,0.1,0.0,10.66,460.33,Amazon Pay,Delivered,San Antonio,TX,United States,SELL00306
+ORD0056650,2023-11-07,CUST039448,Rohit Singh,P00034,Desk Organizer,Toys & Games,KiddoFun,3,572.47,0.15,116.78,6.35,1582.93,Amazon Pay,Returned,Charlotte,NC,United States,SELL01359
+ORD0087212,2020-05-30,CUST042135,Vivaan Kumar,P00013,Action Camera,Sports & Outdoors,BrightLux,5,351.98,0.05,83.6,10.43,1765.94,Amazon Pay,Delivered,Washington,DC,India,SELL01174
+ORD0018888,2024-10-21,CUST008407,Sneha Kumar,P00027,Winter Jacket,Home & Kitchen,KiddoFun,2,313.67,0.3,35.13,11.84,486.11,UPI,Delivered,Washington,DC,United States,SELL01772
+ORD0078682,2021-11-07,CUST038716,Sneha Kapoor,P00016,Air Fryer,Home & Kitchen,KiddoFun,5,286.0,0.05,244.53,0.98,1604.01,Debit Card,Shipped,Dallas,TX,United States,SELL00826
+ORD0065031,2024-08-10,CUST015842,Aarav Singh,P00006,Gaming Mouse,Books,Apex,2,110.79,0.05,16.84,5.04,232.38,Cash on Delivery,Delivered,Houston,TX,India,SELL01151
+ORD0069491,2021-09-29,CUST038055,Simran Joshi,P00015,Instant Pot,Electronics,Zenith,2,483.53,0.0,48.35,9.42,1024.83,Credit Card,Delivered,San Francisco,CA,United Kingdom,SELL00039
+ORD0019989,2022-07-24,CUST013443,Neha Singh,P00046,Car Charger,Electronics,NexPro,3,575.71,0.0,138.17,4.81,1870.11,Cash on Delivery,Delivered,Houston,TX,United States,SELL00715
+ORD0013941,2024-10-24,CUST049234,Vihaan Reddy,P00029,T-Shirt,Toys & Games,KiddoFun,2,420.93,0.15,57.25,4.88,777.71,Credit Card,Pending,Indianapolis,IN,India,SELL00599
+ORD0019675,2021-05-26,CUST027035,Simran Sharma,P00021,Backpack,Electronics,FitLife,4,550.47,0.2,0.0,14.37,1775.87,Debit Card,Delivered,Dallas,TX,United States,SELL01044
+ORD0068934,2021-02-03,CUST010630,Sahil Reddy,P00025,Running Shoes,Electronics,Apex,1,425.77,0.0,51.09,4.5,481.36,Credit Card,Delivered,Jacksonville,FL,Australia,SELL01428
+ORD0048347,2021-01-18,CUST013870,Aditya Joshi,P00042,Projector Mini,Electronics,KiddoFun,4,346.24,0.1,62.32,13.95,1322.73,UPI,Delivered,Jacksonville,FL,United States,SELL01276
+ORD0061604,2021-02-22,CUST030826,Aditya Kumar,P00006,Gaming Mouse,Sports & Outdoors,BrightLux,3,532.03,0.05,181.95,5.08,1703.32,Debit Card,Delivered,Denver,CO,United States,SELL00906
+ORD0082775,2023-11-16,CUST010827,Simran Verma,P00038,External HDD 2TB,Sports & Outdoors,ReadMore,5,491.23,0.05,116.67,7.24,2457.25,Debit Card,Delivered,San Jose,CA,United States,SELL01961
+ORD0072873,2022-04-07,CUST040914,Mohit Reddy,P00028,Jeans,Clothing,KiddoFun,4,55.08,0.0,26.44,14.59,261.35,Credit Card,Shipped,New York,NY,India,SELL00551
+ORD0021630,2020-06-25,CUST029652,Vikas Mehta,P00048,Wireless Charger,Clothing,Zenith,5,382.7,0.0,153.08,7.81,2074.39,Credit Card,Delivered,Indianapolis,IN,United Kingdom,SELL01057
+ORD0018304,2022-05-22,CUST027043,Priya Joshi,P00005,Laptop Sleeve,Electronics,Zenith,1,518.33,0.1,83.97,7.3,557.77,Credit Card,Shipped,Los Angeles,CA,India,SELL01891
+ORD0031895,2024-09-22,CUST020117,Kabir Gupta,P00001,Wireless Earbuds,Sports & Outdoors,HomeEase,3,424.91,0.15,54.18,3.35,1141.05,Credit Card,Delivered,Houston,TX,India,SELL01060
+ORD0034871,2024-02-28,CUST035280,Karan Verma,P00017,Electric Kettle,Home & Kitchen,KiddoFun,3,156.69,0.25,42.31,10.16,405.02,Net Banking,Delivered,Jacksonville,FL,India,SELL00099
+ORD0015941,2023-04-17,CUST027101,Neha Patel,P00041,Webcam Full HD,Toys & Games,FitLife,1,125.09,0.1,9.01,14.52,136.11,UPI,Delivered,San Antonio,TX,United States,SELL01193
+ORD0009454,2020-05-06,CUST007483,Neha Reddy,P00045,Phone Tripod,Sports & Outdoors,Apex,3,35.18,0.0,5.28,8.32,119.14,Credit Card,Delivered,Phoenix,AZ,United States,SELL00401
+ORD0079913,2024-09-18,CUST037665,Vikas Patel,P00037,Router,Toys & Games,CoreTech,5,185.16,0.0,0.0,1.52,927.32,Credit Card,Delivered,Austin,TX,United States,SELL01688
+ORD0014555,2021-05-05,CUST013876,Rohit Gupta,P00045,Phone Tripod,Sports & Outdoors,UrbanStyle,1,595.34,0.1,0.0,6.91,542.72,Credit Card,Pending,Charlotte,NC,United States,SELL01482
+ORD0079462,2023-12-31,CUST030408,Aman Kumar,P00031,Kids Toy Car,Electronics,ReadMore,3,144.39,0.05,32.92,11.37,455.8,Credit Card,Delivered,Fort Worth,TX,United States,SELL01862
+ORD0009285,2021-08-10,CUST007276,Aman Verma,P00036,Smart Light Bulb,Electronics,FitLife,2,515.89,0.0,51.59,5.37,1088.74,Net Banking,Delivered,Phoenix,AZ,United States,SELL00741
+ORD0077346,2020-04-28,CUST030866,Neha Mehta,P00026,Sunglasses,Sports & Outdoors,BrightLux,1,252.04,0.05,43.1,10.56,293.1,Debit Card,Delivered,New York,NY,Canada,SELL01959
+ORD0090152,2020-01-11,CUST029432,Sunita Reddy,P00023,Cookware Set,Sports & Outdoors,BrightLux,3,406.77,0.0,97.62,4.47,1322.4,Cash on Delivery,Delivered,Jacksonville,FL,United Kingdom,SELL01710
+ORD0085594,2024-03-19,CUST036287,Simran Verma,P00013,Action Camera,Sports & Outdoors,HomeEase,2,567.35,0.15,77.16,7.27,1048.92,UPI,Delivered,Houston,TX,United States,SELL01087
+ORD0070023,2021-01-11,CUST007001,Neha Reddy,P00019,LED Desk Lamp,Home & Kitchen,CoreTech,3,258.73,0.25,104.79,10.4,697.33,Credit Card,Delivered,Houston,TX,India,SELL00334
+ORD0045286,2023-06-22,CUST043655,Karan Reddy,P00019,LED Desk Lamp,Clothing,NexPro,4,232.6,0.1,41.87,0.89,880.12,Amazon Pay,Shipped,Seattle,WA,United States,SELL01755
+ORD0089055,2023-04-16,CUST043338,Sneha Sharma,P00045,Phone Tripod,Home & Kitchen,BrightLux,5,150.49,0.0,60.2,9.46,822.11,Credit Card,Delivered,Columbus,OH,United States,SELL00449
+ORD0070662,2021-04-04,CUST029864,Vikas Verma,P00006,Gaming Mouse,Toys & Games,Zenith,3,171.88,0.05,24.49,13.59,527.94,Debit Card,Delivered,Jacksonville,FL,United States,SELL01681
+ORD0030111,2023-01-03,CUST040355,Ritika Kapoor,P00025,Running Shoes,Books,HomeEase,1,305.02,0.15,31.11,12.6,302.98,Net Banking,Delivered,Phoenix,AZ,United States,SELL01337
+ORD0009400,2020-02-11,CUST025155,Vivaan Verma,P00007,Mechanical Keyboard,Books,CoreTech,3,211.75,0.1,45.74,8.42,625.88,Net Banking,Delivered,Washington,DC,India,SELL00652
+ORD0089269,2020-09-14,CUST030049,Sneha Sharma,P00010,Smartwatch,Toys & Games,NexPro,1,491.85,0.0,24.59,13.67,530.11,Amazon Pay,Delivered,Chicago,IL,Canada,SELL01798
+ORD0071389,2022-05-02,CUST026318,Karan Kapoor,P00018,Vacuum Cleaner,Home & Kitchen,KiddoFun,4,516.52,0.2,132.23,6.5,1791.59,UPI,Delivered,San Diego,CA,United States,SELL01765
+ORD0091964,2020-03-08,CUST011934,Mohit Singh,P00020,Office Chair,Clothing,HomeEase,5,477.31,0.0,119.33,11.56,2517.44,Net Banking,Delivered,Seattle,WA,United States,SELL00772
+ORD0052622,2024-09-06,CUST042345,Vivaan Kapoor,P00036,Smart Light Bulb,Home & Kitchen,KiddoFun,3,438.65,0.1,94.75,3.98,1283.08,UPI,Delivered,Austin,TX,United States,SELL01456
+ORD0043097,2021-08-07,CUST012115,Vikas Verma,P00016,Air Fryer,Sports & Outdoors,UrbanStyle,2,376.58,0.0,60.25,2.16,815.57,UPI,Delivered,Seattle,WA,United States,SELL00157
+ORD0055245,2020-08-14,CUST013777,Mohit Mehta,P00008,4K Monitor,Electronics,Zenith,1,453.74,0.0,81.67,4.17,539.58,Debit Card,Delivered,Chicago,IL,United States,SELL00533
+ORD0057517,2022-09-22,CUST014074,Sahil Kumar,P00002,Bluetooth Speaker,Books,CoreTech,4,215.23,0.05,65.43,8.63,891.93,Debit Card,Delivered,Philadelphia,PA,Australia,SELL01385
+ORD0048456,2021-10-15,CUST003875,Karan Mehta,P00007,Mechanical Keyboard,Electronics,KiddoFun,5,514.55,0.1,115.77,3.41,2434.65,Credit Card,Pending,Philadelphia,PA,United States,SELL01335
+ORD0077783,2021-07-26,CUST004072,Vivaan Singh,P00030,Dress Shirt,Home & Kitchen,KiddoFun,3,567.54,0.15,115.78,7.66,1570.67,Amazon Pay,Delivered,Columbus,OH,United States,SELL00873
+ORD0064084,2020-01-25,CUST040830,Sahil Joshi,P00043,HDMI Cable 2m,Home & Kitchen,BrightLux,3,292.57,0.1,63.2,8.52,861.66,Net Banking,Delivered,Fort Worth,TX,United States,SELL01004
+ORD0032770,2020-07-04,CUST013915,Sahil Singh,P00003,Smartphone Case,Toys & Games,CoreTech,4,150.55,0.2,24.09,12.66,518.51,UPI,Pending,Houston,TX,India,SELL00189
+ORD0032399,2024-11-19,CUST048789,Pooja Singh,P00008,4K Monitor,Home & Kitchen,CoreTech,2,362.0,0.0,130.32,11.85,866.17,Credit Card,Delivered,Houston,TX,United States,SELL01485
+ORD0023293,2022-08-02,CUST034668,Vihaan Kumar,P00044,Power Bank 20000mAh,Sports & Outdoors,NexPro,5,289.54,0.0,115.82,8.26,1571.78,Net Banking,Delivered,Los Angeles,CA,United States,SELL00089
+ORD0084754,2020-02-23,CUST015187,Mohit Verma,P00047,Memory Card 128GB,Home & Kitchen,BrightLux,3,41.41,0.0,22.36,3.94,150.53,Credit Card,Delivered,Philadelphia,PA,United States,SELL00459
+ORD0087810,2020-11-16,CUST021336,Ritika Sharma,P00010,Smartwatch,Books,BrightLux,5,571.77,0.15,121.5,11.85,2563.37,Credit Card,Returned,San Francisco,CA,United States,SELL00280
+ORD0047329,2024-11-09,CUST043254,Sahil Mehta,P00006,Gaming Mouse,Toys & Games,NexPro,2,46.39,0.1,6.68,9.33,99.51,UPI,Delivered,Los Angeles,CA,United Kingdom,SELL01021
+ORD0022857,2024-01-30,CUST038621,Neha Singh,P00010,Smartwatch,Electronics,Zenith,3,130.6,0.1,28.21,7.93,388.76,Amazon Pay,Shipped,San Jose,CA,United States,SELL00362
+ORD0084040,2022-03-13,CUST005944,Karan Kapoor,P00028,Jeans,Clothing,BrightLux,1,454.81,0.0,0.0,2.18,456.99,Net Banking,Delivered,Los Angeles,CA,Australia,SELL01027
+ORD0032404,2021-12-22,CUST044763,Vivaan Kapoor,P00047,Memory Card 128GB,Clothing,Apex,3,135.43,0.05,30.88,13.45,430.31,Credit Card,Delivered,San Diego,CA,United States,SELL01452
+ORD0031216,2020-07-26,CUST043483,Arjun Gupta,P00045,Phone Tripod,Toys & Games,Zenith,2,488.46,0.05,46.4,13.73,988.2,Credit Card,Delivered,Denver,CO,Canada,SELL01867
+ORD0004440,2022-02-10,CUST017419,Pooja Verma,P00043,HDMI Cable 2m,Electronics,Zenith,5,478.84,0.0,119.71,5.56,2519.47,Amazon Pay,Delivered,Philadelphia,PA,United Kingdom,SELL00212
+ORD0076092,2023-06-14,CUST042083,Karan Reddy,P00001,Wireless Earbuds,Books,ReadMore,4,212.2,0.1,38.2,2.91,805.03,Debit Card,Delivered,Fort Worth,TX,United States,SELL01822
+ORD0027093,2021-01-15,CUST035518,Vikas Kumar,P00029,T-Shirt,Toys & Games,Zenith,3,267.63,0.1,57.81,1.3,781.71,Credit Card,Delivered,Phoenix,AZ,United States,SELL01178
+ORD0073358,2024-01-06,CUST004216,Karan Gupta,P00030,Dress Shirt,Toys & Games,NexPro,1,42.18,0.0,2.11,7.71,52.0,Credit Card,Delivered,Fort Worth,TX,Canada,SELL01989
+ORD0010585,2024-11-26,CUST009817,Pooja Verma,P00047,Memory Card 128GB,Sports & Outdoors,UrbanStyle,1,37.4,0.0,2.99,2.28,42.67,Credit Card,Delivered,San Jose,CA,Canada,SELL01278
+ORD0089954,2022-07-26,CUST000907,Mohit Reddy,P00044,Power Bank 20000mAh,Electronics,Zenith,4,399.17,0.0,79.83,8.28,1684.79,Credit Card,Delivered,Indianapolis,IN,United States,SELL00222
+ORD0052191,2023-04-24,CUST038899,Vivaan Reddy,P00048,Wireless Charger,Books,BrightLux,4,506.41,0.0,364.62,1.74,2392.0,Credit Card,Shipped,Chicago,IL,United Kingdom,SELL01754
+ORD0013361,2020-04-30,CUST044851,Aditya Kumar,P00047,Memory Card 128GB,Electronics,ReadMore,3,9.85,0.1,2.13,5.11,33.84,Debit Card,Delivered,San Antonio,TX,United States,SELL01154
+ORD0094413,2023-03-12,CUST039182,Ritika Patel,P00013,Action Camera,Home & Kitchen,ReadMore,1,190.31,0.0,9.52,6.12,205.95,Amazon Pay,Delivered,New York,NY,United States,SELL01702
+ORD0036578,2024-01-08,CUST039431,Mohit Singh,P00009,Portable SSD 1TB,Electronics,NexPro,5,176.28,0.05,66.99,12.49,916.81,Amazon Pay,Delivered,Phoenix,AZ,United States,SELL01606
+ORD0046911,2023-05-15,CUST025373,Kabir Singh,P00045,Phone Tripod,Clothing,Zenith,4,212.58,0.05,64.62,12.31,884.73,UPI,Delivered,Jacksonville,FL,United States,SELL01516
+ORD0082688,2024-11-06,CUST000121,Aditya Sharma,P00048,Wireless Charger,Books,UrbanStyle,3,10.03,0.05,0.0,4.33,32.92,Credit Card,Delivered,Seattle,WA,United States,SELL00614
+ORD0032994,2020-04-22,CUST017384,Aman Singh,P00016,Air Fryer,Clothing,UrbanStyle,2,51.9,0.2,14.95,3.35,101.34,Amazon Pay,Delivered,Chicago,IL,United States,SELL01185
+ORD0053793,2021-12-15,CUST018262,Neha Sharma,P00048,Wireless Charger,Books,Apex,3,559.17,0.05,79.68,8.81,1682.12,Net Banking,Delivered,Houston,TX,United States,SELL01825
+ORD0058792,2022-03-26,CUST010152,Vikas Kapoor,P00016,Air Fryer,Electronics,Zenith,3,407.37,0.0,61.11,12.18,1295.4,UPI,Shipped,Charlotte,NC,United States,SELL00909
+ORD0009867,2023-04-25,CUST018759,Vihaan Kumar,P00027,Winter Jacket,Sports & Outdoors,HomeEase,3,37.64,0.0,9.03,7.82,129.77,Credit Card,Delivered,Philadelphia,PA,United States,SELL01833
+ORD0076142,2021-12-30,CUST030110,Ritika Singh,P00040,Microphone,Sports & Outdoors,UrbanStyle,5,406.04,0.1,146.17,11.88,1985.23,Amazon Pay,Shipped,Fort Worth,TX,United States,SELL01850
+ORD0049454,2022-09-14,CUST049011,Sunita Joshi,P00033,Puzzle 1000pc,Clothing,Zenith,4,153.69,0.15,0.0,4.89,527.44,Debit Card,Shipped,Dallas,TX,United States,SELL01197
+ORD0058738,2023-03-25,CUST045246,Sunita Kapoor,P00049,Children's Book,Books,ReadMore,3,235.1,0.0,35.26,12.77,753.33,Credit Card,Delivered,San Diego,CA,United States,SELL00794
+ORD0050233,2020-01-14,CUST008035,Aarav Singh,P00034,Desk Organizer,Toys & Games,UrbanStyle,2,447.26,0.1,0.0,2.14,807.21,Debit Card,Delivered,Dallas,TX,United States,SELL00425
+ORD0076823,2022-01-26,CUST031864,Sahil Patel,P00032,Board Game,Electronics,HomeEase,3,190.04,0.0,102.62,13.36,686.1,Credit Card,Delivered,Phoenix,AZ,United States,SELL01832
+ORD0082269,2020-07-22,CUST035470,Aarav Kapoor,P00017,Electric Kettle,Toys & Games,CoreTech,2,245.38,0.05,55.95,11.29,533.46,Debit Card,Delivered,San Antonio,TX,United States,SELL01659
+ORD0014485,2023-05-16,CUST006377,Sahil Patel,P00042,Projector Mini,Electronics,Apex,3,385.4,0.25,69.37,0.61,937.13,Amazon Pay,Shipped,Seattle,WA,India,SELL00443
+ORD0010063,2022-04-21,CUST023111,Ritika Patel,P00044,Power Bank 20000mAh,Toys & Games,BrightLux,2,160.21,0.0,25.63,8.76,354.81,Credit Card,Delivered,San Antonio,TX,United States,SELL00617
+ORD0041239,2022-07-02,CUST038307,Simran Reddy,P00031,Kids Toy Car,Toys & Games,KiddoFun,2,5.37,0.0,0.54,4.54,15.82,Amazon Pay,Pending,Philadelphia,PA,United States,SELL01281
+ORD0093608,2024-01-09,CUST025581,Aman Kumar,P00016,Air Fryer,Books,HomeEase,1,510.69,0.1,0.0,4.02,463.64,Credit Card,Delivered,New York,NY,United States,SELL01780
+ORD0010891,2022-05-16,CUST018928,Rohit Sharma,P00028,Jeans,Home & Kitchen,HomeEase,5,108.38,0.0,43.35,12.44,597.69,Cash on Delivery,Delivered,San Antonio,TX,United States,SELL01941
+ORD0065748,2021-07-16,CUST009048,Rohit Kumar,P00042,Projector Mini,Home & Kitchen,Zenith,3,313.29,0.05,71.43,5.11,969.42,Debit Card,Delivered,San Diego,CA,United States,SELL00790
+ORD0035184,2024-08-20,CUST015170,Kabir Kumar,P00001,Wireless Earbuds,Home & Kitchen,HomeEase,4,248.73,0.2,39.8,3.88,839.62,Amazon Pay,Delivered,Indianapolis,IN,United States,SELL00543
+ORD0051369,2022-03-22,CUST022764,Sahil Reddy,P00022,Water Bottle,Electronics,ReadMore,2,599.22,0.05,91.08,11.25,1240.85,Debit Card,Shipped,Columbus,OH,India,SELL01148
+ORD0065753,2020-11-03,CUST043431,Vikas Joshi,P00013,Action Camera,Sports & Outdoors,Zenith,1,244.94,0.0,19.6,5.63,270.17,Net Banking,Delivered,Seattle,WA,United States,SELL00462
+ORD0057238,2022-12-19,CUST003637,Aman Reddy,P00048,Wireless Charger,Sports & Outdoors,BrightLux,1,438.16,0.3,15.34,8.7,330.75,Credit Card,Delivered,Indianapolis,IN,United States,SELL00520
+ORD0011263,2022-07-09,CUST017577,Neha Singh,P00021,Backpack,Sports & Outdoors,HomeEase,4,103.87,0.0,20.77,11.68,447.93,Net Banking,Delivered,Dallas,TX,United States,SELL00379
+ORD0028176,2021-11-10,CUST047840,Aarav Sharma,P00046,Car Charger,Clothing,KiddoFun,5,269.53,0.1,145.55,13.57,1372.0,Credit Card,Shipped,San Francisco,CA,United States,SELL00672
+ORD0040495,2024-03-05,CUST007649,Karan Reddy,P00039,Graphic Tablet,Sports & Outdoors,UrbanStyle,4,248.29,0.0,119.18,2.48,1114.82,Credit Card,Shipped,Austin,TX,United States,SELL00813
+ORD0067065,2022-11-01,CUST035179,Anjali Reddy,P00040,Microphone,Electronics,KiddoFun,2,500.43,0.0,50.04,12.01,1062.91,Debit Card,Delivered,Chicago,IL,India,SELL00380
+ORD0064097,2021-05-05,CUST024165,Arjun Mehta,P00014,Drone Mini,Electronics,Zenith,3,550.56,0.2,0.0,13.42,1334.76,Debit Card,Delivered,Charlotte,NC,United States,SELL01797
+ORD0054813,2021-12-31,CUST035578,Sunita Patel,P00032,Board Game,Sports & Outdoors,Apex,3,561.24,0.0,134.7,12.22,1830.64,Debit Card,Delivered,Columbus,OH,United States,SELL00143
+ORD0000129,2021-10-09,CUST039352,Neha Joshi,P00010,Smartwatch,Books,Apex,3,204.15,0.1,66.14,10.09,627.44,Credit Card,Delivered,Dallas,TX,United States,SELL00583
+ORD0028913,2024-06-09,CUST036295,Pooja Gupta,P00039,Graphic Tablet,Home & Kitchen,BrightLux,4,471.44,0.05,143.32,8.07,1942.86,UPI,Delivered,Philadelphia,PA,United States,SELL01952
+ORD0018212,2024-06-02,CUST049818,Sneha Reddy,P00006,Gaming Mouse,Toys & Games,Apex,2,264.99,0.0,26.5,14.17,570.65,Debit Card,Delivered,Austin,TX,United States,SELL00704
+ORD0062255,2024-12-16,CUST003607,Aman Kapoor,P00018,Vacuum Cleaner,Home & Kitchen,FitLife,5,369.25,0.0,147.7,0.88,1994.83,Net Banking,Delivered,San Antonio,TX,United States,SELL01100
+ORD0041784,2022-11-09,CUST008495,Sahil Sharma,P00033,Puzzle 1000pc,Electronics,HomeEase,5,131.65,0.0,52.66,6.89,717.8,Credit Card,Cancelled,Fort Worth,TX,Canada,SELL00974
+ORD0030723,2020-06-26,CUST005151,Anjali Kumar,P00002,Bluetooth Speaker,Toys & Games,ReadMore,2,145.57,0.0,14.56,2.37,308.07,Net Banking,Shipped,Austin,TX,Australia,SELL00958
+ORD0091198,2021-09-01,CUST011437,Anjali Sharma,P00020,Office Chair,Clothing,UrbanStyle,5,354.39,0.05,134.67,14.96,1832.98,Cash on Delivery,Delivered,Seattle,WA,United States,SELL01259
+ORD0013435,2022-09-19,CUST020801,Karan Kapoor,P00050,Novel Bestseller,Books,FitLife,2,126.46,0.2,10.12,3.57,216.03,Net Banking,Delivered,Indianapolis,IN,United States,SELL00608
+ORD0025410,2024-03-03,CUST010651,Vihaan Joshi,P00026,Sunglasses,Electronics,Apex,1,588.95,0.05,27.98,2.64,590.12,Credit Card,Shipped,San Diego,CA,United States,SELL01972
+ORD0047178,2022-08-03,CUST028552,Vikas Sharma,P00032,Board Game,Sports & Outdoors,KiddoFun,4,398.66,0.05,75.75,5.13,1595.79,Debit Card,Shipped,Austin,TX,United States,SELL00294
+ORD0070008,2020-04-09,CUST034006,Ritika Mehta,P00005,Laptop Sleeve,Clothing,NexPro,5,5.5,0.05,2.09,3.63,31.84,Credit Card,Delivered,Denver,CO,United States,SELL00168
+ORD0096276,2024-01-03,CUST007294,Sahil Verma,P00028,Jeans,Sports & Outdoors,CoreTech,5,433.16,0.05,164.6,10.23,2232.34,Debit Card,Delivered,Houston,TX,United States,SELL00802
+ORD0038926,2022-06-17,CUST006404,Rohit Kumar,P00005,Laptop Sleeve,Home & Kitchen,UrbanStyle,2,408.23,0.15,55.52,9.69,759.2,Credit Card,Shipped,Chicago,IL,United States,SELL00450
+ORD0047556,2024-08-28,CUST017856,Karan Kapoor,P00021,Backpack,Sports & Outdoors,BrightLux,3,248.21,0.05,56.59,8.73,772.72,Credit Card,Delivered,San Jose,CA,United States,SELL00460
+ORD0040259,2022-06-11,CUST043641,Priya Joshi,P00050,Novel Bestseller,Books,KiddoFun,2,291.02,0.0,46.56,9.16,637.76,Debit Card,Shipped,Austin,TX,India,SELL00253
+ORD0055580,2020-04-01,CUST045203,Pooja Singh,P00019,LED Desk Lamp,Toys & Games,NexPro,2,21.69,0.0,7.81,7.57,58.76,Net Banking,Shipped,San Antonio,TX,United States,SELL01115
+ORD0024111,2022-06-16,CUST025240,Mohit Kapoor,P00023,Cookware Set,Books,FitLife,3,427.13,0.15,87.13,13.13,1189.44,UPI,Cancelled,San Francisco,CA,India,SELL01684
+ORD0091229,2020-03-11,CUST034135,Neha Verma,P00045,Phone Tripod,Clothing,CoreTech,5,391.35,0.0,156.54,7.56,2120.85,UPI,Cancelled,Indianapolis,IN,United States,SELL01277
+ORD0021671,2024-05-10,CUST003855,Aditya Mehta,P00005,Laptop Sleeve,Sports & Outdoors,CoreTech,5,402.47,0.15,85.52,12.14,1808.16,Credit Card,Shipped,New York,NY,India,SELL01195
+ORD0097210,2022-11-06,CUST033844,Ritika Sharma,P00047,Memory Card 128GB,Electronics,KiddoFun,3,155.83,0.05,79.94,6.76,530.82,Amazon Pay,Delivered,Fort Worth,TX,United States,SELL01874
+ORD0017120,2022-06-11,CUST028512,Sunita Joshi,P00013,Action Camera,Clothing,FitLife,3,137.78,0.0,0.0,1.51,414.85,Amazon Pay,Shipped,Seattle,WA,India,SELL01901
+ORD0064377,2023-06-29,CUST022076,Vikas Kapoor,P00050,Novel Bestseller,Sports & Outdoors,NexPro,2,254.7,0.05,38.71,6.52,529.16,Credit Card,Pending,Indianapolis,IN,United States,SELL00768
+ORD0057491,2020-05-28,CUST048591,Kabir Sharma,P00021,Backpack,Clothing,BrightLux,1,176.47,0.0,14.12,1.87,192.46,Debit Card,Cancelled,Indianapolis,IN,India,SELL01333
+ORD0048102,2024-04-18,CUST043469,Arjun Gupta,P00006,Gaming Mouse,Clothing,Apex,2,576.55,0.1,51.89,7.02,1096.7,Debit Card,Delivered,San Antonio,TX,India,SELL00391
+ORD0062633,2023-11-21,CUST029455,Vikas Kapoor,P00039,Graphic Tablet,Clothing,UrbanStyle,2,30.5,0.1,4.39,4.82,64.11,Credit Card,Delivered,San Francisco,CA,United States,SELL01027
+ORD0009055,2021-07-29,CUST024905,Vikas Sharma,P00014,Drone Mini,Toys & Games,Apex,1,90.03,0.0,4.5,11.92,106.45,Debit Card,Delivered,San Francisco,CA,United States,SELL00516
+ORD0091093,2022-08-09,CUST017408,Pooja Joshi,P00014,Drone Mini,Sports & Outdoors,CoreTech,4,195.91,0.05,37.22,3.01,784.69,Credit Card,Delivered,Chicago,IL,United States,SELL01714
+ORD0092670,2024-05-06,CUST036303,Simran Gupta,P00030,Dress Shirt,Clothing,BrightLux,3,473.61,0.0,113.67,14.1,1548.6,UPI,Delivered,Fort Worth,TX,India,SELL01368
+ORD0037996,2021-01-12,CUST006605,Vihaan Joshi,P00022,Water Bottle,Home & Kitchen,BrightLux,3,212.78,0.0,51.07,10.89,700.3,UPI,Delivered,Phoenix,AZ,United States,SELL01472
+ORD0099030,2022-08-03,CUST031253,Arjun Kumar,P00050,Novel Bestseller,Sports & Outdoors,KiddoFun,4,256.2,0.0,122.98,9.52,1157.3,Credit Card,Delivered,Fort Worth,TX,United States,SELL00418
+ORD0098887,2021-05-01,CUST046808,Anjali Reddy,P00033,Puzzle 1000pc,Electronics,NexPro,2,41.01,0.0,4.1,7.67,93.79,Credit Card,Delivered,Washington,DC,United States,SELL01310
+ORD0086969,2020-10-28,CUST007793,Arjun Singh,P00016,Air Fryer,Clothing,UrbanStyle,4,86.43,0.1,15.56,13.86,340.57,UPI,Delivered,Dallas,TX,United States,SELL01742
+ORD0034435,2021-03-23,CUST017218,Vikas Mehta,P00033,Puzzle 1000pc,Electronics,Apex,2,194.4,0.05,18.47,10.42,398.25,UPI,Delivered,New York,NY,United States,SELL01101
+ORD0093852,2020-01-17,CUST024835,Neha Mehta,P00031,Kids Toy Car,Books,Apex,5,203.98,0.0,183.58,8.29,1211.77,Credit Card,Delivered,San Jose,CA,United States,SELL00702
+ORD0042983,2021-01-16,CUST044089,Sneha Sharma,P00045,Phone Tripod,Sports & Outdoors,ReadMore,4,226.69,0.2,87.05,6.68,819.14,Net Banking,Delivered,Austin,TX,United States,SELL01527
+ORD0044745,2023-08-18,CUST034370,Kabir Verma,P00038,External HDD 2TB,Toys & Games,CoreTech,2,565.56,0.0,135.73,3.46,1270.31,Credit Card,Delivered,Fort Worth,TX,United States,SELL01429
+ORD0000997,2021-09-15,CUST029402,Kabir Kapoor,P00004,USB-C Charger,Home & Kitchen,Zenith,3,354.79,0.0,127.72,6.11,1198.2,Credit Card,Delivered,Denver,CO,United States,SELL00264
+ORD0072506,2023-04-11,CUST042271,Anjali Joshi,P00012,Noise Cancelling Headphones,Electronics,UrbanStyle,3,369.25,0.05,126.28,13.16,1191.8,UPI,Delivered,Dallas,TX,United States,SELL00326
+ORD0013587,2022-11-18,CUST039476,Sneha Mehta,P00040,Microphone,Clothing,CoreTech,3,96.73,0.2,11.61,3.26,247.02,Cash on Delivery,Delivered,New York,NY,United States,SELL00334
+ORD0027183,2023-10-13,CUST045874,Vivaan Mehta,P00030,Dress Shirt,Sports & Outdoors,KiddoFun,5,352.38,0.05,200.86,10.67,1885.34,Amazon Pay,Delivered,Chicago,IL,United States,SELL01956
+ORD0074065,2024-06-06,CUST020771,Simran Joshi,P00018,Vacuum Cleaner,Books,ReadMore,3,146.11,0.05,33.31,0.29,450.01,Debit Card,Cancelled,Los Angeles,CA,United States,SELL01081
+ORD0046087,2024-04-30,CUST018742,Sahil Patel,P00030,Dress Shirt,Home & Kitchen,NexPro,1,279.24,0.05,31.83,1.78,298.89,Credit Card,Delivered,San Jose,CA,United States,SELL01616
+ORD0090039,2021-02-22,CUST018337,Karan Singh,P00027,Winter Jacket,Sports & Outdoors,UrbanStyle,2,214.34,0.1,19.29,3.45,408.55,Net Banking,Delivered,Austin,TX,India,SELL01040
+ORD0077146,2020-05-14,CUST042681,Karan Sharma,P00019,LED Desk Lamp,Home & Kitchen,NexPro,5,86.0,0.0,34.4,10.21,474.61,Credit Card,Delivered,Washington,DC,Canada,SELL00861
+ORD0098741,2021-06-28,CUST042909,Simran Sharma,P00020,Office Chair,Clothing,UrbanStyle,4,541.79,0.15,92.1,8.01,1942.2,Credit Card,Shipped,Austin,TX,United Kingdom,SELL01206
+ORD0009446,2023-07-13,CUST039482,Rohit Singh,P00027,Winter Jacket,Books,KiddoFun,4,258.78,0.1,111.79,1.75,1045.15,Net Banking,Delivered,San Diego,CA,United States,SELL00314
+ORD0011161,2023-10-04,CUST020560,Aarav Kapoor,P00041,Webcam Full HD,Sports & Outdoors,FitLife,3,586.15,0.0,140.68,4.49,1903.62,Credit Card,Delivered,Seattle,WA,United States,SELL00763
+ORD0069063,2021-10-16,CUST018845,Priya Kapoor,P00035,Desk Plant,Electronics,UrbanStyle,1,37.39,0.05,1.78,1.63,38.93,Credit Card,Delivered,Seattle,WA,United States,SELL00769
+ORD0091796,2023-11-13,CUST002351,Aman Verma,P00041,Webcam Full HD,Toys & Games,ReadMore,3,179.75,0.2,51.77,2.09,485.26,UPI,Delivered,San Francisco,CA,United States,SELL01012
+ORD0096661,2024-02-26,CUST023193,Aman Kumar,P00037,Router,Clothing,KiddoFun,3,304.63,0.05,43.41,5.38,916.99,Debit Card,Shipped,San Antonio,TX,United States,SELL00835
+ORD0065494,2021-08-18,CUST039222,Ritika Kumar,P00010,Smartwatch,Books,NexPro,4,214.62,0.0,68.68,8.7,935.86,Debit Card,Delivered,Charlotte,NC,India,SELL01428
+ORD0011875,2023-07-17,CUST045253,Arjun Joshi,P00029,T-Shirt,Home & Kitchen,NexPro,3,313.87,0.05,71.56,13.95,980.04,Credit Card,Delivered,San Antonio,TX,United States,SELL01082
+ORD0077953,2021-04-05,CUST027948,Neha Patel,P00041,Webcam Full HD,Sports & Outdoors,ReadMore,3,141.71,0.2,27.21,6.88,374.19,Amazon Pay,Delivered,Denver,CO,United States,SELL00412
+ORD0068613,2024-01-29,CUST008872,Vihaan Singh,P00003,Smartphone Case,Books,FitLife,2,389.73,0.15,53.0,0.9,716.44,Net Banking,Shipped,Fort Worth,TX,Canada,SELL00594
+ORD0074931,2020-02-09,CUST003956,Mohit Mehta,P00009,Portable SSD 1TB,Toys & Games,ReadMore,1,119.99,0.0,6.0,10.44,136.43,Credit Card,Shipped,Los Angeles,CA,United Kingdom,SELL01144
+ORD0057174,2021-09-08,CUST028678,Mohit Reddy,P00020,Office Chair,Clothing,UrbanStyle,4,198.87,0.05,60.46,8.72,824.89,Amazon Pay,Delivered,Indianapolis,IN,United States,SELL00500
+ORD0031607,2022-05-21,CUST032574,Vivaan Verma,P00040,Microphone,Electronics,ReadMore,2,416.82,0.0,66.69,11.62,911.95,Credit Card,Delivered,Charlotte,NC,United States,SELL01727
+ORD0099634,2020-05-16,CUST000516,Aarav Joshi,P00045,Phone Tripod,Clothing,ReadMore,4,532.29,0.0,106.46,10.19,2245.81,UPI,Delivered,Jacksonville,FL,United States,SELL00193
+ORD0071317,2022-07-23,CUST027874,Sneha Kumar,P00034,Desk Organizer,Clothing,Apex,4,103.02,0.15,28.02,3.26,381.55,Debit Card,Delivered,Columbus,OH,United States,SELL00411
+ORD0045771,2024-07-18,CUST015397,Sahil Verma,P00026,Sunglasses,Electronics,HomeEase,1,215.76,0.15,22.01,4.53,209.94,UPI,Delivered,Dallas,TX,United States,SELL00145
+ORD0022556,2021-03-16,CUST025609,Vihaan Mehta,P00018,Vacuum Cleaner,Books,CoreTech,5,458.71,0.0,275.23,4.21,2572.99,UPI,Delivered,Los Angeles,CA,United States,SELL01447
+ORD0063934,2023-06-04,CUST035244,Arjun Singh,P00036,Smart Light Bulb,Toys & Games,ReadMore,4,21.45,0.0,10.3,5.18,101.28,Credit Card,Delivered,Fort Worth,TX,United States,SELL01559
+ORD0041711,2022-03-19,CUST042124,Neha Verma,P00025,Running Shoes,Electronics,FitLife,3,591.95,0.15,75.47,5.73,1590.67,Amazon Pay,Delivered,Phoenix,AZ,India,SELL01518
+ORD0021935,2020-03-22,CUST025885,Anjali Joshi,P00047,Memory Card 128GB,Sports & Outdoors,KiddoFun,4,524.24,0.05,159.37,11.81,2163.29,Net Banking,Delivered,Phoenix,AZ,United States,SELL00807
+ORD0021696,2022-12-26,CUST026983,Mohit Kapoor,P00014,Drone Mini,Clothing,NexPro,3,536.48,0.0,0.0,2.22,1611.66,Debit Card,Delivered,Denver,CO,Canada,SELL00693
+ORD0044152,2021-01-11,CUST009668,Ritika Patel,P00039,Graphic Tablet,Clothing,BrightLux,2,141.24,0.3,23.73,6.28,227.75,Amazon Pay,Delivered,Jacksonville,FL,India,SELL01017
+ORD0051211,2021-01-18,CUST044491,Pooja Verma,P00014,Drone Mini,Sports & Outdoors,HomeEase,1,356.44,0.0,64.16,5.67,426.27,Debit Card,Delivered,New York,NY,India,SELL00227
+ORD0060621,2024-07-31,CUST027629,Neha Singh,P00014,Drone Mini,Home & Kitchen,Zenith,1,420.71,0.0,50.49,9.69,480.89,Amazon Pay,Shipped,Houston,TX,United States,SELL01187
+ORD0042038,2024-10-04,CUST026133,Vivaan Mehta,P00028,Jeans,Books,Zenith,3,379.29,0.15,77.38,12.87,1057.44,Debit Card,Delivered,New York,NY,United Kingdom,SELL01951
+ORD0086396,2021-11-05,CUST022311,Ritika Singh,P00017,Electric Kettle,Clothing,Zenith,4,585.39,0.25,0.0,5.14,1761.31,Debit Card,Returned,San Diego,CA,United States,SELL01019
+ORD0023095,2023-11-14,CUST028390,Anjali Kumar,P00008,4K Monitor,Electronics,FitLife,4,91.15,0.0,0.0,12.56,377.16,Credit Card,Delivered,Fort Worth,TX,India,SELL00734
+ORD0020159,2024-10-24,CUST049748,Vivaan Gupta,P00041,Webcam Full HD,Clothing,NexPro,4,186.23,0.2,71.51,0.97,668.42,Credit Card,Delivered,Seattle,WA,United States,SELL00991
+ORD0045529,2021-12-31,CUST026281,Arjun Verma,P00049,Children's Book,Books,Apex,2,401.81,0.0,40.18,0.46,844.26,UPI,Delivered,Charlotte,NC,United States,SELL00112
+ORD0065283,2021-01-14,CUST049833,Karan Gupta,P00029,T-Shirt,Books,HomeEase,4,183.38,0.0,58.68,0.91,793.11,Debit Card,Shipped,Columbus,OH,United States,SELL01583
+ORD0078199,2020-10-13,CUST005687,Mohit Kumar,P00016,Air Fryer,Books,Zenith,5,129.96,0.0,32.49,3.29,685.58,Net Banking,Delivered,Phoenix,AZ,India,SELL00543
+ORD0024298,2022-09-10,CUST039381,Arjun Sharma,P00036,Smart Light Bulb,Home & Kitchen,HomeEase,3,314.31,0.0,75.43,12.55,1030.91,Credit Card,Delivered,San Antonio,TX,Canada,SELL01902
+ORD0041809,2021-07-11,CUST029134,Mohit Kumar,P00026,Sunglasses,Toys & Games,KiddoFun,5,327.55,0.25,61.42,6.29,1296.02,Net Banking,Delivered,Indianapolis,IN,United States,SELL00958
+ORD0071228,2021-01-22,CUST042860,Simran Kumar,P00013,Action Camera,Electronics,NexPro,5,449.18,0.1,101.07,11.48,2133.86,Debit Card,Delivered,Austin,TX,United States,SELL00681
+ORD0055468,2021-12-09,CUST026585,Aditya Joshi,P00012,Noise Cancelling Headphones,Electronics,Apex,5,364.1,0.1,81.92,6.47,1726.84,Credit Card,Returned,Los Angeles,CA,Canada,SELL01927
+ORD0016483,2023-02-07,CUST032704,Priya Verma,P00002,Bluetooth Speaker,Sports & Outdoors,NexPro,1,555.81,0.05,42.24,0.03,570.29,Credit Card,Delivered,Washington,DC,India,SELL01744
+ORD0078893,2022-05-23,CUST034762,Kabir Singh,P00019,LED Desk Lamp,Books,BrightLux,1,595.89,0.05,67.93,1.51,635.54,UPI,Delivered,Philadelphia,PA,United States,SELL01235
+ORD0012248,2021-03-14,CUST028713,Aditya Patel,P00049,Children's Book,Books,Apex,5,463.99,0.2,148.48,11.71,2016.15,Debit Card,Delivered,Chicago,IL,India,SELL01163
+ORD0019668,2020-06-20,CUST004070,Aman Kapoor,P00041,Webcam Full HD,Books,Zenith,5,342.14,0.25,102.64,8.04,1393.7,Credit Card,Delivered,San Jose,CA,United States,SELL00264
+ORD0089453,2023-07-02,CUST049854,Sunita Sharma,P00005,Laptop Sleeve,Sports & Outdoors,BrightLux,3,540.47,0.05,123.23,11.4,1674.97,Amazon Pay,Delivered,Jacksonville,FL,United States,SELL01414
+ORD0041978,2023-12-30,CUST025665,Vikas Kapoor,P00043,HDMI Cable 2m,Sports & Outdoors,BrightLux,4,87.64,0.05,39.96,4.54,377.53,Cash on Delivery,Delivered,San Jose,CA,United States,SELL00161
+ORD0073061,2023-09-27,CUST004260,Mohit Reddy,P00023,Cookware Set,Electronics,CoreTech,3,106.2,0.0,25.49,8.82,352.91,Amazon Pay,Delivered,Seattle,WA,United States,SELL00839
+ORD0090390,2021-03-12,CUST036848,Sahil Kapoor,P00026,Sunglasses,Electronics,HomeEase,2,356.87,0.0,85.65,13.54,812.93,Credit Card,Delivered,San Diego,CA,United States,SELL00827
+ORD0079291,2021-02-21,CUST017789,Priya Sharma,P00034,Desk Organizer,Clothing,FitLife,5,304.95,0.15,103.68,9.53,1409.25,Net Banking,Delivered,San Diego,CA,United States,SELL01815
+ORD0068515,2020-05-17,CUST023118,Kabir Verma,P00005,Laptop Sleeve,Home & Kitchen,KiddoFun,4,444.67,0.2,0.0,3.02,1425.96,Amazon Pay,Delivered,San Francisco,CA,India,SELL01321
+ORD0085058,2023-08-31,CUST006217,Simran Singh,P00029,T-Shirt,Books,HomeEase,2,482.23,0.25,36.17,7.59,767.1,Amazon Pay,Delivered,New York,NY,Australia,SELL01967
+ORD0044632,2023-01-05,CUST024817,Sahil Mehta,P00020,Office Chair,Toys & Games,HomeEase,3,225.07,0.2,27.01,14.61,581.79,Debit Card,Delivered,San Diego,CA,United States,SELL00685
+ORD0017597,2024-03-23,CUST007541,Neha Joshi,P00020,Office Chair,Books,Apex,4,131.84,0.1,56.95,11.96,543.53,Debit Card,Delivered,San Antonio,TX,Australia,SELL00683
+ORD0032464,2023-08-27,CUST047153,Neha Verma,P00022,Water Bottle,Home & Kitchen,Apex,5,434.01,0.0,0.0,0.45,2170.5,Net Banking,Delivered,Columbus,OH,United States,SELL01399
+ORD0025984,2021-12-20,CUST004141,Sneha Sharma,P00035,Desk Plant,Electronics,HomeEase,4,550.22,0.0,264.11,1.56,2466.55,UPI,Delivered,Charlotte,NC,United States,SELL01441
+ORD0044217,2021-11-11,CUST043985,Vikas Mehta,P00019,LED Desk Lamp,Clothing,KiddoFun,5,264.46,0.1,142.81,0.24,1333.12,Amazon Pay,Delivered,Charlotte,NC,United States,SELL01857
+ORD0030860,2023-11-29,CUST042188,Arjun Sharma,P00032,Board Game,Toys & Games,BrightLux,1,401.49,0.0,20.07,14.22,435.78,Credit Card,Returned,San Diego,CA,Canada,SELL01196
+ORD0073127,2024-02-29,CUST049240,Arjun Sharma,P00045,Phone Tripod,Sports & Outdoors,HomeEase,4,109.38,0.25,16.41,5.19,349.74,Credit Card,Delivered,San Jose,CA,India,SELL01016
+ORD0061262,2022-08-02,CUST048883,Aditya Verma,P00036,Smart Light Bulb,Electronics,FitLife,4,181.16,0.0,130.44,7.07,862.15,Debit Card,Delivered,San Francisco,CA,United States,SELL01966
+ORD0013213,2023-09-23,CUST025322,Aarav Singh,P00025,Running Shoes,Home & Kitchen,FitLife,2,199.7,0.2,57.51,0.57,377.6,Amazon Pay,Shipped,Los Angeles,CA,United States,SELL01041
+ORD0049298,2022-08-26,CUST023528,Kabir Gupta,P00005,Laptop Sleeve,Home & Kitchen,BrightLux,5,25.63,0.1,5.77,2.88,123.98,UPI,Delivered,Austin,TX,India,SELL00158
+ORD0051224,2020-10-27,CUST009029,Aditya Joshi,P00011,Fitness Band,Clothing,Zenith,4,366.7,0.2,140.81,2.18,1316.43,Amazon Pay,Delivered,Dallas,TX,United States,SELL01986
+ORD0039804,2022-03-25,CUST039112,Anjali Singh,P00017,Electric Kettle,Clothing,FitLife,5,148.95,0.0,134.06,5.55,884.36,Debit Card,Delivered,Phoenix,AZ,United States,SELL00132
+ORD0021507,2020-04-25,CUST037103,Sahil Reddy,P00002,Bluetooth Speaker,Toys & Games,Zenith,2,590.94,0.1,53.18,14.72,1131.59,Debit Card,Delivered,New York,NY,United States,SELL01865
+ORD0078103,2020-02-07,CUST026355,Sunita Sharma,P00008,4K Monitor,Toys & Games,ReadMore,5,534.54,0.1,120.27,1.4,2527.1,UPI,Delivered,Los Angeles,CA,United States,SELL00334
+ORD0073354,2024-01-20,CUST006978,Pooja Kapoor,P00011,Fitness Band,Books,KiddoFun,3,415.95,0.1,89.85,12.21,1225.12,Amazon Pay,Delivered,New York,NY,United States,SELL00656
+ORD0012469,2020-02-26,CUST026669,Sneha Singh,P00016,Air Fryer,Books,KiddoFun,5,416.86,0.0,104.22,14.25,2202.77,Credit Card,Delivered,Austin,TX,United States,SELL01865
+ORD0013570,2023-07-16,CUST004454,Karan Mehta,P00023,Cookware Set,Sports & Outdoors,CoreTech,2,304.67,0.0,30.47,0.68,640.49,Amazon Pay,Delivered,Fort Worth,TX,United States,SELL00038
+ORD0099103,2023-09-22,CUST010281,Aditya Joshi,P00040,Microphone,Toys & Games,NexPro,5,309.27,0.0,278.34,14.86,1839.55,UPI,Delivered,San Diego,CA,United States,SELL01164
+ORD0092016,2021-03-02,CUST039845,Mohit Sharma,P00046,Car Charger,Books,ReadMore,5,187.35,0.0,74.94,1.52,1013.21,UPI,Delivered,Columbus,OH,United Kingdom,SELL01355
+ORD0095600,2023-03-06,CUST019333,Aditya Mehta,P00026,Sunglasses,Electronics,NexPro,4,163.8,0.05,31.12,11.66,665.22,Debit Card,Delivered,Charlotte,NC,United States,SELL01528
+ORD0072689,2021-02-02,CUST019589,Sunita Kapoor,P00027,Winter Jacket,Toys & Games,HomeEase,1,413.3,0.2,26.45,1.89,358.98,Debit Card,Returned,Phoenix,AZ,United States,SELL01695
+ORD0076069,2023-08-12,CUST022836,Vikas Kumar,P00028,Jeans,Books,ReadMore,4,561.32,0.0,0.0,9.37,2254.65,Credit Card,Shipped,Dallas,TX,United States,SELL01299
+ORD0014784,2024-07-08,CUST021934,Ritika Mehta,P00005,Laptop Sleeve,Electronics,BrightLux,2,385.24,0.05,58.56,11.25,801.77,Debit Card,Cancelled,Denver,CO,United States,SELL00252
+ORD0068484,2024-04-19,CUST001434,Anjali Patel,P00019,LED Desk Lamp,Toys & Games,ReadMore,4,263.29,0.0,126.38,7.29,1186.83,Net Banking,Delivered,New York,NY,United States,SELL01488
+ORD0017820,2022-08-23,CUST022952,Aditya Verma,P00027,Winter Jacket,Electronics,BrightLux,1,502.92,0.1,22.63,10.71,485.97,Credit Card,Delivered,Washington,DC,United States,SELL00073
+ORD0051111,2024-08-15,CUST030559,Mohit Sharma,P00046,Car Charger,Home & Kitchen,KiddoFun,4,151.44,0.1,43.61,2.88,591.67,Credit Card,Delivered,New York,NY,United States,SELL01369
+ORD0081671,2022-12-14,CUST006250,Sunita Verma,P00014,Drone Mini,Books,BrightLux,1,358.12,0.0,42.97,10.01,411.1,Credit Card,Cancelled,Dallas,TX,United States,SELL01405
+ORD0039364,2021-07-31,CUST022797,Vikas Reddy,P00046,Car Charger,Home & Kitchen,KiddoFun,4,391.48,0.1,169.12,3.76,1582.21,Credit Card,Delivered,Fort Worth,TX,United States,SELL01864
+ORD0075980,2024-10-04,CUST018289,Ritika Kumar,P00019,LED Desk Lamp,Home & Kitchen,FitLife,4,406.9,0.05,77.31,6.98,1630.51,Credit Card,Delivered,San Diego,CA,United States,SELL01721
+ORD0035733,2022-10-26,CUST011479,Vikas Patel,P00012,Noise Cancelling Headphones,Toys & Games,ReadMore,3,23.29,0.0,3.49,8.33,81.69,UPI,Delivered,Columbus,OH,Canada,SELL00161
+ORD0059893,2023-10-26,CUST026388,Aditya Sharma,P00006,Gaming Mouse,Electronics,NexPro,3,299.99,0.0,108.0,0.42,1008.39,Credit Card,Delivered,Columbus,OH,United States,SELL00820
+ORD0094219,2022-12-17,CUST007347,Kabir Kapoor,P00017,Electric Kettle,Books,Zenith,3,568.6,0.2,68.23,2.84,1435.71,Credit Card,Delivered,Denver,CO,India,SELL01634
+ORD0017129,2021-07-17,CUST026364,Aditya Kapoor,P00010,Smartwatch,Clothing,BrightLux,2,144.4,0.0,23.1,8.88,320.78,Amazon Pay,Delivered,San Diego,CA,Canada,SELL01768
+ORD0087653,2022-07-22,CUST031253,Priya Verma,P00048,Wireless Charger,Sports & Outdoors,Apex,4,583.51,0.0,116.7,7.33,2458.07,UPI,Delivered,Dallas,TX,United States,SELL00038
+ORD0079934,2024-05-20,CUST033104,Ritika Reddy,P00041,Webcam Full HD,Electronics,NexPro,1,448.05,0.1,32.26,4.95,440.46,UPI,Delivered,San Francisco,CA,India,SELL01846
+ORD0033048,2024-04-25,CUST041866,Anjali Mehta,P00044,Power Bank 20000mAh,Sports & Outdoors,CoreTech,5,405.94,0.15,86.26,8.38,1819.88,Net Banking,Delivered,Dallas,TX,United States,SELL01949
+ORD0057485,2023-02-06,CUST048666,Vikas Mehta,P00049,Children's Book,Toys & Games,CoreTech,5,543.2,0.25,162.96,4.29,2204.25,Debit Card,Shipped,Los Angeles,CA,United States,SELL00317
+ORD0012843,2024-11-20,CUST031302,Aman Gupta,P00036,Smart Light Bulb,Electronics,CoreTech,4,584.95,0.25,0.0,12.02,1766.87,Credit Card,Shipped,Austin,TX,Canada,SELL01289
+ORD0007994,2022-06-20,CUST026819,Aarav Gupta,P00014,Drone Mini,Clothing,HomeEase,5,368.37,0.0,147.35,13.35,2002.55,Amazon Pay,Delivered,Columbus,OH,United States,SELL00734
+ORD0091920,2022-01-04,CUST042043,Karan Singh,P00012,Noise Cancelling Headphones,Electronics,CoreTech,4,342.68,0.3,0.0,13.08,972.58,Amazon Pay,Returned,Indianapolis,IN,United States,SELL00555
+ORD0074984,2022-03-17,CUST012175,Neha Patel,P00044,Power Bank 20000mAh,Home & Kitchen,ReadMore,3,18.28,0.2,3.51,5.42,52.8,Amazon Pay,Delivered,Philadelphia,PA,United States,SELL00554
+ORD0027583,2021-11-15,CUST028006,Arjun Patel,P00028,Jeans,Books,UrbanStyle,5,598.45,0.3,104.73,10.95,2210.25,Credit Card,Delivered,Austin,TX,Australia,SELL00268
+ORD0044243,2020-09-21,CUST046195,Arjun Singh,P00048,Wireless Charger,Home & Kitchen,KiddoFun,1,379.23,0.0,18.96,9.72,407.91,Debit Card,Shipped,Columbus,OH,India,SELL00754
+ORD0042211,2021-11-26,CUST008823,Vihaan Joshi,P00020,Office Chair,Clothing,FitLife,5,244.89,0.1,55.1,8.34,1165.44,UPI,Delivered,Charlotte,NC,United States,SELL00895
+ORD0049599,2024-10-29,CUST004123,Karan Joshi,P00013,Action Camera,Books,KiddoFun,4,9.1,0.0,4.37,5.07,45.84,Credit Card,Delivered,Charlotte,NC,India,SELL00388
+ORD0048946,2020-06-11,CUST011235,Aarav Patel,P00031,Kids Toy Car,Electronics,Zenith,1,459.5,0.2,44.11,1.7,413.41,Credit Card,Returned,Phoenix,AZ,United States,SELL01160
+ORD0079256,2022-03-05,CUST006837,Anjali Reddy,P00029,T-Shirt,Home & Kitchen,BrightLux,5,466.61,0.2,149.32,10.28,2026.04,UPI,Delivered,Philadelphia,PA,United States,SELL00547
+ORD0065930,2020-05-07,CUST044514,Karan Sharma,P00050,Novel Bestseller,Clothing,KiddoFun,5,355.56,0.15,181.34,9.8,1702.27,Credit Card,Delivered,Denver,CO,United Kingdom,SELL00640
+ORD0011575,2020-01-11,CUST039051,Aman Verma,P00028,Jeans,Clothing,Apex,4,341.29,0.1,61.43,11.5,1301.57,Credit Card,Delivered,Indianapolis,IN,United Kingdom,SELL00769
+ORD0012732,2023-12-30,CUST025302,Sunita Singh,P00025,Running Shoes,Toys & Games,HomeEase,2,572.69,0.0,91.63,1.94,1238.95,Amazon Pay,Pending,Charlotte,NC,United States,SELL01441
+ORD0064024,2022-07-09,CUST025033,Arjun Mehta,P00048,Wireless Charger,Clothing,HomeEase,4,303.01,0.1,130.9,13.52,1235.26,UPI,Delivered,New York,NY,United States,SELL01964
+ORD0039764,2021-09-08,CUST030949,Priya Joshi,P00026,Sunglasses,Electronics,BrightLux,4,233.86,0.0,74.84,8.81,1019.09,Net Banking,Delivered,Denver,CO,India,SELL00819
+ORD0072750,2024-07-20,CUST039836,Sneha Joshi,P00011,Fitness Band,Sports & Outdoors,Apex,4,204.69,0.05,140.01,13.76,931.59,Net Banking,Pending,Austin,TX,India,SELL00643
+ORD0080622,2022-10-13,CUST032680,Aman Patel,P00026,Sunglasses,Toys & Games,Apex,1,182.14,0.0,9.11,1.31,192.56,Credit Card,Delivered,Charlotte,NC,United States,SELL00358
+ORD0099345,2023-01-11,CUST023717,Sahil Gupta,P00012,Noise Cancelling Headphones,Clothing,NexPro,1,257.28,0.2,16.47,1.75,224.04,Credit Card,Delivered,Charlotte,NC,United States,SELL01261
+ORD0026891,2023-11-11,CUST001831,Rohit Mehta,P00044,Power Bank 20000mAh,Sports & Outdoors,NexPro,5,468.36,0.0,187.34,12.51,2541.65,Amazon Pay,Delivered,Chicago,IL,United States,SELL01871
+ORD0041325,2023-10-17,CUST015286,Anjali Joshi,P00038,External HDD 2TB,Sports & Outdoors,UrbanStyle,4,543.08,0.2,0.0,6.42,1744.28,Credit Card,Delivered,Washington,DC,United States,SELL01249
+ORD0040941,2024-08-05,CUST023355,Simran Sharma,P00037,Router,Toys & Games,Apex,5,174.93,0.1,141.69,11.47,940.34,UPI,Shipped,Houston,TX,India,SELL01228
+ORD0013056,2020-08-01,CUST030996,Sunita Singh,P00012,Noise Cancelling Headphones,Toys & Games,Apex,5,475.64,0.2,228.31,4.03,2134.9,UPI,Delivered,Washington,DC,United States,SELL01494
+ORD0064234,2020-08-05,CUST025042,Pooja Sharma,P00039,Graphic Tablet,Clothing,NexPro,3,513.32,0.0,277.19,3.26,1820.41,UPI,Delivered,New York,NY,United States,SELL00440
+ORD0077148,2020-03-09,CUST027261,Arjun Gupta,P00046,Car Charger,Toys & Games,Apex,1,366.42,0.15,24.92,6.45,342.83,Amazon Pay,Delivered,Austin,TX,United States,SELL00237
+ORD0073550,2022-12-28,CUST045056,Simran Verma,P00002,Bluetooth Speaker,Clothing,Zenith,1,503.69,0.05,86.13,8.9,573.54,Net Banking,Shipped,Fort Worth,TX,United States,SELL01693
+ORD0036592,2020-10-17,CUST024581,Aman Reddy,P00048,Wireless Charger,Electronics,ReadMore,5,497.67,0.0,298.6,10.87,2797.82,UPI,Delivered,Dallas,TX,United States,SELL00440
+ORD0060770,2020-08-04,CUST001478,Pooja Reddy,P00049,Children's Book,Toys & Games,HomeEase,1,67.96,0.05,5.16,3.85,73.57,UPI,Delivered,Jacksonville,FL,United States,SELL01141
+ORD0013907,2022-05-16,CUST039681,Mohit Patel,P00033,Puzzle 1000pc,Sports & Outdoors,KiddoFun,4,252.58,0.0,80.83,12.1,1103.25,Credit Card,Delivered,San Francisco,CA,United States,SELL01440
+ORD0071204,2021-09-27,CUST015541,Vivaan Patel,P00022,Water Bottle,Home & Kitchen,HomeEase,1,537.74,0.2,34.42,5.37,469.98,Credit Card,Delivered,Chicago,IL,United States,SELL00151
+ORD0029746,2023-06-03,CUST032475,Vikas Reddy,P00002,Bluetooth Speaker,Home & Kitchen,UrbanStyle,3,63.89,0.0,0.0,7.3,198.97,UPI,Delivered,Phoenix,AZ,United States,SELL00422
+ORD0059093,2021-02-11,CUST007083,Vihaan Sharma,P00031,Kids Toy Car,Toys & Games,ReadMore,3,386.59,0.0,92.78,0.24,1252.79,Cash on Delivery,Delivered,Los Angeles,CA,United States,SELL01910
+ORD0017943,2024-08-03,CUST011354,Aditya Mehta,P00047,Memory Card 128GB,Home & Kitchen,NexPro,4,461.88,0.0,147.8,11.79,2007.11,Credit Card,Delivered,San Jose,CA,Canada,SELL00737
+ORD0017369,2024-10-24,CUST036270,Ritika Patel,P00048,Wireless Charger,Toys & Games,UrbanStyle,3,133.55,0.0,20.03,13.53,434.21,Credit Card,Delivered,Columbus,OH,United States,SELL01129
+ORD0094418,2022-05-09,CUST042998,Kabir Reddy,P00047,Memory Card 128GB,Books,NexPro,1,319.53,0.1,14.38,5.51,307.47,Credit Card,Delivered,New York,NY,United States,SELL00961
+ORD0097510,2021-10-17,CUST039463,Aarav Patel,P00006,Gaming Mouse,Home & Kitchen,Zenith,1,94.69,0.05,4.5,7.77,102.23,Credit Card,Shipped,Columbus,OH,United States,SELL00679
+ORD0069567,2023-02-02,CUST027794,Ritika Gupta,P00048,Wireless Charger,Electronics,FitLife,1,87.2,0.0,10.46,9.89,107.55,Credit Card,Delivered,Dallas,TX,United States,SELL01370
+ORD0035140,2020-11-27,CUST036017,Aarav Kapoor,P00041,Webcam Full HD,Clothing,HomeEase,5,159.15,0.2,76.39,11.74,724.73,Debit Card,Delivered,Fort Worth,TX,United States,SELL00289
+ORD0078251,2022-09-20,CUST039823,Aditya Sharma,P00032,Board Game,Electronics,Zenith,2,87.23,0.0,13.96,4.82,193.24,Debit Card,Delivered,San Francisco,CA,United States,SELL01929
+ORD0086941,2024-01-11,CUST008140,Priya Singh,P00029,T-Shirt,Home & Kitchen,Apex,3,34.74,0.05,4.95,11.56,115.52,Amazon Pay,Cancelled,Washington,DC,United States,SELL00953
+ORD0060426,2021-05-04,CUST030631,Mohit Sharma,P00008,4K Monitor,Home & Kitchen,KiddoFun,4,113.09,0.1,32.57,13.57,453.26,Debit Card,Shipped,San Jose,CA,United States,SELL00657
+ORD0003205,2021-10-25,CUST022008,Simran Sharma,P00031,Kids Toy Car,Toys & Games,KiddoFun,2,333.6,0.05,50.71,13.48,698.03,Debit Card,Delivered,San Jose,CA,United States,SELL01884
+ORD0032314,2021-12-09,CUST037551,Aditya Reddy,P00039,Graphic Tablet,Home & Kitchen,HomeEase,4,36.96,0.1,0.0,4.97,138.03,Amazon Pay,Delivered,Austin,TX,India,SELL01738
+ORD0067970,2020-10-21,CUST029776,Aditya Verma,P00001,Wireless Earbuds,Electronics,HomeEase,4,555.46,0.0,266.62,3.99,2492.45,UPI,Shipped,Denver,CO,Canada,SELL01806
+ORD0062226,2022-02-10,CUST024649,Sahil Kapoor,P00024,Yoga Mat,Electronics,BrightLux,1,237.01,0.0,28.44,3.51,268.96,Credit Card,Delivered,Seattle,WA,India,SELL01614
+ORD0093607,2023-07-10,CUST004833,Vihaan Kumar,P00026,Sunglasses,Toys & Games,Apex,5,307.02,0.25,0.0,5.4,1156.72,Debit Card,Delivered,Jacksonville,FL,United States,SELL01649
+ORD0093704,2020-08-01,CUST039195,Karan Gupta,P00036,Smart Light Bulb,Toys & Games,HomeEase,5,468.02,0.15,238.69,13.23,2241.0,Credit Card,Delivered,Los Angeles,CA,United States,SELL00315
+ORD0092114,2020-08-12,CUST038598,Kabir Reddy,P00041,Webcam Full HD,Home & Kitchen,CoreTech,1,476.66,0.0,57.2,11.16,545.02,Credit Card,Shipped,New York,NY,United States,SELL00674
+ORD0091090,2024-01-10,CUST044845,Sahil Mehta,P00020,Office Chair,Sports & Outdoors,ReadMore,1,552.72,0.1,59.69,1.06,558.2,UPI,Pending,Seattle,WA,United States,SELL01295
+ORD0080651,2020-06-01,CUST006194,Aman Singh,P00045,Phone Tripod,Sports & Outdoors,CoreTech,3,407.16,0.2,48.86,6.83,1032.87,Net Banking,Delivered,San Jose,CA,United States,SELL01764
+ORD0000250,2021-03-17,CUST045022,Aman Joshi,P00036,Smart Light Bulb,Home & Kitchen,CoreTech,4,214.42,0.0,102.92,9.31,969.91,Credit Card,Delivered,Philadelphia,PA,United States,SELL00871
+ORD0062696,2021-11-18,CUST017796,Rohit Reddy,P00017,Electric Kettle,Clothing,HomeEase,5,427.01,0.05,162.26,2.15,2192.71,Net Banking,Delivered,Chicago,IL,India,SELL00140
+ORD0058347,2020-06-04,CUST021323,Aman Kumar,P00006,Gaming Mouse,Electronics,FitLife,2,383.03,0.1,82.73,0.99,773.17,Net Banking,Pending,Philadelphia,PA,United States,SELL01477
+ORD0009779,2020-04-26,CUST019734,Neha Patel,P00036,Smart Light Bulb,Home & Kitchen,HomeEase,3,542.83,0.05,77.35,13.87,1638.29,UPI,Shipped,Houston,TX,United States,SELL00679
+ORD0047935,2023-06-22,CUST003756,Rohit Kumar,P00016,Air Fryer,Clothing,UrbanStyle,1,318.37,0.05,15.12,3.48,321.05,Credit Card,Delivered,Chicago,IL,India,SELL01940
+ORD0005091,2020-10-08,CUST007368,Priya Mehta,P00033,Puzzle 1000pc,Home & Kitchen,HomeEase,1,461.03,0.05,0.0,8.51,446.49,Amazon Pay,Delivered,Denver,CO,United States,SELL01347
+ORD0021023,2024-10-21,CUST036222,Sneha Verma,P00010,Smartwatch,Sports & Outdoors,Zenith,4,582.87,0.1,251.8,12.05,2362.18,Amazon Pay,Delivered,Washington,DC,United States,SELL00949
+ORD0078183,2023-12-10,CUST009666,Anjali Kumar,P00006,Gaming Mouse,Toys & Games,Apex,1,148.79,0.15,6.32,11.61,144.4,Credit Card,Delivered,Seattle,WA,United States,SELL00052
+ORD0030525,2020-01-22,CUST048341,Rohit Patel,P00005,Laptop Sleeve,Books,BrightLux,5,381.21,0.0,152.48,1.93,2060.46,Amazon Pay,Cancelled,Washington,DC,United Kingdom,SELL00162
+ORD0044638,2021-06-30,CUST034677,Neha Joshi,P00003,Smartphone Case,Books,FitLife,5,199.02,0.3,55.73,7.74,760.04,Net Banking,Pending,Philadelphia,PA,United Kingdom,SELL01008
+ORD0071293,2020-12-30,CUST038447,Arjun Sharma,P00048,Wireless Charger,Sports & Outdoors,ReadMore,3,409.68,0.05,93.41,0.61,1261.61,UPI,Delivered,Denver,CO,United States,SELL01278
+ORD0077613,2020-03-31,CUST035606,Kabir Mehta,P00029,T-Shirt,Books,ReadMore,1,405.91,0.2,38.97,3.41,367.11,Amazon Pay,Shipped,Fort Worth,TX,United States,SELL00749
+ORD0084972,2023-06-06,CUST004670,Pooja Patel,P00032,Board Game,Books,FitLife,5,564.28,0.05,134.02,14.59,2828.94,Debit Card,Cancelled,Austin,TX,Canada,SELL00680
+ORD0078280,2024-07-04,CUST044657,Neha Mehta,P00049,Children's Book,Toys & Games,FitLife,1,188.46,0.1,20.35,13.45,203.41,UPI,Cancelled,Phoenix,AZ,United States,SELL01509
+ORD0053649,2020-04-07,CUST006108,Karan Kumar,P00011,Fitness Band,Sports & Outdoors,CoreTech,5,141.61,0.0,84.97,14.02,807.04,Debit Card,Delivered,Seattle,WA,India,SELL00926
+ORD0095990,2021-08-03,CUST001521,Pooja Gupta,P00004,USB-C Charger,Electronics,Apex,1,202.17,0.0,16.17,14.51,232.85,Debit Card,Delivered,Charlotte,NC,India,SELL00857
+ORD0039960,2020-12-16,CUST039998,Karan Kapoor,P00019,LED Desk Lamp,Home & Kitchen,KiddoFun,2,324.83,0.05,30.86,14.64,662.68,Credit Card,Delivered,Seattle,WA,United States,SELL01342
+ORD0082317,2021-07-31,CUST043161,Rohit Kapoor,P00001,Wireless Earbuds,Home & Kitchen,BrightLux,1,365.93,0.05,27.81,12.19,387.63,Amazon Pay,Pending,San Jose,CA,United States,SELL01992
+ORD0052043,2024-12-09,CUST019037,Arjun Verma,P00029,T-Shirt,Electronics,FitLife,2,264.22,0.05,25.1,5.86,532.98,Debit Card,Shipped,Fort Worth,TX,United States,SELL00644
+ORD0050422,2022-08-28,CUST026196,Karan Singh,P00023,Cookware Set,Home & Kitchen,Apex,4,362.34,0.05,0.0,8.37,1385.26,Net Banking,Delivered,San Diego,CA,India,SELL01284
+ORD0005733,2021-11-04,CUST040129,Vivaan Gupta,P00008,4K Monitor,Toys & Games,FitLife,1,272.99,0.1,19.66,4.3,269.65,Credit Card,Delivered,Austin,TX,United Kingdom,SELL01707
+ORD0079392,2023-05-19,CUST021403,Aman Sharma,P00042,Projector Mini,Sports & Outdoors,UrbanStyle,4,183.69,0.05,0.0,4.69,702.71,Credit Card,Delivered,Jacksonville,FL,India,SELL00452
+ORD0084410,2022-04-03,CUST009457,Kabir Patel,P00029,T-Shirt,Toys & Games,BrightLux,5,589.39,0.15,200.39,13.33,2718.63,Cash on Delivery,Shipped,San Antonio,TX,United States,SELL00624
+ORD0021327,2021-01-29,CUST042520,Aarav Mehta,P00035,Desk Plant,Sports & Outdoors,UrbanStyle,3,79.89,0.0,11.98,5.24,256.89,Credit Card,Delivered,Dallas,TX,United Kingdom,SELL01672
+ORD0090161,2020-12-04,CUST019932,Sneha Kumar,P00021,Backpack,Clothing,CoreTech,5,377.54,0.2,75.51,3.6,1589.27,Credit Card,Delivered,San Diego,CA,United States,SELL00855
+ORD0072722,2024-09-27,CUST004576,Karan Reddy,P00010,Smartwatch,Sports & Outdoors,ReadMore,3,28.76,0.0,0.0,4.51,90.79,Credit Card,Delivered,Washington,DC,India,SELL00518
+ORD0097451,2020-10-18,CUST017532,Anjali Joshi,P00027,Winter Jacket,Sports & Outdoors,ReadMore,2,389.09,0.15,79.37,0.69,741.51,Net Banking,Delivered,Fort Worth,TX,United States,SELL01255
+ORD0075650,2022-12-23,CUST038208,Vikas Kumar,P00009,Portable SSD 1TB,Clothing,BrightLux,1,198.85,0.05,22.67,6.53,218.11,Amazon Pay,Delivered,San Antonio,TX,United States,SELL00949
+ORD0034147,2020-10-17,CUST026492,Rohit Joshi,P00023,Cookware Set,Electronics,BrightLux,3,203.54,0.2,39.08,12.6,540.18,Debit Card,Delivered,New York,NY,United States,SELL01529
+ORD0053575,2024-11-14,CUST003521,Priya Verma,P00036,Smart Light Bulb,Sports & Outdoors,Apex,3,241.19,0.15,30.75,1.26,647.04,Credit Card,Delivered,Austin,TX,India,SELL01699
+ORD0091354,2023-09-29,CUST043391,Aarav Verma,P00001,Wireless Earbuds,Toys & Games,UrbanStyle,4,79.04,0.0,56.91,6.11,379.18,Credit Card,Delivered,Fort Worth,TX,United States,SELL01923
+ORD0015863,2022-06-16,CUST044271,Anjali Sharma,P00028,Jeans,Sports & Outdoors,Zenith,4,594.11,0.0,0.0,0.15,2376.59,Debit Card,Pending,Austin,TX,United States,SELL01673
+ORD0077298,2020-04-29,CUST049277,Anjali Mehta,P00036,Smart Light Bulb,Clothing,FitLife,4,527.02,0.2,134.92,11.04,1832.42,Debit Card,Delivered,Dallas,TX,United States,SELL00572
+ORD0074918,2021-06-15,CUST027109,Ritika Verma,P00024,Yoga Mat,Electronics,UrbanStyle,4,500.97,0.3,70.14,4.72,1477.58,Cash on Delivery,Delivered,San Francisco,CA,United States,SELL00930
+ORD0062945,2020-04-14,CUST009515,Aditya Reddy,P00043,HDMI Cable 2m,Books,Zenith,1,400.88,0.15,40.89,0.73,382.37,Credit Card,Shipped,San Francisco,CA,United States,SELL00607
+ORD0021429,2024-09-26,CUST049978,Pooja Kumar,P00013,Action Camera,Books,KiddoFun,1,236.6,0.05,26.97,12.25,263.99,Debit Card,Delivered,Indianapolis,IN,United States,SELL01139
+ORD0066608,2021-04-02,CUST002905,Vihaan Kapoor,P00033,Puzzle 1000pc,Sports & Outdoors,UrbanStyle,3,543.44,0.15,110.86,1.84,1498.47,Credit Card,Delivered,San Diego,CA,India,SELL00826
+ORD0013518,2023-02-20,CUST010810,Aman Joshi,P00020,Office Chair,Sports & Outdoors,ReadMore,5,325.79,0.0,0.0,9.03,1637.98,Credit Card,Delivered,San Jose,CA,United States,SELL01343
+ORD0073755,2020-06-30,CUST008526,Mohit Singh,P00043,HDMI Cable 2m,Sports & Outdoors,Apex,5,498.6,0.15,254.29,3.81,2377.15,Cash on Delivery,Shipped,Austin,TX,United Kingdom,SELL01784
+ORD0048268,2021-02-25,CUST019946,Ritika Kapoor,P00049,Children's Book,Electronics,CoreTech,4,249.37,0.2,143.64,0.17,941.79,Net Banking,Delivered,Dallas,TX,India,SELL01873
+ORD0024832,2023-06-12,CUST045866,Aarav Kapoor,P00009,Portable SSD 1TB,Home & Kitchen,CoreTech,3,65.0,0.25,11.7,4.67,162.62,Debit Card,Shipped,San Jose,CA,United States,SELL00927
+ORD0007920,2021-02-22,CUST026472,Anjali Reddy,P00010,Smartwatch,Clothing,BrightLux,5,361.61,0.0,144.64,4.32,1957.01,Debit Card,Delivered,Charlotte,NC,India,SELL01711
+ORD0072029,2023-11-27,CUST027134,Arjun Kapoor,P00006,Gaming Mouse,Clothing,NexPro,4,344.39,0.05,104.69,7.38,1420.75,Cash on Delivery,Delivered,Charlotte,NC,United States,SELL01948
+ORD0064426,2023-04-28,CUST015756,Karan Patel,P00016,Air Fryer,Electronics,FitLife,2,136.54,0.0,13.65,13.19,299.92,Net Banking,Delivered,San Jose,CA,United States,SELL01719
+ORD0062742,2020-07-23,CUST043058,Rohit Mehta,P00024,Yoga Mat,Electronics,HomeEase,4,19.21,0.05,13.14,7.36,93.5,Debit Card,Shipped,Seattle,WA,United States,SELL00076
+ORD0004920,2024-05-16,CUST043674,Rohit Gupta,P00006,Gaming Mouse,Home & Kitchen,BrightLux,1,195.92,0.0,23.51,0.67,220.1,Credit Card,Delivered,Charlotte,NC,United States,SELL00448
+ORD0009280,2021-03-09,CUST036328,Vivaan Patel,P00050,Novel Bestseller,Electronics,UrbanStyle,3,284.58,0.0,102.45,11.14,967.33,Credit Card,Shipped,Chicago,IL,United States,SELL00266
+ORD0055223,2023-01-28,CUST025578,Sneha Gupta,P00013,Action Camera,Electronics,HomeEase,2,381.25,0.2,0.0,11.68,621.68,Net Banking,Delivered,Fort Worth,TX,United States,SELL01379
+ORD0084757,2022-01-18,CUST015265,Simran Kapoor,P00019,LED Desk Lamp,Home & Kitchen,BrightLux,1,99.47,0.0,4.97,7.82,112.26,UPI,Delivered,Columbus,OH,United States,SELL00754
+ORD0060655,2020-03-24,CUST041838,Kabir Gupta,P00008,4K Monitor,Sports & Outdoors,KiddoFun,5,317.04,0.05,180.71,12.83,1699.48,Amazon Pay,Delivered,Chicago,IL,Canada,SELL01617
+ORD0089429,2023-02-03,CUST017343,Simran Sharma,P00012,Noise Cancelling Headphones,Clothing,KiddoFun,5,461.54,0.2,0.0,9.58,1855.74,Credit Card,Shipped,Fort Worth,TX,United States,SELL01684
+ORD0021866,2021-01-02,CUST021542,Vivaan Sharma,P00042,Projector Mini,Clothing,NexPro,1,190.37,0.0,9.52,7.46,207.35,Credit Card,Delivered,Washington,DC,United Kingdom,SELL01739
+ORD0016977,2021-07-09,CUST002246,Sneha Kapoor,P00015,Instant Pot,Clothing,Apex,4,67.7,0.2,26.0,1.39,244.03,Net Banking,Delivered,Charlotte,NC,United States,SELL01525
+ORD0013861,2020-08-15,CUST008445,Karan Mehta,P00045,Phone Tripod,Sports & Outdoors,KiddoFun,2,258.12,0.0,61.95,8.79,586.98,UPI,Delivered,San Antonio,TX,Canada,SELL01441
+ORD0000512,2021-07-23,CUST026026,Vivaan Patel,P00025,Running Shoes,Sports & Outdoors,BrightLux,1,169.23,0.05,8.04,2.9,171.71,Credit Card,Shipped,Los Angeles,CA,United States,SELL00212
+ORD0076543,2023-02-17,CUST014443,Arjun Joshi,P00012,Noise Cancelling Headphones,Sports & Outdoors,HomeEase,2,511.15,0.0,81.78,7.73,1111.81,Amazon Pay,Delivered,Jacksonville,FL,United States,SELL00291
+ORD0040989,2024-09-17,CUST014989,Kabir Reddy,P00012,Noise Cancelling Headphones,Electronics,NexPro,3,456.33,0.0,109.52,8.7,1487.21,Credit Card,Delivered,Austin,TX,United States,SELL00570
+ORD0068665,2024-05-09,CUST020118,Vihaan Kapoor,P00015,Instant Pot,Sports & Outdoors,HomeEase,3,459.99,0.25,51.75,1.65,1088.38,UPI,Delivered,Seattle,WA,United States,SELL00715
+ORD0091285,2021-10-19,CUST017092,Karan Sharma,P00027,Winter Jacket,Sports & Outdoors,Zenith,5,528.11,0.0,475.3,6.9,3122.75,Credit Card,Delivered,Los Angeles,CA,United States,SELL01165
+ORD0087160,2022-12-10,CUST015400,Aarav Reddy,P00048,Wireless Charger,Sports & Outdoors,UrbanStyle,5,377.72,0.1,0.0,1.99,1701.73,Amazon Pay,Delivered,Indianapolis,IN,India,SELL00679
+ORD0068221,2022-05-07,CUST010507,Rohit Patel,P00023,Cookware Set,Sports & Outdoors,BrightLux,5,205.53,0.05,48.81,12.92,1038.0,Credit Card,Delivered,Seattle,WA,United States,SELL01363
+ORD0045878,2024-03-20,CUST007590,Priya Reddy,P00026,Sunglasses,Toys & Games,Zenith,5,29.73,0.05,7.06,6.59,154.87,Amazon Pay,Shipped,Dallas,TX,United States,SELL01651
+ORD0020107,2020-10-28,CUST005269,Aman Gupta,P00049,Children's Book,Sports & Outdoors,ReadMore,1,331.37,0.1,23.86,4.87,326.96,Credit Card,Delivered,Los Angeles,CA,United States,SELL00064
+ORD0065072,2022-05-26,CUST027739,Vihaan Singh,P00023,Cookware Set,Home & Kitchen,CoreTech,3,377.43,0.0,56.61,3.74,1192.64,Debit Card,Pending,Los Angeles,CA,United States,SELL00932
+ORD0072721,2022-09-25,CUST031952,Sahil Reddy,P00022,Water Bottle,Home & Kitchen,KiddoFun,1,141.46,0.0,11.32,5.58,158.36,Credit Card,Delivered,Austin,TX,United States,SELL00664
+ORD0084271,2023-11-19,CUST049749,Pooja Patel,P00025,Running Shoes,Electronics,CoreTech,1,364.22,0.05,27.68,13.31,387.0,Cash on Delivery,Delivered,Denver,CO,Canada,SELL00604
+ORD0072348,2024-10-26,CUST008387,Arjun Gupta,P00020,Office Chair,Electronics,FitLife,1,77.24,0.0,13.9,5.18,96.32,Amazon Pay,Delivered,Los Angeles,CA,United States,SELL01798
+ORD0091821,2020-07-16,CUST014102,Priya Sharma,P00007,Mechanical Keyboard,Home & Kitchen,Apex,3,35.35,0.0,0.0,13.98,120.03,Debit Card,Delivered,Columbus,OH,United States,SELL01381
+ORD0072939,2021-06-29,CUST019327,Simran Kumar,P00048,Wireless Charger,Home & Kitchen,UrbanStyle,5,78.43,0.0,70.59,5.19,467.93,Net Banking,Delivered,Philadelphia,PA,United States,SELL00656
+ORD0026167,2024-10-04,CUST012638,Rohit Kapoor,P00050,Novel Bestseller,Clothing,FitLife,3,179.04,0.0,96.68,3.04,636.84,Net Banking,Delivered,Los Angeles,CA,United States,SELL01029
+ORD0044552,2022-10-28,CUST011247,Aman Mehta,P00044,Power Bank 20000mAh,Sports & Outdoors,Zenith,1,535.59,0.0,42.85,2.07,580.51,Amazon Pay,Delivered,San Jose,CA,United States,SELL00725
+ORD0058468,2024-07-27,CUST040023,Vivaan Kumar,P00009,Portable SSD 1TB,Books,FitLife,2,398.57,0.0,0.0,3.78,800.92,Credit Card,Delivered,Austin,TX,United States,SELL01028
+ORD0024738,2022-08-11,CUST031483,Neha Gupta,P00027,Winter Jacket,Electronics,HomeEase,2,411.46,0.0,98.75,3.89,925.56,Net Banking,Delivered,Washington,DC,United States,SELL01540
+ORD0085255,2022-05-25,CUST011138,Aarav Kumar,P00007,Mechanical Keyboard,Books,HomeEase,3,152.42,0.0,82.31,12.08,551.65,Cash on Delivery,Delivered,New York,NY,United States,SELL00735
+ORD0008950,2023-03-01,CUST005459,Vivaan Sharma,P00045,Phone Tripod,Electronics,NexPro,3,35.92,0.05,12.28,3.16,117.81,Debit Card,Shipped,Seattle,WA,United States,SELL01067
+ORD0070178,2022-06-30,CUST002015,Sneha Kapoor,P00035,Desk Plant,Electronics,NexPro,1,236.79,0.0,11.84,11.27,259.9,Credit Card,Delivered,Columbus,OH,United States,SELL01848
+ORD0099245,2023-03-17,CUST011265,Arjun Kumar,P00026,Sunglasses,Sports & Outdoors,FitLife,1,465.22,0.1,33.5,14.89,467.09,Credit Card,Delivered,Philadelphia,PA,United Kingdom,SELL01098
+ORD0031803,2024-01-21,CUST044100,Aarav Reddy,P00018,Vacuum Cleaner,Sports & Outdoors,CoreTech,3,220.79,0.05,113.27,11.31,753.83,Credit Card,Shipped,Indianapolis,IN,United States,SELL00140
+ORD0022001,2021-11-22,CUST014722,Priya Kapoor,P00035,Desk Plant,Clothing,NexPro,2,595.44,0.2,47.64,14.65,1014.99,Debit Card,Delivered,San Jose,CA,India,SELL01132
+ORD0088234,2024-07-31,CUST047628,Sunita Joshi,P00037,Router,Books,UrbanStyle,5,210.71,0.05,80.07,1.72,1082.66,Net Banking,Shipped,Charlotte,NC,United Kingdom,SELL01213
+ORD0058842,2024-08-10,CUST000248,Anjali Sharma,P00002,Bluetooth Speaker,Electronics,FitLife,4,383.62,0.15,0.0,11.39,1315.7,Credit Card,Delivered,Columbus,OH,United States,SELL00886
+ORD0029042,2024-02-01,CUST035218,Vikas Verma,P00041,Webcam Full HD,Electronics,FitLife,5,229.14,0.1,51.56,13.3,1095.99,Debit Card,Delivered,Washington,DC,United Kingdom,SELL01936
+ORD0064848,2023-05-03,CUST040709,Simran Kapoor,P00047,Memory Card 128GB,Books,BrightLux,1,25.85,0.15,3.96,3.92,29.85,Amazon Pay,Delivered,Fort Worth,TX,United States,SELL00403
+ORD0025077,2020-04-12,CUST044199,Kabir Reddy,P00024,Yoga Mat,Clothing,FitLife,4,175.14,0.1,113.49,10.67,754.66,UPI,Shipped,Denver,CO,India,SELL00898
+ORD0096157,2023-03-12,CUST011671,Vihaan Reddy,P00041,Webcam Full HD,Home & Kitchen,HomeEase,2,467.39,0.1,67.3,6.58,915.18,Debit Card,Delivered,San Diego,CA,India,SELL01953
+ORD0052333,2020-03-02,CUST046569,Sneha Kapoor,P00005,Laptop Sleeve,Clothing,BrightLux,5,171.93,0.1,61.89,11.84,847.42,Amazon Pay,Delivered,San Jose,CA,United States,SELL01911
+ORD0022727,2021-10-18,CUST023270,Anjali Kapoor,P00002,Bluetooth Speaker,Clothing,HomeEase,5,465.84,0.05,0.0,6.21,2218.95,Amazon Pay,Delivered,San Jose,CA,United States,SELL01282
+ORD0036726,2020-02-06,CUST018964,Mohit Mehta,P00011,Fitness Band,Books,CoreTech,4,382.15,0.05,0.0,9.78,1461.95,Credit Card,Delivered,Austin,TX,United States,SELL01223
+ORD0079535,2023-04-06,CUST004919,Aditya Joshi,P00001,Wireless Earbuds,Clothing,Zenith,2,584.09,0.15,79.44,5.81,1078.2,Amazon Pay,Shipped,Austin,TX,United States,SELL01757
+ORD0059119,2024-07-13,CUST015934,Pooja Gupta,P00016,Air Fryer,Electronics,Apex,5,455.22,0.15,96.73,8.57,2039.98,Net Banking,Delivered,Fort Worth,TX,United States,SELL00193
+ORD0087238,2020-03-17,CUST008487,Kabir Joshi,P00015,Instant Pot,Sports & Outdoors,KiddoFun,1,283.79,0.0,22.7,11.48,317.97,Credit Card,Delivered,Denver,CO,India,SELL01529
+ORD0009600,2021-05-25,CUST029375,Vikas Verma,P00030,Dress Shirt,Sports & Outdoors,KiddoFun,5,291.76,0.1,105.03,8.94,1426.89,Net Banking,Shipped,Columbus,OH,United States,SELL01528
+ORD0007616,2024-08-08,CUST038395,Vihaan Reddy,P00029,T-Shirt,Clothing,Zenith,5,260.38,0.3,164.04,2.17,1077.54,Debit Card,Delivered,Chicago,IL,United States,SELL00921
+ORD0045207,2024-06-05,CUST045945,Neha Kapoor,P00030,Dress Shirt,Books,Apex,2,305.1,0.1,27.46,4.63,581.27,Amazon Pay,Delivered,San Diego,CA,United States,SELL01499
+ORD0095606,2020-08-18,CUST036891,Priya Verma,P00031,Kids Toy Car,Sports & Outdoors,Apex,3,426.8,0.05,97.31,10.01,1323.7,Amazon Pay,Delivered,Philadelphia,PA,United States,SELL01467
+ORD0080711,2021-06-08,CUST016793,Sneha Joshi,P00023,Cookware Set,Clothing,Apex,2,401.38,0.05,61.01,13.53,837.16,Amazon Pay,Delivered,Philadelphia,PA,United States,SELL00471
+ORD0006445,2024-04-29,CUST018206,Ritika Kapoor,P00048,Wireless Charger,Toys & Games,NexPro,2,268.78,0.05,40.85,2.64,554.17,Debit Card,Delivered,Phoenix,AZ,India,SELL01746
+ORD0081438,2020-07-13,CUST000894,Rohit Singh,P00044,Power Bank 20000mAh,Home & Kitchen,ReadMore,3,21.18,0.1,2.86,3.01,63.06,Credit Card,Shipped,New York,NY,United States,SELL01142
+ORD0073716,2020-04-08,CUST000469,Anjali Kapoor,P00034,Desk Organizer,Clothing,ReadMore,2,220.7,0.1,31.78,3.66,432.7,Credit Card,Delivered,Fort Worth,TX,United States,SELL01962
+ORD0063212,2021-09-12,CUST043856,Kabir Verma,P00030,Dress Shirt,Books,BrightLux,2,79.64,0.05,7.57,11.73,170.62,Credit Card,Shipped,Philadelphia,PA,United States,SELL00881
+ORD0049575,2022-06-19,CUST003653,Aman Sharma,P00011,Fitness Band,Toys & Games,UrbanStyle,3,48.42,0.25,13.07,7.62,129.64,Debit Card,Delivered,Charlotte,NC,United States,SELL01698
+ORD0056478,2024-03-27,CUST009244,Kabir Gupta,P00043,HDMI Cable 2m,Books,BrightLux,2,425.65,0.3,29.8,4.16,629.87,Credit Card,Delivered,Fort Worth,TX,United States,SELL01752
+ORD0047223,2023-05-28,CUST034444,Ritika Kapoor,P00015,Instant Pot,Books,FitLife,2,593.19,0.2,0.0,9.45,958.55,Cash on Delivery,Returned,San Diego,CA,India,SELL01181
+ORD0079762,2020-11-27,CUST032330,Sunita Patel,P00050,Novel Bestseller,Home & Kitchen,Zenith,4,369.95,0.1,106.55,1.14,1439.51,Amazon Pay,Returned,Chicago,IL,United States,SELL01666
+ORD0011770,2020-05-13,CUST031665,Rohit Kapoor,P00023,Cookware Set,Electronics,NexPro,2,547.68,0.0,54.77,9.82,1159.95,Amazon Pay,Delivered,Los Angeles,CA,India,SELL01724
+ORD0095004,2024-01-29,CUST008522,Vikas Sharma,P00036,Smart Light Bulb,Books,NexPro,5,85.78,0.0,21.44,9.42,459.76,Credit Card,Delivered,Dallas,TX,United States,SELL00791
+ORD0072254,2023-06-22,CUST004261,Priya Mehta,P00035,Desk Plant,Clothing,NexPro,1,62.04,0.0,0.0,3.42,65.46,Debit Card,Delivered,San Jose,CA,United States,SELL00682
+ORD0098974,2020-03-07,CUST020433,Simran Reddy,P00007,Mechanical Keyboard,Clothing,UrbanStyle,5,106.76,0.05,25.36,3.05,535.52,Debit Card,Returned,San Francisco,CA,Canada,SELL01535
+ORD0073847,2021-12-25,CUST042194,Aditya Sharma,P00006,Gaming Mouse,Toys & Games,NexPro,3,274.76,0.3,28.85,8.62,614.47,Debit Card,Delivered,Jacksonville,FL,United States,SELL00077
+ORD0001537,2020-07-12,CUST028081,Rohit Mehta,P00010,Smartwatch,Toys & Games,Zenith,4,296.06,0.05,90.0,3.1,1218.13,UPI,Returned,Chicago,IL,United States,SELL00163
+ORD0003579,2020-09-06,CUST002344,Aditya Sharma,P00048,Wireless Charger,Electronics,KiddoFun,4,470.07,0.2,270.76,14.9,1789.88,UPI,Shipped,Chicago,IL,United States,SELL00229
+ORD0071274,2020-12-03,CUST000894,Sunita Gupta,P00035,Desk Plant,Electronics,FitLife,3,335.83,0.15,68.51,4.26,929.14,Net Banking,Delivered,Jacksonville,FL,United States,SELL00500
+ORD0010993,2022-02-08,CUST037074,Aarav Verma,P00048,Wireless Charger,Home & Kitchen,FitLife,3,502.56,0.25,0.0,14.75,1145.51,Amazon Pay,Delivered,Denver,CO,United States,SELL01492
+ORD0018137,2020-07-16,CUST049453,Karan Sharma,P00017,Electric Kettle,Home & Kitchen,ReadMore,1,77.8,0.1,5.6,1.68,77.3,UPI,Delivered,Los Angeles,CA,United States,SELL01465
+ORD0040934,2024-08-09,CUST015864,Kabir Reddy,P00039,Graphic Tablet,Clothing,NexPro,1,23.83,0.0,4.29,1.75,29.87,Credit Card,Delivered,Denver,CO,United States,SELL00209
+ORD0022118,2020-10-20,CUST003598,Mohit Mehta,P00042,Projector Mini,Home & Kitchen,NexPro,1,138.45,0.15,9.41,4.53,131.62,Credit Card,Delivered,Phoenix,AZ,United States,SELL00836
+ORD0003048,2024-01-30,CUST001072,Anjali Joshi,P00029,T-Shirt,Clothing,FitLife,4,377.77,0.3,190.4,4.12,1252.28,Credit Card,Delivered,Austin,TX,India,SELL01626
+ORD0019425,2020-09-16,CUST000951,Priya Singh,P00035,Desk Plant,Sports & Outdoors,Zenith,2,299.13,0.0,47.86,13.94,660.06,Debit Card,Delivered,San Jose,CA,Australia,SELL01260
+ORD0070818,2022-02-06,CUST023704,Ritika Joshi,P00038,External HDD 2TB,Electronics,BrightLux,4,414.75,0.05,126.08,10.32,1712.45,Debit Card,Shipped,San Antonio,TX,United States,SELL00878
+ORD0019018,2022-09-10,CUST013550,Mohit Kumar,P00048,Wireless Charger,Books,Zenith,2,25.97,0.0,2.6,5.72,60.26,Credit Card,Delivered,Jacksonville,FL,United States,SELL00372
+ORD0029668,2023-11-18,CUST005299,Rohit Gupta,P00032,Board Game,Clothing,ReadMore,5,524.8,0.0,314.88,7.47,2946.35,Credit Card,Delivered,Indianapolis,IN,United States,SELL01127
+ORD0049198,2024-05-08,CUST041923,Anjali Patel,P00012,Noise Cancelling Headphones,Home & Kitchen,CoreTech,5,343.26,0.1,77.23,11.48,1633.38,Credit Card,Delivered,Los Angeles,CA,United States,SELL01711
+ORD0024618,2021-12-27,CUST019595,Rohit Verma,P00013,Action Camera,Home & Kitchen,NexPro,3,62.63,0.05,0.0,2.53,181.03,Debit Card,Delivered,Los Angeles,CA,United States,SELL00408
+ORD0090046,2020-03-05,CUST046461,Rohit Verma,P00021,Backpack,Clothing,FitLife,5,489.65,0.0,195.86,8.79,2652.9,Debit Card,Delivered,San Antonio,TX,United Kingdom,SELL01298
+ORD0049374,2021-01-05,CUST026245,Mohit Patel,P00031,Kids Toy Car,Sports & Outdoors,Zenith,4,478.21,0.0,229.54,14.65,2157.03,UPI,Delivered,San Antonio,TX,United States,SELL00189
+ORD0034944,2020-02-18,CUST010939,Sneha Singh,P00021,Backpack,Books,BrightLux,1,407.1,0.0,0.0,4.05,411.15,Credit Card,Delivered,San Diego,CA,United States,SELL00945
+ORD0031079,2024-11-21,CUST045737,Vivaan Kumar,P00005,Laptop Sleeve,Books,ReadMore,2,213.06,0.05,32.39,8.21,445.41,Amazon Pay,Delivered,Washington,DC,United States,SELL01060
+ORD0064374,2024-01-11,CUST024487,Pooja Patel,P00032,Board Game,Electronics,ReadMore,4,306.85,0.0,147.29,8.38,1383.07,Debit Card,Shipped,Seattle,WA,United States,SELL00100
+ORD0082704,2020-06-17,CUST020759,Ritika Singh,P00007,Mechanical Keyboard,Clothing,HomeEase,3,326.6,0.3,0.0,5.28,691.14,UPI,Delivered,New York,NY,United States,SELL01696
+ORD0096977,2021-02-09,CUST022798,Sunita Kapoor,P00046,Car Charger,Toys & Games,UrbanStyle,3,79.23,0.1,17.11,9.1,240.13,Cash on Delivery,Delivered,Denver,CO,India,SELL00473
+ORD0095376,2021-10-26,CUST008028,Neha Kumar,P00006,Gaming Mouse,Electronics,NexPro,5,94.28,0.0,37.71,12.72,521.83,Debit Card,Delivered,San Francisco,CA,United States,SELL00856
+ORD0050806,2023-01-06,CUST001917,Sneha Reddy,P00033,Puzzle 1000pc,Clothing,NexPro,2,114.55,0.0,18.33,2.97,250.4,Net Banking,Delivered,Austin,TX,United States,SELL01972
+ORD0073003,2024-06-09,CUST015529,Arjun Kumar,P00001,Wireless Earbuds,Electronics,ReadMore,3,218.69,0.05,0.0,13.71,636.98,Credit Card,Delivered,Phoenix,AZ,United States,SELL00920
+ORD0078606,2022-07-20,CUST006017,Rohit Patel,P00032,Board Game,Books,FitLife,1,375.49,0.15,25.53,9.51,354.21,Credit Card,Delivered,San Jose,CA,United States,SELL00513
+ORD0029483,2022-05-05,CUST032797,Mohit Patel,P00019,LED Desk Lamp,Clothing,Zenith,4,215.34,0.0,68.91,13.12,943.39,UPI,Delivered,Indianapolis,IN,Canada,SELL01774
+ORD0051495,2021-08-20,CUST033510,Ritika Patel,P00015,Instant Pot,Electronics,NexPro,1,504.09,0.0,25.2,12.14,541.43,Credit Card,Delivered,Dallas,TX,United States,SELL00157
+ORD0057825,2021-09-30,CUST012323,Sneha Joshi,P00027,Winter Jacket,Books,UrbanStyle,2,22.09,0.0,5.3,3.35,52.83,Credit Card,Delivered,Fort Worth,TX,United States,SELL00350
+ORD0085313,2023-04-27,CUST032266,Karan Kapoor,P00012,Noise Cancelling Headphones,Clothing,ReadMore,1,178.88,0.0,8.94,14.67,202.49,Amazon Pay,Delivered,Houston,TX,United States,SELL00245
+ORD0048963,2020-11-06,CUST015580,Neha Reddy,P00009,Portable SSD 1TB,Home & Kitchen,HomeEase,2,189.65,0.0,45.52,7.46,432.28,Credit Card,Delivered,Austin,TX,India,SELL00286
+ORD0063378,2022-07-19,CUST013285,Simran Singh,P00006,Gaming Mouse,Toys & Games,HomeEase,5,392.64,0.15,133.5,4.38,1806.6,UPI,Shipped,Dallas,TX,United Kingdom,SELL00968
+ORD0041166,2020-10-11,CUST002536,Sunita Joshi,P00036,Smart Light Bulb,Toys & Games,Apex,3,430.16,0.0,64.52,6.92,1361.92,Amazon Pay,Shipped,San Francisco,CA,India,SELL01020
+ORD0068304,2021-03-27,CUST017624,Karan Gupta,P00034,Desk Organizer,Electronics,Apex,1,69.61,0.0,5.57,13.11,88.29,Amazon Pay,Delivered,Los Angeles,CA,United States,SELL00023
+ORD0008836,2022-01-17,CUST023626,Sunita Patel,P00025,Running Shoes,Electronics,Zenith,5,260.07,0.05,222.36,4.21,1461.9,Credit Card,Delivered,Charlotte,NC,United States,SELL01766
+ORD0092517,2021-10-30,CUST018216,Vihaan Kapoor,P00041,Webcam Full HD,Home & Kitchen,Apex,4,585.4,0.15,0.0,3.73,1994.09,UPI,Delivered,Dallas,TX,United States,SELL00371
+ORD0023517,2022-10-15,CUST043055,Kabir Sharma,P00035,Desk Plant,Sports & Outdoors,UrbanStyle,4,541.49,0.15,220.93,11.47,2073.47,Cash on Delivery,Delivered,Phoenix,AZ,United States,SELL00963
+ORD0054075,2020-05-17,CUST041725,Neha Kapoor,P00013,Action Camera,Clothing,CoreTech,3,335.37,0.1,0.0,3.35,908.85,UPI,Cancelled,Philadelphia,PA,United States,SELL01042
+ORD0083582,2020-12-26,CUST009811,Pooja Joshi,P00023,Cookware Set,Electronics,KiddoFun,3,205.77,0.05,105.56,9.08,701.08,Credit Card,Delivered,Phoenix,AZ,India,SELL01997
+ORD0071451,2020-04-22,CUST048726,Simran Reddy,P00003,Smartphone Case,Electronics,NexPro,3,106.66,0.1,23.04,14.9,325.92,UPI,Shipped,Houston,TX,Canada,SELL01520
+ORD0064786,2022-09-10,CUST043149,Neha Verma,P00004,USB-C Charger,Toys & Games,KiddoFun,2,227.13,0.05,51.79,2.25,485.59,Credit Card,Shipped,Jacksonville,FL,United States,SELL01732
+ORD0050543,2021-01-22,CUST029709,Sahil Verma,P00047,Memory Card 128GB,Clothing,FitLife,4,355.43,0.0,170.61,11.1,1603.43,UPI,Delivered,Austin,TX,India,SELL01198
+ORD0048410,2023-01-13,CUST011516,Priya Joshi,P00005,Laptop Sleeve,Electronics,Apex,2,307.55,0.05,70.12,2.25,656.72,UPI,Delivered,San Jose,CA,United States,SELL00474
+ORD0046449,2021-08-18,CUST007864,Sunita Singh,P00009,Portable SSD 1TB,Books,Apex,5,164.41,0.05,62.48,6.47,849.9,Debit Card,Delivered,Denver,CO,United States,SELL01217
+ORD0060698,2020-04-19,CUST038053,Kabir Verma,P00038,External HDD 2TB,Sports & Outdoors,ReadMore,3,468.71,0.05,160.3,6.13,1502.25,Credit Card,Returned,Denver,CO,United States,SELL01588
+ORD0044550,2020-11-11,CUST047328,Anjali Verma,P00037,Router,Clothing,NexPro,3,416.08,0.0,99.86,4.31,1352.41,Credit Card,Delivered,Columbus,OH,United States,SELL00435
+ORD0002291,2020-08-12,CUST004193,Vikas Kumar,P00046,Car Charger,Home & Kitchen,FitLife,3,537.34,0.15,164.43,10.31,1544.96,Credit Card,Delivered,Seattle,WA,United States,SELL01735
+ORD0070677,2024-12-17,CUST010574,Sneha Mehta,P00037,Router,Sports & Outdoors,CoreTech,1,352.58,0.0,17.63,6.49,376.7,UPI,Pending,Washington,DC,United States,SELL01729
+ORD0033981,2021-01-30,CUST036374,Arjun Kumar,P00050,Novel Bestseller,Sports & Outdoors,ReadMore,5,425.47,0.1,153.17,7.35,2075.14,Credit Card,Delivered,Seattle,WA,United States,SELL00414
+ORD0006261,2020-02-19,CUST015547,Sneha Mehta,P00021,Backpack,Sports & Outdoors,HomeEase,4,527.27,0.0,168.73,11.79,2289.6,Debit Card,Delivered,Columbus,OH,India,SELL00425
+ORD0089256,2023-10-14,CUST017388,Karan Verma,P00016,Air Fryer,Home & Kitchen,NexPro,3,309.5,0.05,105.85,3.83,991.76,Debit Card,Returned,Los Angeles,CA,United States,SELL00422
+ORD0080946,2022-09-09,CUST022610,Neha Gupta,P00034,Desk Organizer,Books,CoreTech,5,157.0,0.25,70.65,0.65,660.05,Debit Card,Delivered,San Antonio,TX,United States,SELL01403
+ORD0070221,2022-12-19,CUST049243,Aarav Sharma,P00002,Bluetooth Speaker,Sports & Outdoors,HomeEase,3,159.48,0.15,32.53,4.04,443.24,UPI,Delivered,Los Angeles,CA,United States,SELL01565
+ORD0006080,2023-12-27,CUST011583,Simran Mehta,P00037,Router,Sports & Outdoors,KiddoFun,3,299.15,0.0,71.8,1.4,970.65,UPI,Delivered,Phoenix,AZ,United States,SELL01595
+ORD0049774,2023-06-05,CUST017289,Pooja Joshi,P00010,Smartwatch,Sports & Outdoors,ReadMore,3,266.56,0.0,39.98,7.43,847.09,Credit Card,Pending,Philadelphia,PA,United States,SELL01527
+ORD0000209,2022-03-06,CUST017264,Sneha Kumar,P00031,Kids Toy Car,Electronics,KiddoFun,3,568.01,0.0,0.0,12.94,1716.97,Credit Card,Delivered,San Jose,CA,United Kingdom,SELL01838
+ORD0073124,2020-09-19,CUST022978,Mohit Reddy,P00013,Action Camera,Books,FitLife,3,136.52,0.05,70.03,3.1,462.21,Credit Card,Delivered,New York,NY,United States,SELL01183
+ORD0047416,2023-06-27,CUST045239,Ritika Joshi,P00003,Smartphone Case,Sports & Outdoors,KiddoFun,5,445.1,0.1,100.15,0.61,2103.71,Debit Card,Delivered,Columbus,OH,United States,SELL00439
+ORD0095247,2020-03-05,CUST008738,Anjali Kumar,P00014,Drone Mini,Electronics,BrightLux,5,212.82,0.05,80.87,3.73,1095.49,Debit Card,Returned,Philadelphia,PA,United States,SELL01113
+ORD0086569,2020-12-15,CUST005304,Arjun Sharma,P00020,Office Chair,Home & Kitchen,CoreTech,5,208.21,0.15,44.24,1.49,930.62,Net Banking,Delivered,Phoenix,AZ,United States,SELL00576
+ORD0027042,2021-03-22,CUST014320,Pooja Kapoor,P00012,Noise Cancelling Headphones,Clothing,CoreTech,4,448.36,0.15,274.4,8.76,1807.58,Debit Card,Delivered,Denver,CO,United States,SELL00529
+ORD0036478,2022-04-27,CUST043947,Aditya Kapoor,P00019,LED Desk Lamp,Electronics,HomeEase,1,418.76,0.0,33.5,6.71,458.97,Net Banking,Delivered,Indianapolis,IN,United States,SELL01990
+ORD0065433,2020-08-17,CUST009927,Vivaan Mehta,P00024,Yoga Mat,Electronics,KiddoFun,2,389.77,0.0,38.98,11.2,829.72,Debit Card,Delivered,Philadelphia,PA,United States,SELL00865
+ORD0095434,2021-12-10,CUST003728,Arjun Gupta,P00018,Vacuum Cleaner,Clothing,NexPro,3,265.08,0.0,0.0,1.87,797.11,Amazon Pay,Delivered,San Francisco,CA,India,SELL01056
+ORD0009751,2020-08-14,CUST035625,Sneha Reddy,P00020,Office Chair,Home & Kitchen,NexPro,3,416.88,0.2,120.06,3.87,1124.44,Amazon Pay,Shipped,Jacksonville,FL,United States,SELL00827
+ORD0079645,2021-12-25,CUST026470,Neha Reddy,P00021,Backpack,Clothing,NexPro,3,288.76,0.0,155.93,8.81,1031.02,Cash on Delivery,Pending,Los Angeles,CA,United States,SELL01423
+ORD0064105,2021-10-09,CUST006433,Simran Joshi,P00046,Car Charger,Home & Kitchen,KiddoFun,4,512.38,0.25,0.0,8.82,1545.96,Credit Card,Delivered,San Antonio,TX,United States,SELL00210
+ORD0043397,2023-09-17,CUST010863,Aarav Reddy,P00034,Desk Organizer,Home & Kitchen,UrbanStyle,5,279.79,0.0,251.81,13.99,1664.75,UPI,Delivered,San Antonio,TX,United States,SELL01964
+ORD0010408,2020-10-07,CUST035608,Priya Reddy,P00011,Fitness Band,Home & Kitchen,KiddoFun,5,400.94,0.0,240.56,5.51,2250.77,UPI,Returned,Denver,CO,United States,SELL01853
+ORD0069481,2021-09-12,CUST042248,Priya Verma,P00014,Drone Mini,Clothing,NexPro,3,156.14,0.1,33.73,9.37,464.68,UPI,Pending,Indianapolis,IN,United States,SELL00014
+ORD0083303,2023-07-12,CUST021983,Vivaan Mehta,P00030,Dress Shirt,Clothing,BrightLux,3,182.65,0.1,0.0,0.87,494.02,Cash on Delivery,Shipped,Seattle,WA,United States,SELL00181
+ORD0083490,2023-07-01,CUST010519,Kabir Singh,P00032,Board Game,Electronics,HomeEase,4,531.25,0.0,106.25,10.36,2241.61,Credit Card,Shipped,New York,NY,United States,SELL00484
+ORD0059710,2022-06-01,CUST034611,Vivaan Mehta,P00017,Electric Kettle,Books,KiddoFun,1,525.7,0.15,0.0,8.69,455.54,Cash on Delivery,Shipped,Phoenix,AZ,United States,SELL00477
+ORD0022248,2021-07-20,CUST036550,Ritika Gupta,P00012,Noise Cancelling Headphones,Home & Kitchen,CoreTech,4,508.79,0.05,96.67,12.02,2042.09,Credit Card,Delivered,Seattle,WA,United States,SELL00054
+ORD0052797,2022-07-23,CUST044662,Aarav Kapoor,P00047,Memory Card 128GB,Toys & Games,ReadMore,5,265.46,0.0,66.36,11.68,1405.34,Amazon Pay,Shipped,San Antonio,TX,United States,SELL01299
+ORD0098543,2022-04-03,CUST004838,Mohit Kumar,P00037,Router,Clothing,CoreTech,1,556.47,0.3,19.48,12.8,421.81,Cash on Delivery,Shipped,Washington,DC,United States,SELL01622
+ORD0035214,2021-11-07,CUST037610,Vivaan Kapoor,P00029,T-Shirt,Home & Kitchen,FitLife,5,124.61,0.0,49.84,5.07,677.96,Debit Card,Delivered,Chicago,IL,India,SELL01280
+ORD0042797,2024-04-22,CUST032332,Anjali Reddy,P00044,Power Bank 20000mAh,Electronics,NexPro,3,381.97,0.1,51.57,7.13,1090.02,Debit Card,Delivered,Charlotte,NC,United States,SELL01163
+ORD0053776,2021-03-24,CUST043681,Sneha Reddy,P00037,Router,Books,ReadMore,2,208.95,0.2,0.0,11.32,345.64,Credit Card,Delivered,Los Angeles,CA,United States,SELL01247
+ORD0069074,2020-07-13,CUST006690,Karan Kumar,P00040,Microphone,Electronics,CoreTech,2,437.61,0.0,157.54,7.9,1040.66,Amazon Pay,Delivered,Dallas,TX,United States,SELL01165
+ORD0034702,2022-03-09,CUST048876,Vihaan Kapoor,P00026,Sunglasses,Home & Kitchen,Zenith,2,185.58,0.15,15.77,9.33,340.59,Net Banking,Delivered,Jacksonville,FL,United States,SELL00971
+ORD0046769,2024-06-08,CUST042269,Anjali Patel,P00013,Action Camera,Electronics,FitLife,3,283.53,0.0,102.07,4.74,957.4,UPI,Cancelled,Fort Worth,TX,Australia,SELL00363
+ORD0009343,2022-09-30,CUST037857,Ritika Verma,P00045,Phone Tripod,Electronics,ReadMore,5,211.72,0.0,190.55,1.52,1250.67,Credit Card,Delivered,Los Angeles,CA,United States,SELL01464
+ORD0035768,2020-08-03,CUST037478,Rohit Gupta,P00002,Bluetooth Speaker,Clothing,ReadMore,2,233.73,0.25,28.05,12.98,391.62,UPI,Delivered,Fort Worth,TX,United States,SELL01418
+ORD0025112,2023-12-14,CUST014830,Pooja Kapoor,P00021,Backpack,Books,CoreTech,2,535.34,0.0,53.53,5.21,1129.42,Amazon Pay,Delivered,Chicago,IL,United States,SELL00682
+ORD0070430,2024-06-28,CUST029107,Vihaan Mehta,P00023,Cookware Set,Home & Kitchen,NexPro,1,278.47,0.0,0.0,2.04,280.51,UPI,Delivered,Los Angeles,CA,United States,SELL01294
+ORD0026787,2021-07-20,CUST036361,Anjali Gupta,P00019,LED Desk Lamp,Toys & Games,Apex,1,404.06,0.0,48.49,2.32,454.87,Amazon Pay,Delivered,Columbus,OH,United Kingdom,SELL01137
+ORD0051960,2020-06-21,CUST038390,Simran Kapoor,P00021,Backpack,Clothing,NexPro,4,106.1,0.1,30.56,5.28,417.8,UPI,Delivered,New York,NY,United States,SELL01997
+ORD0003699,2020-03-06,CUST004889,Simran Reddy,P00001,Wireless Earbuds,Home & Kitchen,BrightLux,2,404.41,0.1,58.24,4.87,791.05,Credit Card,Delivered,Philadelphia,PA,United States,SELL01107
+ORD0094464,2021-03-28,CUST032997,Vivaan Gupta,P00046,Car Charger,Clothing,NexPro,5,83.29,0.05,19.78,3.8,419.21,Credit Card,Pending,San Jose,CA,United Kingdom,SELL01715
+ORD0026538,2024-01-31,CUST033523,Sneha Patel,P00005,Laptop Sleeve,Sports & Outdoors,KiddoFun,4,278.81,0.05,127.14,7.6,1194.22,UPI,Delivered,San Antonio,TX,United States,SELL01810
+ORD0083672,2023-09-10,CUST042030,Vihaan Gupta,P00033,Puzzle 1000pc,Electronics,NexPro,2,337.4,0.0,53.98,2.49,731.27,Credit Card,Delivered,Austin,TX,United Kingdom,SELL00699
+ORD0015924,2022-02-14,CUST013673,Aarav Verma,P00037,Router,Home & Kitchen,Zenith,3,186.51,0.05,63.79,12.07,607.41,Credit Card,Delivered,San Francisco,CA,United States,SELL00625
+ORD0005752,2020-05-16,CUST021750,Ritika Mehta,P00027,Winter Jacket,Sports & Outdoors,CoreTech,3,444.84,0.15,56.72,9.81,1200.87,Cash on Delivery,Delivered,Columbus,OH,Australia,SELL01417
+ORD0062515,2024-08-08,CUST015084,Aarav Gupta,P00020,Office Chair,Sports & Outdoors,CoreTech,1,224.66,0.0,40.44,9.04,274.14,Debit Card,Shipped,Phoenix,AZ,Canada,SELL00035
+ORD0087264,2023-08-30,CUST013377,Sahil Verma,P00032,Board Game,Clothing,BrightLux,4,252.45,0.05,172.68,11.81,1143.8,Credit Card,Delivered,San Antonio,TX,United States,SELL00081
+ORD0010456,2024-12-22,CUST030860,Arjun Kapoor,P00044,Power Bank 20000mAh,Home & Kitchen,KiddoFun,1,18.17,0.2,0.73,3.51,18.78,Credit Card,Delivered,Los Angeles,CA,India,SELL01090
+ORD0066430,2024-05-10,CUST029580,Arjun Kumar,P00010,Smartwatch,Electronics,BrightLux,5,203.1,0.2,0.0,12.09,824.49,Net Banking,Delivered,Chicago,IL,United States,SELL01798
+ORD0044596,2020-09-01,CUST043646,Sneha Gupta,P00018,Vacuum Cleaner,Books,HomeEase,2,207.64,0.05,0.0,6.97,401.49,Debit Card,Delivered,Jacksonville,FL,India,SELL00869
+ORD0018974,2021-10-20,CUST035404,Sneha Mehta,P00014,Drone Mini,Electronics,KiddoFun,5,136.67,0.15,46.47,0.0,627.32,Credit Card,Cancelled,Seattle,WA,United States,SELL01600
+ORD0081047,2023-07-12,CUST027336,Aman Kumar,P00043,HDMI Cable 2m,Sports & Outdoors,ReadMore,2,144.02,0.1,20.74,7.98,287.96,Amazon Pay,Delivered,Columbus,OH,United States,SELL00645
+ORD0060514,2020-05-30,CUST010089,Aarav Joshi,P00005,Laptop Sleeve,Sports & Outdoors,UrbanStyle,4,272.01,0.0,130.56,12.71,1231.31,Net Banking,Delivered,Denver,CO,United States,SELL01359
+ORD0093792,2020-08-20,CUST043838,Neha Kumar,P00036,Smart Light Bulb,Sports & Outdoors,ReadMore,2,207.4,0.2,39.82,1.51,373.17,Credit Card,Delivered,Austin,TX,United States,SELL00570
+ORD0095612,2022-07-21,CUST048878,Aarav Gupta,P00040,Microphone,Home & Kitchen,CoreTech,2,288.85,0.1,62.39,7.77,590.09,Debit Card,Delivered,Austin,TX,United States,SELL00516
+ORD0016371,2021-06-08,CUST038171,Karan Verma,P00027,Winter Jacket,Books,KiddoFun,4,61.3,0.05,27.95,6.11,267.0,Credit Card,Delivered,San Jose,CA,United Kingdom,SELL00736
+ORD0066680,2023-01-31,CUST042602,Vikas Sharma,P00026,Sunglasses,Home & Kitchen,FitLife,2,214.77,0.0,0.0,1.9,431.44,Credit Card,Delivered,Jacksonville,FL,United States,SELL01389
+ORD0084576,2022-11-25,CUST041954,Mohit Sharma,P00029,T-Shirt,Toys & Games,Zenith,4,317.06,0.1,205.45,10.85,1357.72,Net Banking,Delivered,New York,NY,United States,SELL01418
+ORD0086059,2023-04-02,CUST013474,Vikas Kapoor,P00031,Kids Toy Car,Electronics,HomeEase,5,208.78,0.2,66.81,5.84,907.77,Debit Card,Delivered,Houston,TX,India,SELL00037
+ORD0071061,2024-05-21,CUST041744,Priya Reddy,P00037,Router,Home & Kitchen,HomeEase,5,144.03,0.0,36.01,11.01,767.17,Credit Card,Delivered,San Jose,CA,United States,SELL00284
+ORD0090478,2020-07-02,CUST020672,Neha Mehta,P00020,Office Chair,Clothing,ReadMore,2,375.25,0.15,0.0,3.13,641.05,Debit Card,Delivered,San Jose,CA,United States,SELL01042
+ORD0047789,2020-07-08,CUST017432,Priya Patel,P00021,Backpack,Electronics,Apex,1,51.13,0.0,6.14,12.65,69.92,Cash on Delivery,Delivered,Phoenix,AZ,United States,SELL01106
+ORD0084326,2024-11-09,CUST009040,Neha Sharma,P00024,Yoga Mat,Electronics,Zenith,5,231.8,0.15,49.26,12.42,1046.83,Credit Card,Delivered,Seattle,WA,United States,SELL00675
+ORD0054809,2024-01-21,CUST035689,Sunita Gupta,P00044,Power Bank 20000mAh,Books,CoreTech,5,325.98,0.15,69.27,9.49,1464.18,Credit Card,Pending,Seattle,WA,United States,SELL01400
+ORD0062038,2021-06-02,CUST029279,Aman Reddy,P00042,Projector Mini,Home & Kitchen,HomeEase,2,555.84,0.05,84.49,14.12,1154.71,UPI,Shipped,Jacksonville,FL,United States,SELL01319
+ORD0024773,2021-02-04,CUST011500,Priya Verma,P00017,Electric Kettle,Sports & Outdoors,Apex,1,569.66,0.0,28.48,13.08,611.22,Credit Card,Delivered,Houston,TX,United States,SELL00512
+ORD0014565,2023-01-21,CUST046902,Priya Patel,P00040,Microphone,Books,HomeEase,3,299.3,0.05,42.65,11.55,907.2,UPI,Delivered,Jacksonville,FL,United States,SELL01826
+ORD0010644,2024-03-26,CUST047866,Rohit Kapoor,P00009,Portable SSD 1TB,Clothing,KiddoFun,2,5.2,0.1,0.47,5.96,15.79,Credit Card,Delivered,Denver,CO,United States,SELL01574
+ORD0007179,2023-04-19,CUST044183,Neha Kapoor,P00004,USB-C Charger,Clothing,CoreTech,5,494.15,0.0,197.66,11.81,2680.22,Amazon Pay,Delivered,San Francisco,CA,United States,SELL00531
+ORD0087779,2024-08-12,CUST016571,Aarav Kumar,P00014,Drone Mini,Sports & Outdoors,ReadMore,1,295.87,0.0,14.79,10.24,320.9,UPI,Delivered,Austin,TX,United States,SELL00080
+ORD0055470,2020-05-05,CUST020532,Neha Sharma,P00044,Power Bank 20000mAh,Clothing,Apex,5,247.59,0.0,99.04,8.02,1345.01,Net Banking,Delivered,Los Angeles,CA,India,SELL00496
+ORD0002731,2023-07-10,CUST013746,Aarav Singh,P00009,Portable SSD 1TB,Clothing,ReadMore,4,416.54,0.1,74.98,7.54,1582.06,Amazon Pay,Delivered,Chicago,IL,Australia,SELL01535
+ORD0093214,2023-11-03,CUST002850,Arjun Verma,P00007,Mechanical Keyboard,Books,BrightLux,2,362.84,0.1,78.37,9.45,740.93,Amazon Pay,Delivered,San Jose,CA,United States,SELL00711
+ORD0069672,2021-12-31,CUST010838,Pooja Joshi,P00033,Puzzle 1000pc,Books,NexPro,4,452.05,0.05,0.0,0.04,1717.83,Debit Card,Delivered,Denver,CO,United States,SELL01888
+ORD0078908,2023-03-09,CUST032089,Vikas Singh,P00018,Vacuum Cleaner,Toys & Games,UrbanStyle,2,446.49,0.0,71.44,1.48,965.9,UPI,Shipped,Houston,TX,United States,SELL01870
+ORD0004704,2024-08-08,CUST046843,Aditya Patel,P00039,Graphic Tablet,Clothing,Apex,4,339.63,0.15,0.0,12.1,1166.84,Debit Card,Delivered,Washington,DC,United States,SELL00999
+ORD0064790,2024-09-06,CUST025277,Vihaan Sharma,P00021,Backpack,Toys & Games,BrightLux,5,491.22,0.0,196.49,14.92,2667.51,Credit Card,Delivered,San Jose,CA,United States,SELL01799
+ORD0007011,2021-09-30,CUST037298,Anjali Joshi,P00008,4K Monitor,Electronics,BrightLux,4,487.5,0.0,234.0,11.02,2195.02,Credit Card,Delivered,San Jose,CA,United States,SELL00214
+ORD0067105,2024-06-19,CUST048087,Priya Kapoor,P00023,Cookware Set,Toys & Games,KiddoFun,3,437.92,0.0,105.1,0.98,1419.84,Net Banking,Delivered,Seattle,WA,United States,SELL00333
+ORD0094995,2024-04-26,CUST015310,Aman Singh,P00024,Yoga Mat,Sports & Outdoors,HomeEase,2,403.42,0.2,32.27,9.09,686.83,UPI,Delivered,Austin,TX,United States,SELL00226
+ORD0069744,2020-09-14,CUST039204,Aman Joshi,P00008,4K Monitor,Books,HomeEase,1,61.24,0.0,4.9,4.15,70.29,Debit Card,Delivered,Phoenix,AZ,United States,SELL01991
+ORD0005119,2024-02-26,CUST027221,Vikas Joshi,P00004,USB-C Charger,Books,UrbanStyle,1,427.52,0.2,17.1,3.76,362.88,Amazon Pay,Delivered,Houston,TX,United Kingdom,SELL00233
+ORD0084919,2023-03-16,CUST047494,Sneha Reddy,P00019,LED Desk Lamp,Home & Kitchen,ReadMore,2,8.83,0.1,0.79,5.16,21.84,UPI,Delivered,Columbus,OH,United States,SELL01891
+ORD0081057,2021-12-11,CUST038722,Sahil Kumar,P00027,Winter Jacket,Clothing,CoreTech,1,325.77,0.0,26.06,13.05,364.88,Debit Card,Delivered,Indianapolis,IN,United States,SELL01520
+ORD0079296,2024-12-14,CUST038532,Vivaan Reddy,P00019,LED Desk Lamp,Electronics,Zenith,3,594.71,0.0,89.21,1.57,1874.91,Credit Card,Delivered,Philadelphia,PA,United States,SELL01792
+ORD0079756,2020-11-24,CUST047954,Rohit Sharma,P00020,Office Chair,Electronics,ReadMore,4,575.33,0.2,92.05,1.44,1934.55,Credit Card,Delivered,Philadelphia,PA,United States,SELL00282
+ORD0024639,2024-11-12,CUST042395,Simran Joshi,P00001,Wireless Earbuds,Electronics,KiddoFun,5,61.11,0.0,55.0,4.59,365.14,Debit Card,Shipped,Austin,TX,Australia,SELL00803
+ORD0085820,2020-02-18,CUST029150,Kabir Patel,P00028,Jeans,Books,Zenith,4,180.18,0.2,0.0,8.11,584.69,UPI,Shipped,Columbus,OH,India,SELL00013
+ORD0044245,2024-08-16,CUST038604,Sunita Patel,P00049,Children's Book,Home & Kitchen,Zenith,4,112.37,0.1,48.54,3.43,456.5,UPI,Delivered,Dallas,TX,United Kingdom,SELL00256
+ORD0024706,2022-01-24,CUST005026,Pooja Mehta,P00012,Noise Cancelling Headphones,Electronics,CoreTech,5,397.71,0.0,238.63,2.06,2229.24,Amazon Pay,Returned,Los Angeles,CA,United States,SELL01398
+ORD0074732,2024-09-15,CUST005517,Arjun Kumar,P00007,Mechanical Keyboard,Toys & Games,NexPro,3,478.97,0.25,53.88,1.85,1133.41,Credit Card,Delivered,Austin,TX,United States,SELL01109
+ORD0050736,2023-06-22,CUST042627,Pooja Gupta,P00032,Board Game,Home & Kitchen,Apex,4,202.11,0.0,64.68,8.99,882.11,Debit Card,Delivered,Austin,TX,United States,SELL00474
+ORD0045091,2020-02-15,CUST001089,Arjun Gupta,P00028,Jeans,Sports & Outdoors,BrightLux,2,83.25,0.1,17.98,4.49,172.32,Credit Card,Shipped,Philadelphia,PA,United States,SELL01138
+ORD0000636,2020-06-08,CUST041372,Sneha Kapoor,P00011,Fitness Band,Toys & Games,KiddoFun,5,209.51,0.05,49.76,11.36,1056.29,Debit Card,Delivered,Columbus,OH,United States,SELL00460
+ORD0035886,2021-03-13,CUST007386,Neha Singh,P00017,Electric Kettle,Toys & Games,ReadMore,5,404.21,0.1,0.0,4.14,1823.08,Net Banking,Delivered,Jacksonville,FL,United States,SELL01285
+ORD0089654,2022-05-30,CUST042530,Vikas Kumar,P00039,Graphic Tablet,Sports & Outdoors,Apex,1,57.1,0.0,10.28,12.15,79.53,Net Banking,Delivered,San Antonio,TX,United Kingdom,SELL00945
+ORD0085143,2021-04-14,CUST007245,Simran Verma,P00031,Kids Toy Car,Books,NexPro,3,497.05,0.0,0.0,2.52,1493.67,Debit Card,Delivered,Los Angeles,CA,United States,SELL01151
+ORD0014538,2020-12-14,CUST049434,Priya Patel,P00015,Instant Pot,Books,BrightLux,4,450.39,0.0,0.0,14.23,1815.79,Amazon Pay,Delivered,San Diego,CA,United States,SELL01765
+ORD0090719,2023-03-03,CUST022386,Anjali Joshi,P00043,HDMI Cable 2m,Electronics,CoreTech,4,54.74,0.0,39.41,3.48,261.85,Net Banking,Delivered,San Antonio,TX,United States,SELL01245
+ORD0040733,2020-11-17,CUST030115,Vivaan Singh,P00001,Wireless Earbuds,Sports & Outdoors,Apex,4,40.92,0.0,8.18,12.36,184.22,UPI,Delivered,Chicago,IL,Canada,SELL01684
+ORD0042653,2022-11-25,CUST025214,Aman Sharma,P00008,4K Monitor,Clothing,KiddoFun,3,334.75,0.05,47.7,6.08,1007.82,Amazon Pay,Shipped,Philadelphia,PA,United States,SELL00048
+ORD0084503,2022-05-17,CUST020190,Karan Mehta,P00018,Vacuum Cleaner,Home & Kitchen,ReadMore,3,17.87,0.0,6.43,2.87,62.91,Credit Card,Delivered,Fort Worth,TX,United States,SELL01566
+ORD0006831,2021-01-24,CUST026362,Kabir Reddy,P00029,T-Shirt,Books,Zenith,3,472.28,0.0,0.0,7.69,1424.53,Credit Card,Delivered,San Jose,CA,United States,SELL00832
+ORD0088024,2023-07-23,CUST016239,Vivaan Mehta,P00021,Backpack,Books,CoreTech,5,99.7,0.15,50.85,13.86,488.44,Amazon Pay,Delivered,Fort Worth,TX,United States,SELL01572
+ORD0026729,2022-01-22,CUST030851,Ritika Verma,P00007,Mechanical Keyboard,Books,NexPro,5,129.49,0.2,25.9,0.47,544.33,Credit Card,Delivered,Charlotte,NC,United States,SELL01760
+ORD0091223,2022-08-11,CUST046006,Vihaan Singh,P00039,Graphic Tablet,Home & Kitchen,ReadMore,5,516.04,0.0,129.01,14.37,2723.58,Credit Card,Delivered,Chicago,IL,United States,SELL00585
+ORD0003630,2024-08-14,CUST014760,Arjun Joshi,P00032,Board Game,Home & Kitchen,HomeEase,2,131.42,0.0,47.31,3.23,313.38,UPI,Returned,San Francisco,CA,India,SELL00184
+ORD0056118,2023-04-20,CUST006053,Ritika Verma,P00008,4K Monitor,Sports & Outdoors,KiddoFun,2,62.53,0.05,14.26,8.15,141.22,Credit Card,Delivered,San Jose,CA,United States,SELL01568
+ORD0002424,2023-07-15,CUST000649,Ritika Singh,P00002,Bluetooth Speaker,Toys & Games,NexPro,1,210.08,0.1,15.13,12.44,216.64,Debit Card,Delivered,Philadelphia,PA,India,SELL01761
+ORD0095026,2020-03-30,CUST010250,Priya Kapoor,P00016,Air Fryer,Clothing,Zenith,2,443.19,0.0,106.37,13.19,1005.94,Credit Card,Delivered,Los Angeles,CA,Australia,SELL00595
+ORD0067275,2023-05-13,CUST038821,Vihaan Kapoor,P00024,Yoga Mat,Electronics,HomeEase,3,522.32,0.1,70.51,11.4,1492.17,Cash on Delivery,Delivered,Washington,DC,United States,SELL00722
+ORD0049822,2024-11-06,CUST038739,Rohit Gupta,P00048,Wireless Charger,Books,KiddoFun,2,89.8,0.1,12.93,11.2,185.77,Net Banking,Returned,San Jose,CA,Australia,SELL00016
+ORD0091723,2020-08-23,CUST017264,Karan Mehta,P00047,Memory Card 128GB,Sports & Outdoors,HomeEase,5,152.29,0.15,77.67,7.42,732.32,Amazon Pay,Delivered,Los Angeles,CA,Canada,SELL01678
+ORD0070773,2022-05-27,CUST017579,Vihaan Reddy,P00007,Mechanical Keyboard,Toys & Games,FitLife,1,508.57,0.0,40.69,9.44,558.7,Credit Card,Delivered,Denver,CO,United States,SELL00174
+ORD0097858,2024-04-18,CUST014200,Vikas Kumar,P00029,T-Shirt,Toys & Games,BrightLux,1,52.33,0.05,2.49,8.61,60.81,Amazon Pay,Delivered,Austin,TX,Australia,SELL00501
+ORD0023134,2020-01-19,CUST034052,Simran Singh,P00008,4K Monitor,Sports & Outdoors,CoreTech,4,599.27,0.0,191.77,7.98,2596.83,Net Banking,Delivered,Denver,CO,United States,SELL00189
+ORD0083016,2022-10-27,CUST025733,Vihaan Singh,P00028,Jeans,Clothing,Apex,5,425.66,0.05,242.63,1.52,2266.04,Credit Card,Delivered,Charlotte,NC,United States,SELL01977
+ORD0007578,2020-11-25,CUST043241,Arjun Verma,P00033,Puzzle 1000pc,Clothing,Zenith,1,176.21,0.0,21.15,11.11,208.47,Credit Card,Delivered,Seattle,WA,United States,SELL01817
+ORD0079145,2023-12-31,CUST008758,Rohit Reddy,P00037,Router,Books,UrbanStyle,2,570.85,0.25,68.5,4.68,929.46,Debit Card,Delivered,San Jose,CA,United States,SELL00717
+ORD0078962,2023-04-01,CUST014223,Karan Reddy,P00019,LED Desk Lamp,Home & Kitchen,HomeEase,3,562.53,0.0,303.77,1.39,1992.75,Debit Card,Delivered,Fort Worth,TX,United States,SELL00309
+ORD0046970,2020-06-03,CUST048465,Pooja Reddy,P00018,Vacuum Cleaner,Sports & Outdoors,NexPro,3,277.3,0.05,39.52,10.63,840.46,UPI,Shipped,San Diego,CA,United States,SELL00924
+ORD0099229,2024-08-26,CUST005152,Aarav Patel,P00008,4K Monitor,Books,NexPro,5,378.08,0.0,151.23,6.43,2048.06,Credit Card,Cancelled,Houston,TX,United States,SELL00156
+ORD0084836,2023-10-09,CUST036707,Anjali Sharma,P00008,4K Monitor,Books,NexPro,4,326.28,0.0,104.41,13.24,1422.77,Credit Card,Delivered,Austin,TX,United States,SELL01762
+ORD0008261,2023-08-14,CUST039959,Neha Verma,P00016,Air Fryer,Clothing,Zenith,4,58.52,0.15,9.95,8.53,217.45,Debit Card,Delivered,Denver,CO,United States,SELL01142
+ORD0090970,2023-04-23,CUST028083,Vikas Verma,P00037,Router,Electronics,BrightLux,1,125.0,0.0,10.0,5.66,140.66,Credit Card,Shipped,Washington,DC,India,SELL01324
+ORD0089949,2021-08-30,CUST038163,Aditya Singh,P00023,Cookware Set,Sports & Outdoors,UrbanStyle,2,505.56,0.05,115.27,2.34,1078.17,Credit Card,Delivered,Denver,CO,Canada,SELL00900
+ORD0032333,2023-05-22,CUST016222,Aman Gupta,P00002,Bluetooth Speaker,Electronics,HomeEase,5,195.01,0.0,117.01,3.52,1095.58,Credit Card,Delivered,Indianapolis,IN,United States,SELL00559
+ORD0028540,2023-08-21,CUST012913,Aditya Reddy,P00044,Power Bank 20000mAh,Clothing,UrbanStyle,4,262.05,0.0,125.78,11.93,1185.91,Amazon Pay,Delivered,Chicago,IL,United States,SELL01850
+ORD0002440,2022-07-28,CUST042880,Kabir Verma,P00030,Dress Shirt,Sports & Outdoors,KiddoFun,2,360.38,0.0,86.49,5.39,812.64,Credit Card,Shipped,Seattle,WA,United States,SELL01252
+ORD0062901,2022-07-07,CUST044583,Sunita Gupta,P00037,Router,Books,HomeEase,2,245.27,0.0,39.24,7.45,537.23,UPI,Delivered,Washington,DC,India,SELL00995
+ORD0009163,2021-09-30,CUST049174,Pooja Sharma,P00050,Novel Bestseller,Sports & Outdoors,UrbanStyle,5,255.9,0.0,0.0,10.3,1289.8,Credit Card,Delivered,Los Angeles,CA,United States,SELL01433
+ORD0023294,2023-12-01,CUST031640,Vikas Kumar,P00008,4K Monitor,Toys & Games,BrightLux,4,10.09,0.0,7.26,5.31,52.93,Credit Card,Delivered,Washington,DC,United States,SELL01064
+ORD0023030,2024-10-21,CUST013287,Priya Singh,P00015,Instant Pot,Home & Kitchen,BrightLux,4,433.22,0.0,311.92,12.03,2056.83,Credit Card,Cancelled,Chicago,IL,United States,SELL01239
+ORD0059442,2024-07-08,CUST023401,Arjun Kumar,P00004,USB-C Charger,Toys & Games,UrbanStyle,5,538.52,0.2,258.49,10.49,2423.06,Credit Card,Delivered,Columbus,OH,United States,SELL01838
+ORD0074392,2022-04-24,CUST012752,Anjali Reddy,P00025,Running Shoes,Sports & Outdoors,Zenith,5,172.22,0.1,62.0,7.14,844.13,Amazon Pay,Delivered,San Francisco,CA,India,SELL01456
+ORD0031388,2021-06-14,CUST045372,Anjali Gupta,P00006,Gaming Mouse,Home & Kitchen,Zenith,5,399.6,0.0,99.9,0.03,2097.93,UPI,Delivered,San Jose,CA,India,SELL00341
+ORD0021460,2024-02-28,CUST008391,Sahil Gupta,P00005,Laptop Sleeve,Sports & Outdoors,FitLife,5,321.49,0.05,76.35,4.48,1607.91,Credit Card,Shipped,Austin,TX,United States,SELL01160
+ORD0064761,2023-06-25,CUST011349,Vivaan Joshi,P00025,Running Shoes,Toys & Games,BrightLux,3,264.36,0.0,63.45,13.42,869.95,UPI,Delivered,San Francisco,CA,United States,SELL01259
+ORD0012111,2020-11-12,CUST046912,Kabir Sharma,P00037,Router,Books,ReadMore,5,315.85,0.05,120.02,3.64,1623.95,Amazon Pay,Delivered,Indianapolis,IN,United States,SELL01987
+ORD0009679,2021-05-29,CUST016434,Arjun Verma,P00042,Projector Mini,Sports & Outdoors,KiddoFun,5,265.64,0.0,239.08,2.22,1569.5,Credit Card,Shipped,San Francisco,CA,India,SELL00951
+ORD0017916,2020-11-02,CUST048353,Aman Gupta,P00031,Kids Toy Car,Toys & Games,CoreTech,4,577.23,0.0,115.45,4.14,2428.51,UPI,Delivered,Austin,TX,United States,SELL01257
+ORD0064205,2022-05-11,CUST022230,Karan Singh,P00049,Children's Book,Toys & Games,Apex,2,369.88,0.05,0.0,14.3,717.07,Debit Card,Delivered,Columbus,OH,United States,SELL01117
+ORD0018046,2021-04-08,CUST032101,Mohit Kapoor,P00041,Webcam Full HD,Toys & Games,NexPro,3,182.0,0.05,62.24,2.64,583.58,Net Banking,Delivered,San Diego,CA,United Kingdom,SELL00096
+ORD0018106,2021-04-13,CUST032187,Arjun Kumar,P00045,Phone Tripod,Toys & Games,BrightLux,1,462.19,0.0,36.98,0.21,499.38,Debit Card,Delivered,Jacksonville,FL,United States,SELL00196
+ORD0067830,2022-04-29,CUST041066,Sahil Patel,P00048,Wireless Charger,Electronics,BrightLux,1,478.29,0.25,64.57,1.38,424.67,Credit Card,Delivered,Columbus,OH,United Kingdom,SELL00992
+ORD0074715,2024-04-07,CUST022023,Aditya Joshi,P00046,Car Charger,Electronics,NexPro,4,566.31,0.0,113.26,2.38,2380.88,Amazon Pay,Shipped,Denver,CO,Canada,SELL01101
+ORD0076643,2024-01-18,CUST031713,Aditya Gupta,P00043,HDMI Cable 2m,Home & Kitchen,UrbanStyle,5,529.6,0.0,132.4,12.18,2792.58,Debit Card,Delivered,Charlotte,NC,United States,SELL00787
+ORD0011045,2021-04-10,CUST000280,Mohit Mehta,P00028,Jeans,Electronics,NexPro,4,537.75,0.1,96.8,7.82,2040.52,Debit Card,Delivered,San Antonio,TX,United Kingdom,SELL00518
+ORD0083441,2024-04-17,CUST040228,Sneha Gupta,P00029,T-Shirt,Toys & Games,ReadMore,1,265.11,0.1,0.0,8.55,247.15,Amazon Pay,Delivered,Seattle,WA,United States,SELL01081
+ORD0031091,2021-01-28,CUST049964,Kabir Patel,P00039,Graphic Tablet,Books,BrightLux,1,88.45,0.0,4.42,11.23,104.1,Credit Card,Shipped,San Antonio,TX,Canada,SELL01187
+ORD0050036,2022-06-19,CUST020684,Sahil Verma,P00040,Microphone,Electronics,BrightLux,2,324.75,0.2,41.57,8.0,569.17,Debit Card,Delivered,San Jose,CA,India,SELL00102
+ORD0014085,2024-11-27,CUST040679,Neha Singh,P00017,Electric Kettle,Electronics,FitLife,5,369.2,0.05,315.67,3.19,2072.56,Credit Card,Delivered,Los Angeles,CA,United Kingdom,SELL00825
+ORD0008248,2021-09-07,CUST021555,Karan Kapoor,P00007,Mechanical Keyboard,Clothing,Zenith,2,233.54,0.05,35.5,11.98,491.21,Credit Card,Delivered,Denver,CO,United States,SELL00859
+ORD0035470,2024-07-25,CUST031367,Ritika Verma,P00024,Yoga Mat,Electronics,KiddoFun,4,295.45,0.3,66.18,13.17,906.61,Debit Card,Delivered,San Francisco,CA,United Kingdom,SELL00004
+ORD0061613,2021-10-12,CUST033098,Anjali Patel,P00007,Mechanical Keyboard,Books,FitLife,1,595.87,0.0,47.67,14.86,658.4,Amazon Pay,Returned,Indianapolis,IN,United States,SELL00558
+ORD0002429,2020-01-21,CUST011289,Sneha Reddy,P00011,Fitness Band,Sports & Outdoors,BrightLux,5,424.1,0.0,106.02,0.59,2227.11,UPI,Delivered,Seattle,WA,United States,SELL01345
+ORD0063825,2022-07-23,CUST049227,Priya Joshi,P00040,Microphone,Electronics,FitLife,4,32.9,0.0,6.58,13.28,151.46,Debit Card,Delivered,Indianapolis,IN,United States,SELL00801
+ORD0010091,2022-02-01,CUST000002,Arjun Singh,P00028,Jeans,Toys & Games,KiddoFun,5,139.7,0.1,50.29,10.46,689.4,Credit Card,Delivered,Los Angeles,CA,United States,SELL01679
+ORD0003024,2023-04-11,CUST003182,Sunita Patel,P00015,Instant Pot,Toys & Games,HomeEase,4,79.3,0.2,30.45,10.42,294.63,Amazon Pay,Delivered,Phoenix,AZ,United States,SELL00015
+ORD0067434,2024-11-02,CUST003012,Aarav Gupta,P00031,Kids Toy Car,Clothing,KiddoFun,1,517.85,0.15,52.82,14.91,507.9,Credit Card,Delivered,San Jose,CA,United States,SELL01513
+ORD0056761,2020-09-10,CUST024898,Rohit Verma,P00009,Portable SSD 1TB,Books,UrbanStyle,1,372.89,0.15,57.05,5.15,379.16,Credit Card,Delivered,Los Angeles,CA,Australia,SELL00694
+ORD0045133,2022-11-07,CUST043841,Pooja Reddy,P00042,Projector Mini,Books,KiddoFun,4,430.51,0.1,278.97,3.14,1831.95,Amazon Pay,Shipped,San Francisco,CA,United States,SELL01759
+ORD0008626,2021-08-16,CUST032348,Mohit Sharma,P00049,Children's Book,Clothing,UrbanStyle,2,286.15,0.15,38.92,8.8,534.17,Credit Card,Delivered,Houston,TX,United States,SELL00484
+ORD0086703,2023-08-29,CUST024089,Sunita Sharma,P00043,HDMI Cable 2m,Clothing,NexPro,4,563.26,0.15,153.21,2.69,2070.98,Credit Card,Delivered,San Antonio,TX,United States,SELL01300
+ORD0075641,2022-07-10,CUST042087,Vihaan Singh,P00047,Memory Card 128GB,Toys & Games,Apex,3,273.04,0.15,55.7,4.32,756.27,Credit Card,Delivered,Phoenix,AZ,United States,SELL00862
+ORD0071696,2022-02-28,CUST002933,Sahil Patel,P00014,Drone Mini,Books,KiddoFun,5,354.22,0.0,141.69,13.39,1926.18,Debit Card,Delivered,Columbus,OH,United States,SELL01565
+ORD0014505,2022-03-29,CUST016763,Aman Mehta,P00039,Graphic Tablet,Sports & Outdoors,FitLife,3,525.07,0.05,74.82,13.18,1584.45,Credit Card,Delivered,San Jose,CA,India,SELL01432
+ORD0049086,2020-11-15,CUST004038,Sneha Kumar,P00041,Webcam Full HD,Home & Kitchen,KiddoFun,5,48.13,0.15,16.36,4.46,225.37,Debit Card,Delivered,San Antonio,TX,United States,SELL00572
+ORD0075575,2020-11-27,CUST042161,Pooja Gupta,P00005,Laptop Sleeve,Clothing,NexPro,5,18.66,0.05,4.43,14.34,107.4,Amazon Pay,Delivered,Philadelphia,PA,United Kingdom,SELL01365
+ORD0042999,2022-12-02,CUST034573,Ritika Patel,P00028,Jeans,Electronics,NexPro,4,174.49,0.1,31.41,12.11,671.68,Credit Card,Delivered,San Antonio,TX,United States,SELL00025
+ORD0034725,2020-08-19,CUST020314,Sneha Kumar,P00042,Projector Mini,Toys & Games,Zenith,4,16.4,0.0,5.25,5.51,76.36,Credit Card,Shipped,San Jose,CA,United States,SELL01466
+ORD0044671,2022-03-15,CUST013511,Ritika Gupta,P00004,USB-C Charger,Clothing,CoreTech,2,305.4,0.05,69.63,9.58,659.47,Credit Card,Delivered,Phoenix,AZ,United States,SELL01063
+ORD0049274,2021-05-30,CUST014671,Rohit Singh,P00019,LED Desk Lamp,Clothing,NexPro,4,556.17,0.15,94.55,12.81,1998.34,Credit Card,Delivered,Washington,DC,India,SELL00496
+ORD0022763,2021-03-22,CUST023101,Aarav Sharma,P00026,Sunglasses,Toys & Games,UrbanStyle,2,56.94,0.3,3.99,8.91,92.62,Credit Card,Delivered,San Jose,CA,United States,SELL00143
+ORD0066761,2024-09-09,CUST028285,Neha Joshi,P00013,Action Camera,Sports & Outdoors,Apex,2,395.58,0.15,53.8,1.04,727.33,Credit Card,Delivered,Dallas,TX,United States,SELL00909
+ORD0031191,2022-04-21,CUST009616,Vikas Joshi,P00017,Electric Kettle,Electronics,Apex,2,461.68,0.05,43.86,7.14,928.19,Credit Card,Delivered,Austin,TX,United States,SELL00120
+ORD0025370,2021-01-10,CUST031468,Aditya Kumar,P00029,T-Shirt,Home & Kitchen,NexPro,2,331.18,0.0,33.12,10.82,706.3,Credit Card,Delivered,Dallas,TX,Australia,SELL00397
+ORD0001474,2020-12-12,CUST017804,Aman Singh,P00019,LED Desk Lamp,Toys & Games,HomeEase,3,79.89,0.05,27.32,11.06,266.07,Credit Card,Delivered,Philadelphia,PA,United States,SELL01438
+ORD0040324,2020-10-06,CUST045835,Vivaan Sharma,P00048,Wireless Charger,Sports & Outdoors,UrbanStyle,5,148.52,0.1,80.2,6.88,755.42,Credit Card,Delivered,Seattle,WA,United States,SELL01078
+ORD0012999,2021-11-02,CUST041707,Mohit Mehta,P00007,Mechanical Keyboard,Home & Kitchen,ReadMore,1,437.81,0.25,59.1,0.11,387.57,Credit Card,Delivered,Los Angeles,CA,India,SELL01249
+ORD0079140,2023-05-08,CUST045095,Aditya Gupta,P00026,Sunglasses,Clothing,KiddoFun,2,152.4,0.0,0.0,6.45,311.25,Net Banking,Delivered,Washington,DC,India,SELL00251
+ORD0049619,2021-05-31,CUST039123,Aman Joshi,P00004,USB-C Charger,Toys & Games,CoreTech,2,282.25,0.05,64.35,11.99,612.62,UPI,Delivered,San Diego,CA,United States,SELL00711
+ORD0096188,2020-09-23,CUST009729,Kabir Mehta,P00021,Backpack,Sports & Outdoors,Zenith,5,230.33,0.15,0.0,8.11,987.01,Credit Card,Delivered,Los Angeles,CA,United States,SELL01655
+ORD0073024,2022-02-09,CUST035687,Anjali Kumar,P00002,Bluetooth Speaker,Electronics,HomeEase,2,179.54,0.05,0.0,13.01,354.14,Net Banking,Delivered,Phoenix,AZ,United States,SELL00770
+ORD0079321,2020-11-26,CUST043998,Mohit Kapoor,P00030,Dress Shirt,Toys & Games,FitLife,1,246.14,0.05,28.06,7.31,269.2,Net Banking,Delivered,San Diego,CA,United States,SELL01015
+ORD0073228,2020-07-23,CUST014379,Pooja Verma,P00047,Memory Card 128GB,Home & Kitchen,HomeEase,1,544.52,0.0,65.34,12.37,622.23,Amazon Pay,Delivered,San Jose,CA,United States,SELL00739
+ORD0028917,2022-11-04,CUST034379,Ritika Gupta,P00026,Sunglasses,Home & Kitchen,CoreTech,3,184.71,0.0,66.5,8.82,629.45,Net Banking,Shipped,Philadelphia,PA,United States,SELL01639
+ORD0056878,2020-11-15,CUST048853,Vikas Kumar,P00017,Electric Kettle,Clothing,ReadMore,4,401.38,0.0,128.44,8.13,1742.09,Credit Card,Delivered,Los Angeles,CA,United States,SELL00092
+ORD0081769,2022-11-14,CUST048691,Sneha Sharma,P00041,Webcam Full HD,Electronics,KiddoFun,2,423.7,0.1,61.01,9.05,832.72,Debit Card,Delivered,San Diego,CA,United Kingdom,SELL00778
+ORD0008564,2020-01-02,CUST002841,Priya Patel,P00042,Projector Mini,Toys & Games,FitLife,2,559.59,0.1,120.87,2.76,1130.89,UPI,Delivered,Washington,DC,United States,SELL01214
+ORD0028760,2023-10-17,CUST008787,Sahil Mehta,P00007,Mechanical Keyboard,Sports & Outdoors,KiddoFun,1,229.64,0.05,17.45,9.08,244.69,Credit Card,Delivered,Philadelphia,PA,United States,SELL00974
+ORD0026172,2021-07-27,CUST012770,Kabir Singh,P00005,Laptop Sleeve,Books,KiddoFun,4,560.1,0.0,112.02,4.31,2356.73,UPI,Delivered,Indianapolis,IN,United States,SELL00304
+ORD0033384,2023-12-17,CUST045835,Ritika Patel,P00011,Fitness Band,Electronics,UrbanStyle,1,341.64,0.0,41.0,13.97,396.61,Credit Card,Delivered,Columbus,OH,United States,SELL00921
+ORD0040209,2024-03-12,CUST004575,Rohit Reddy,P00012,Noise Cancelling Headphones,Clothing,FitLife,3,201.71,0.0,30.26,9.58,644.97,Net Banking,Pending,Fort Worth,TX,United States,SELL00325
+ORD0073783,2024-03-04,CUST037348,Simran Singh,P00023,Cookware Set,Toys & Games,ReadMore,4,152.56,0.0,0.0,13.95,624.19,Amazon Pay,Shipped,San Diego,CA,India,SELL01506
+ORD0012718,2022-03-13,CUST023735,Vikas Mehta,P00028,Jeans,Sports & Outdoors,FitLife,5,267.33,0.2,85.55,0.09,1154.96,Debit Card,Delivered,San Francisco,CA,United States,SELL01218
+ORD0070298,2020-01-28,CUST013605,Vikas Joshi,P00014,Drone Mini,Home & Kitchen,HomeEase,2,154.22,0.2,29.61,9.67,286.03,Credit Card,Delivered,San Francisco,CA,Canada,SELL01628
+ORD0056140,2020-07-26,CUST028449,Aarav Verma,P00018,Vacuum Cleaner,Clothing,CoreTech,4,487.08,0.05,0.0,13.93,1864.83,Amazon Pay,Delivered,San Jose,CA,United States,SELL01972
+ORD0043021,2022-05-12,CUST014067,Kabir Mehta,P00020,Office Chair,Home & Kitchen,HomeEase,4,341.33,0.0,163.84,3.39,1532.55,Debit Card,Delivered,Washington,DC,Canada,SELL00564
+ORD0091939,2024-05-09,CUST047169,Mohit Gupta,P00019,LED Desk Lamp,Sports & Outdoors,FitLife,1,17.84,0.0,1.43,6.4,25.67,Debit Card,Delivered,New York,NY,Australia,SELL00488
+ORD0076768,2022-10-11,CUST022913,Sahil Sharma,P00008,4K Monitor,Electronics,KiddoFun,5,383.18,0.05,91.01,5.88,1917.0,Credit Card,Delivered,Phoenix,AZ,United States,SELL01722
+ORD0072633,2020-02-15,CUST017474,Karan Kumar,P00046,Car Charger,Sports & Outdoors,BrightLux,1,186.65,0.0,9.33,14.69,210.67,Debit Card,Delivered,Houston,TX,United States,SELL00532
+ORD0022160,2023-06-06,CUST025209,Sahil Singh,P00024,Yoga Mat,Clothing,BrightLux,5,432.55,0.2,138.42,5.83,1874.45,Amazon Pay,Delivered,Seattle,WA,United States,SELL00828
+ORD0074471,2023-12-21,CUST020871,Sunita Singh,P00029,T-Shirt,Home & Kitchen,CoreTech,2,196.57,0.0,19.66,9.36,422.16,Credit Card,Delivered,Columbus,OH,United States,SELL00437
+ORD0093323,2022-05-12,CUST040459,Vihaan Sharma,P00039,Graphic Tablet,Sports & Outdoors,ReadMore,2,519.23,0.05,49.33,5.33,1041.2,Debit Card,Delivered,Chicago,IL,United States,SELL00479
+ORD0054161,2020-08-11,CUST016933,Kabir Kapoor,P00044,Power Bank 20000mAh,Home & Kitchen,BrightLux,1,135.28,0.0,0.0,0.45,135.73,Credit Card,Delivered,Indianapolis,IN,United States,SELL00658
+ORD0062311,2024-04-12,CUST037038,Sunita Mehta,P00025,Running Shoes,Clothing,Zenith,1,344.54,0.0,17.23,14.05,375.82,UPI,Shipped,Indianapolis,IN,India,SELL01716
+ORD0001270,2023-09-04,CUST016271,Sunita Kapoor,P00019,LED Desk Lamp,Toys & Games,FitLife,5,337.83,0.15,71.79,12.35,1519.92,Net Banking,Delivered,San Antonio,TX,United States,SELL01887
+ORD0043389,2020-06-05,CUST009673,Sahil Singh,P00025,Running Shoes,Toys & Games,UrbanStyle,3,153.13,0.0,22.97,7.81,490.17,Credit Card,Shipped,Phoenix,AZ,United States,SELL00052
+ORD0029124,2023-02-27,CUST032430,Vivaan Kumar,P00010,Smartwatch,Toys & Games,Zenith,2,520.45,0.1,46.84,1.4,985.05,UPI,Pending,Philadelphia,PA,United States,SELL00787
+ORD0060954,2020-08-15,CUST021380,Vivaan Joshi,P00006,Gaming Mouse,Books,NexPro,1,376.42,0.1,40.65,12.37,391.8,Debit Card,Delivered,Phoenix,AZ,United States,SELL01790
+ORD0048476,2020-04-13,CUST012276,Vihaan Singh,P00007,Mechanical Keyboard,Electronics,CoreTech,4,580.82,0.0,418.19,4.31,2745.78,Debit Card,Delivered,Jacksonville,FL,United States,SELL01695
+ORD0031287,2020-04-08,CUST041515,Aditya Kumar,P00035,Desk Plant,Home & Kitchen,UrbanStyle,3,38.56,0.05,5.49,13.71,129.1,Debit Card,Shipped,New York,NY,United States,SELL00511
+ORD0050633,2024-06-23,CUST045260,Rohit Verma,P00025,Running Shoes,Sports & Outdoors,CoreTech,2,8.18,0.0,0.82,5.77,22.95,Amazon Pay,Pending,Los Angeles,CA,United States,SELL00812
+ORD0078965,2020-11-14,CUST016482,Vivaan Mehta,P00030,Dress Shirt,Books,FitLife,4,47.3,0.1,8.51,13.14,191.93,Debit Card,Delivered,Seattle,WA,India,SELL01840
+ORD0044355,2024-12-18,CUST029970,Aarav Gupta,P00028,Jeans,Sports & Outdoors,HomeEase,3,67.12,0.0,16.11,9.23,226.7,Debit Card,Delivered,San Francisco,CA,United States,SELL01049
+ORD0096341,2022-09-23,CUST008536,Vikas Kumar,P00043,HDMI Cable 2m,Home & Kitchen,Apex,2,129.22,0.05,19.64,5.96,271.12,Credit Card,Delivered,Charlotte,NC,United States,SELL00394
+ORD0019285,2022-05-19,CUST023145,Vikas Joshi,P00020,Office Chair,Electronics,Apex,2,80.86,0.0,12.94,11.31,185.97,Credit Card,Delivered,New York,NY,United States,SELL01203
+ORD0031881,2020-02-25,CUST041394,Aditya Gupta,P00031,Kids Toy Car,Home & Kitchen,FitLife,3,342.89,0.2,41.15,9.67,873.76,Debit Card,Delivered,Los Angeles,CA,United States,SELL01231
+ORD0008969,2022-10-22,CUST036813,Sneha Reddy,P00036,Smart Light Bulb,Sports & Outdoors,CoreTech,4,387.22,0.0,77.44,8.1,1634.42,Amazon Pay,Shipped,Fort Worth,TX,United States,SELL01946
+ORD0049134,2023-09-08,CUST001412,Simran Patel,P00041,Webcam Full HD,Books,UrbanStyle,2,584.41,0.0,58.44,1.55,1228.81,Debit Card,Returned,Austin,TX,United States,SELL01386
+ORD0091855,2024-06-06,CUST004749,Rohit Singh,P00022,Water Bottle,Electronics,BrightLux,1,46.16,0.0,3.69,5.0,54.85,Cash on Delivery,Shipped,Fort Worth,TX,United States,SELL00290
+ORD0081330,2022-01-08,CUST042386,Aditya Reddy,P00039,Graphic Tablet,Books,ReadMore,5,448.27,0.25,84.05,6.85,1771.91,Credit Card,Delivered,Phoenix,AZ,United States,SELL00885
+ORD0084632,2020-09-24,CUST000620,Karan Kapoor,P00018,Vacuum Cleaner,Books,Apex,1,76.72,0.1,0.0,5.78,74.83,UPI,Delivered,Charlotte,NC,United States,SELL01803
+ORD0070535,2020-09-21,CUST009445,Vihaan Patel,P00014,Drone Mini,Sports & Outdoors,KiddoFun,3,128.41,0.1,41.6,12.23,400.54,Credit Card,Returned,San Francisco,CA,United States,SELL01241
+ORD0072806,2024-05-15,CUST045749,Kabir Sharma,P00045,Phone Tripod,Sports & Outdoors,HomeEase,5,361.43,0.15,0.0,14.17,1550.25,Amazon Pay,Delivered,Fort Worth,TX,United States,SELL01281
+ORD0040377,2022-07-12,CUST028306,Rohit Kumar,P00004,USB-C Charger,Clothing,ReadMore,4,281.9,0.0,135.31,10.06,1272.97,UPI,Delivered,San Francisco,CA,United States,SELL01460
+ORD0049671,2023-03-23,CUST000071,Aditya Gupta,P00008,4K Monitor,Toys & Games,BrightLux,4,469.04,0.0,150.09,11.93,2038.18,Amazon Pay,Delivered,San Francisco,CA,United States,SELL01941
+ORD0019336,2021-01-23,CUST012669,Simran Gupta,P00024,Yoga Mat,Toys & Games,FitLife,4,42.52,0.05,12.93,11.8,186.31,Credit Card,Shipped,Houston,TX,Australia,SELL01286
+ORD0010604,2022-10-11,CUST042052,Kabir Reddy,P00005,Laptop Sleeve,Clothing,HomeEase,4,582.56,0.1,251.67,13.67,2362.56,Debit Card,Delivered,New York,NY,United States,SELL00031
+ORD0002941,2022-01-18,CUST043704,Sahil Joshi,P00044,Power Bank 20000mAh,Home & Kitchen,CoreTech,2,191.46,0.0,45.95,14.31,443.18,Debit Card,Delivered,New York,NY,United States,SELL01060
+ORD0028365,2024-09-12,CUST046624,Kabir Gupta,P00043,HDMI Cable 2m,Sports & Outdoors,UrbanStyle,1,233.94,0.0,28.07,1.07,263.08,Debit Card,Delivered,Washington,DC,United Kingdom,SELL00311
+ORD0097460,2021-06-21,CUST026172,Sunita Reddy,P00049,Children's Book,Home & Kitchen,NexPro,1,56.6,0.0,4.53,11.63,72.76,Credit Card,Delivered,San Antonio,TX,United States,SELL00777
+ORD0035005,2023-02-26,CUST046803,Sunita Patel,P00005,Laptop Sleeve,Clothing,UrbanStyle,2,569.99,0.0,91.2,0.94,1232.12,Credit Card,Delivered,Philadelphia,PA,United States,SELL00275
+ORD0064875,2021-01-08,CUST023175,Neha Kapoor,P00046,Car Charger,Electronics,CoreTech,5,407.97,0.05,348.81,6.5,2293.17,Credit Card,Delivered,Jacksonville,FL,United States,SELL01627
+ORD0082045,2022-01-13,CUST027229,Pooja Singh,P00049,Children's Book,Toys & Games,NexPro,3,384.16,0.0,207.45,2.1,1362.03,Cash on Delivery,Delivered,Jacksonville,FL,India,SELL01908
+ORD0023539,2023-04-22,CUST029132,Simran Gupta,P00045,Phone Tripod,Clothing,FitLife,1,281.68,0.05,21.41,4.36,293.37,Credit Card,Delivered,Indianapolis,IN,United States,SELL00358
+ORD0077374,2022-04-29,CUST049843,Priya Verma,P00001,Wireless Earbuds,Toys & Games,Apex,1,243.03,0.2,35.0,2.0,231.42,Debit Card,Delivered,Indianapolis,IN,United States,SELL01987
+ORD0058111,2022-02-21,CUST012425,Sneha Kumar,P00035,Desk Plant,Toys & Games,UrbanStyle,1,297.91,0.0,35.75,14.35,348.01,Cash on Delivery,Cancelled,San Francisco,CA,India,SELL01959
+ORD0000575,2022-06-15,CUST026287,Aditya Gupta,P00004,USB-C Charger,Electronics,ReadMore,1,301.99,0.15,12.83,3.11,272.63,Net Banking,Delivered,Philadelphia,PA,United States,SELL00087
+ORD0019876,2023-11-19,CUST037643,Vivaan Kumar,P00012,Noise Cancelling Headphones,Sports & Outdoors,UrbanStyle,3,207.38,0.0,31.11,5.91,659.16,Credit Card,Shipped,Philadelphia,PA,United States,SELL01730
+ORD0079924,2022-09-15,CUST007962,Aarav Singh,P00050,Novel Bestseller,Electronics,HomeEase,5,308.76,0.0,185.26,1.82,1730.88,Net Banking,Delivered,New York,NY,United States,SELL00148
+ORD0035090,2021-10-01,CUST034543,Vikas Singh,P00037,Router,Books,Zenith,2,350.58,0.0,56.09,7.47,764.72,Amazon Pay,Delivered,Jacksonville,FL,United States,SELL01181
+ORD0089361,2021-11-17,CUST005056,Mohit Mehta,P00023,Cookware Set,Toys & Games,FitLife,2,32.95,0.1,0.0,12.87,72.18,Debit Card,Delivered,Austin,TX,United Kingdom,SELL01919
+ORD0059771,2021-10-28,CUST001372,Pooja Verma,P00034,Desk Organizer,Home & Kitchen,NexPro,5,376.11,0.0,225.67,11.64,2117.86,Credit Card,Delivered,Denver,CO,United States,SELL01039
+ORD0052700,2023-09-14,CUST017819,Sahil Reddy,P00040,Microphone,Toys & Games,FitLife,2,256.66,0.0,25.67,7.4,546.39,Debit Card,Delivered,Austin,TX,India,SELL00928
+ORD0047843,2024-07-25,CUST026926,Sunita Reddy,P00024,Yoga Mat,Sports & Outdoors,BrightLux,1,94.4,0.05,7.17,13.26,110.11,Credit Card,Returned,Los Angeles,CA,United States,SELL01749
+ORD0000111,2021-12-20,CUST033463,Rohit Verma,P00029,T-Shirt,Clothing,BrightLux,5,61.48,0.0,55.33,2.64,365.37,Amazon Pay,Delivered,San Antonio,TX,United States,SELL01848
+ORD0088242,2020-01-14,CUST042276,Aman Mehta,P00034,Desk Organizer,Electronics,HomeEase,1,180.12,0.05,20.53,8.35,199.99,UPI,Pending,San Francisco,CA,United States,SELL01762
+ORD0012125,2024-04-14,CUST034522,Simran Verma,P00041,Webcam Full HD,Home & Kitchen,Zenith,3,484.27,0.05,69.01,1.42,1450.6,Credit Card,Delivered,Philadelphia,PA,India,SELL00411
+ORD0022454,2023-05-24,CUST012686,Mohit Verma,P00022,Water Bottle,Electronics,CoreTech,4,452.69,0.05,206.43,5.72,1932.37,Credit Card,Delivered,New York,NY,United States,SELL01901
+ORD0047439,2020-12-28,CUST014953,Arjun Gupta,P00028,Jeans,Clothing,FitLife,1,287.02,0.25,38.75,5.63,259.64,Amazon Pay,Delivered,Columbus,OH,United Kingdom,SELL00785
+ORD0008520,2024-05-10,CUST013786,Karan Singh,P00023,Cookware Set,Home & Kitchen,Apex,2,407.33,0.0,40.73,6.41,861.8,Debit Card,Delivered,New York,NY,United States,SELL00403
+ORD0013240,2020-10-17,CUST033006,Vihaan Patel,P00035,Desk Plant,Electronics,HomeEase,3,487.72,0.0,117.05,3.64,1583.85,Debit Card,Delivered,Houston,TX,United States,SELL00580
+ORD0067926,2020-08-28,CUST038426,Anjali Reddy,P00004,USB-C Charger,Clothing,HomeEase,4,185.85,0.1,53.52,13.15,735.73,UPI,Delivered,Washington,DC,India,SELL00123
+ORD0073307,2020-07-30,CUST000170,Arjun Verma,P00017,Electric Kettle,Electronics,KiddoFun,4,419.39,0.15,0.0,0.91,1426.84,UPI,Delivered,New York,NY,India,SELL00989
+ORD0038835,2021-05-22,CUST049765,Sunita Kumar,P00018,Vacuum Cleaner,Clothing,UrbanStyle,4,395.71,0.0,79.14,8.53,1670.51,Credit Card,Delivered,Indianapolis,IN,United States,SELL00720
+ORD0012927,2023-09-22,CUST022875,Ritika Gupta,P00011,Fitness Band,Clothing,FitLife,4,84.87,0.0,16.97,0.25,356.7,Credit Card,Delivered,Phoenix,AZ,India,SELL01172
+ORD0001050,2020-02-12,CUST027216,Sunita Reddy,P00040,Microphone,Clothing,CoreTech,5,339.27,0.0,84.82,14.48,1795.65,Credit Card,Delivered,Chicago,IL,United States,SELL00308
+ORD0007447,2020-06-19,CUST037667,Priya Reddy,P00012,Noise Cancelling Headphones,Sports & Outdoors,Apex,2,273.6,0.1,88.65,9.51,590.64,Debit Card,Pending,Columbus,OH,Australia,SELL00991
+ORD0018712,2020-04-22,CUST038894,Karan Sharma,P00013,Action Camera,Books,Zenith,2,435.79,0.15,59.27,4.98,805.09,Credit Card,Delivered,Indianapolis,IN,United States,SELL00466
+ORD0039859,2023-09-13,CUST031027,Aman Kumar,P00013,Action Camera,Toys & Games,FitLife,1,463.91,0.0,23.2,9.66,496.77,Amazon Pay,Delivered,San Francisco,CA,Australia,SELL01123
+ORD0050122,2020-07-20,CUST026785,Simran Mehta,P00037,Router,Sports & Outdoors,ReadMore,3,217.26,0.0,52.14,2.52,706.44,Net Banking,Delivered,Dallas,TX,United States,SELL00205
+ORD0027674,2024-11-26,CUST022339,Vikas Kumar,P00008,4K Monitor,Home & Kitchen,UrbanStyle,3,527.82,0.0,79.17,9.87,1672.5,Credit Card,Cancelled,Phoenix,AZ,United States,SELL00931
+ORD0026233,2023-03-05,CUST041297,Pooja Joshi,P00004,USB-C Charger,Sports & Outdoors,HomeEase,2,486.51,0.15,41.35,4.19,872.61,Net Banking,Returned,Jacksonville,FL,Australia,SELL01574
+ORD0088682,2021-09-17,CUST019891,Rohit Reddy,P00026,Sunglasses,Electronics,UrbanStyle,5,93.12,0.05,79.62,9.69,531.63,Credit Card,Delivered,Washington,DC,United States,SELL00349
+ORD0000283,2020-07-21,CUST036197,Sneha Gupta,P00026,Sunglasses,Sports & Outdoors,HomeEase,1,25.8,0.15,1.75,2.16,25.84,UPI,Shipped,Chicago,IL,United Kingdom,SELL00883
+ORD0020898,2022-10-09,CUST041959,Neha Singh,P00042,Projector Mini,Clothing,ReadMore,4,16.83,0.0,5.39,5.89,78.6,Debit Card,Delivered,Houston,TX,United States,SELL01014
+ORD0083676,2023-02-26,CUST039078,Vivaan Reddy,P00042,Projector Mini,Home & Kitchen,ReadMore,3,320.67,0.2,38.48,14.07,822.16,Debit Card,Cancelled,Chicago,IL,United States,SELL00752
+ORD0027524,2024-03-28,CUST047383,Arjun Gupta,P00034,Desk Organizer,Books,HomeEase,1,422.65,0.0,76.08,9.68,508.41,Amazon Pay,Shipped,Los Angeles,CA,United States,SELL00637
+ORD0039235,2021-07-04,CUST039869,Kabir Kumar,P00028,Jeans,Electronics,BrightLux,2,597.3,0.0,0.0,5.85,1200.45,Debit Card,Delivered,Seattle,WA,United States,SELL00311
+ORD0048975,2021-09-24,CUST020316,Vikas Singh,P00039,Graphic Tablet,Home & Kitchen,UrbanStyle,5,325.01,0.0,195.01,1.3,1821.36,Net Banking,Delivered,Washington,DC,India,SELL01944
+ORD0008893,2021-10-08,CUST011452,Vikas Mehta,P00024,Yoga Mat,Books,NexPro,2,348.61,0.0,125.5,1.16,823.88,Debit Card,Delivered,New York,NY,United States,SELL01236
+ORD0075739,2022-01-17,CUST006653,Sunita Verma,P00003,Smartphone Case,Sports & Outdoors,CoreTech,1,579.05,0.05,66.01,5.01,621.12,Amazon Pay,Delivered,Phoenix,AZ,United States,SELL00296
+ORD0043584,2021-11-06,CUST027006,Aarav Kapoor,P00049,Children's Book,Sports & Outdoors,CoreTech,2,592.86,0.05,135.17,14.87,1276.47,Credit Card,Delivered,Philadelphia,PA,United States,SELL01096
+ORD0080123,2023-03-22,CUST008404,Rohit Sharma,P00007,Mechanical Keyboard,Clothing,KiddoFun,2,548.57,0.0,87.77,3.64,1188.55,Credit Card,Delivered,Los Angeles,CA,United States,SELL01226
+ORD0093660,2022-03-05,CUST038617,Vihaan Gupta,P00039,Graphic Tablet,Toys & Games,HomeEase,5,150.17,0.0,60.07,10.05,820.97,Net Banking,Delivered,Dallas,TX,United States,SELL00563
+ORD0084170,2022-12-15,CUST040693,Arjun Verma,P00029,T-Shirt,Electronics,CoreTech,2,171.88,0.05,26.13,12.69,365.39,Net Banking,Delivered,Fort Worth,TX,United States,SELL01441
+ORD0076475,2021-08-01,CUST048756,Sahil Patel,P00008,4K Monitor,Books,ReadMore,1,459.67,0.1,33.1,14.12,460.92,Debit Card,Shipped,Chicago,IL,United States,SELL00579
+ORD0012783,2021-01-10,CUST038872,Rohit Joshi,P00015,Instant Pot,Home & Kitchen,CoreTech,4,396.86,0.05,120.65,12.33,1641.05,Debit Card,Delivered,Columbus,OH,United Kingdom,SELL01566
+ORD0020102,2021-06-02,CUST022674,Arjun Gupta,P00006,Gaming Mouse,Toys & Games,NexPro,2,204.77,0.0,73.72,14.25,497.51,UPI,Delivered,Washington,DC,United States,SELL01036
+ORD0049645,2022-12-05,CUST014113,Sneha Verma,P00037,Router,Toys & Games,UrbanStyle,4,535.77,0.25,128.58,12.0,1747.89,UPI,Delivered,San Diego,CA,United States,SELL01579
+ORD0048827,2024-02-16,CUST007982,Simran Joshi,P00015,Instant Pot,Sports & Outdoors,NexPro,3,352.58,0.25,142.79,3.48,939.58,Debit Card,Delivered,San Jose,CA,Canada,SELL01966
+ORD0095866,2022-02-05,CUST040102,Arjun Kumar,P00012,Noise Cancelling Headphones,Home & Kitchen,NexPro,5,237.55,0.05,56.42,8.24,1193.02,Credit Card,Delivered,Indianapolis,IN,United States,SELL00311
+ORD0006993,2023-07-03,CUST038185,Sunita Kumar,P00021,Backpack,Electronics,HomeEase,3,382.8,0.1,82.68,2.02,1118.26,UPI,Delivered,Indianapolis,IN,United States,SELL00823
+ORD0085272,2023-01-26,CUST005025,Pooja Joshi,P00022,Water Bottle,Clothing,KiddoFun,1,429.82,0.2,17.19,0.58,361.63,Cash on Delivery,Delivered,San Francisco,CA,India,SELL00378
+ORD0021495,2020-07-28,CUST022667,Sunita Sharma,P00012,Noise Cancelling Headphones,Books,BrightLux,4,273.09,0.2,104.87,0.53,979.29,Credit Card,Delivered,San Antonio,TX,Canada,SELL00766
+ORD0006222,2020-03-28,CUST027210,Sahil Verma,P00001,Wireless Earbuds,Toys & Games,HomeEase,4,584.25,0.0,116.85,4.64,2458.49,UPI,Delivered,New York,NY,United States,SELL00845
+ORD0091951,2021-12-17,CUST036281,Rohit Kumar,P00030,Dress Shirt,Books,Apex,2,353.65,0.0,127.31,13.34,847.95,UPI,Delivered,New York,NY,United States,SELL00702
+ORD0054870,2023-01-13,CUST035163,Arjun Joshi,P00002,Bluetooth Speaker,Electronics,UrbanStyle,2,345.63,0.0,34.56,1.9,727.72,Debit Card,Delivered,New York,NY,United States,SELL01567
+ORD0035283,2024-01-10,CUST021489,Ritika Joshi,P00041,Webcam Full HD,Home & Kitchen,BrightLux,5,424.98,0.1,229.49,2.89,2144.79,Debit Card,Delivered,Indianapolis,IN,United States,SELL01258
+ORD0052812,2022-08-15,CUST023794,Sneha Sharma,P00019,LED Desk Lamp,Electronics,CoreTech,1,576.33,0.1,25.93,12.45,557.08,Debit Card,Shipped,Austin,TX,Canada,SELL01131
+ORD0080482,2020-11-30,CUST011591,Vivaan Kumar,P00038,External HDD 2TB,Clothing,CoreTech,5,127.54,0.05,72.7,8.35,686.87,Credit Card,Delivered,San Antonio,TX,United States,SELL00345
+ORD0093702,2021-04-13,CUST003688,Rohit Gupta,P00013,Action Camera,Home & Kitchen,ReadMore,2,103.91,0.0,24.94,2.85,235.61,Amazon Pay,Shipped,Houston,TX,United States,SELL01323
+ORD0053216,2024-05-06,CUST027065,Mohit Verma,P00047,Memory Card 128GB,Home & Kitchen,BrightLux,4,198.26,0.0,0.0,8.34,801.38,UPI,Delivered,Washington,DC,United States,SELL00261
+ORD0064112,2020-01-13,CUST049925,Arjun Joshi,P00025,Running Shoes,Electronics,NexPro,2,186.23,0.0,29.8,14.39,416.65,Credit Card,Shipped,San Francisco,CA,United States,SELL01790
+ORD0002111,2020-02-06,CUST017181,Rohit Kapoor,P00009,Portable SSD 1TB,Toys & Games,BrightLux,5,79.59,0.15,27.06,8.97,374.29,Credit Card,Shipped,Chicago,IL,United States,SELL00522
+ORD0005066,2022-12-17,CUST034092,Ritika Kumar,P00026,Sunglasses,Home & Kitchen,Apex,3,50.43,0.2,14.52,1.73,137.28,UPI,Delivered,Denver,CO,Australia,SELL00915
+ORD0042692,2022-06-02,CUST003511,Aman Singh,P00020,Office Chair,Books,UrbanStyle,3,222.05,0.2,63.95,14.35,611.22,Net Banking,Delivered,Phoenix,AZ,United States,SELL01100
+ORD0057208,2023-11-09,CUST001591,Sunita Joshi,P00005,Laptop Sleeve,Books,FitLife,4,330.78,0.15,56.23,14.35,1195.23,Net Banking,Delivered,Columbus,OH,United States,SELL00704
+ORD0078966,2020-05-09,CUST033198,Mohit Reddy,P00045,Phone Tripod,Sports & Outdoors,FitLife,2,186.0,0.15,15.81,5.9,337.91,Credit Card,Delivered,Philadelphia,PA,United States,SELL00593
+ORD0038047,2021-08-01,CUST028100,Ritika Verma,P00028,Jeans,Sports & Outdoors,Zenith,1,170.24,0.05,19.41,2.57,183.71,Credit Card,Delivered,Seattle,WA,United States,SELL01687
+ORD0085366,2022-12-12,CUST002740,Sahil Mehta,P00002,Bluetooth Speaker,Home & Kitchen,FitLife,4,596.62,0.0,119.32,7.78,2513.58,Net Banking,Delivered,Columbus,OH,United Kingdom,SELL00818
+ORD0059378,2022-03-21,CUST010080,Anjali Reddy,P00002,Bluetooth Speaker,Electronics,KiddoFun,2,8.74,0.0,0.0,4.56,22.04,Debit Card,Pending,Phoenix,AZ,Australia,SELL00501
+ORD0013401,2024-11-12,CUST018517,Sunita Gupta,P00044,Power Bank 20000mAh,Books,UrbanStyle,1,229.2,0.2,22.0,11.84,217.2,Net Banking,Shipped,Phoenix,AZ,India,SELL00446
+ORD0025349,2021-08-11,CUST045663,Rohit Patel,P00045,Phone Tripod,Sports & Outdoors,UrbanStyle,2,449.46,0.0,71.91,3.52,974.35,Credit Card,Delivered,Dallas,TX,Canada,SELL00563
+ORD0040778,2023-06-01,CUST013005,Mohit Mehta,P00015,Instant Pot,Home & Kitchen,ReadMore,3,423.01,0.05,60.28,9.3,1275.16,Credit Card,Delivered,Fort Worth,TX,United States,SELL01134
+ORD0029845,2020-09-29,CUST036555,Karan Patel,P00038,External HDD 2TB,Home & Kitchen,CoreTech,4,51.3,0.05,23.39,6.79,225.12,Credit Card,Delivered,Los Angeles,CA,United States,SELL00001
