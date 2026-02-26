@@ -1,3 +1,4 @@
+# Script recordSample.txt 
 Script started on 2026-02-26 01:00:22-05:00
 bash-4.4$ pwd
 /mnt/scratch/CS131_jelenag/projects/team04_sec1
