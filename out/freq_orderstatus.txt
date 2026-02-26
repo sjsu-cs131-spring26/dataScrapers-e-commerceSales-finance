@@ -1,0 +1,4 @@
+    765 Delivered
+    138 Shipped
+     31 Returned
+     30 Cancelled

@@ -1,0 +1,20 @@
+Austin,TX
+Charlotte,NC
+Chicago,IL
+Columbus,OH
+Dallas,TX
+Denver,CO
+Fort Worth,TX
+Houston,TX
+Indianapolis,IN
+Jacksonville,FL
+Los Angeles,CA
+New York,NY
+Philadelphia,PA
+Phoenix,AZ
+San Antonio,TX
+San Diego,CA
+San Francisco,CA
+San Jose,CA
+Seattle,WA
+Washington,DC
