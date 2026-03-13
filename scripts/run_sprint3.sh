@@ -80,7 +80,7 @@ FIELD_SELLER_ID=20
 
 
 # Decision-driving artifact 1: top us states by total revenue
-echo "Generating top_states_revenue.txt"
+echo "Generating top10_us_states_by_revenue.txt"
 
 awk -F "${DELIM}" \
   -v state="${FIELD_STATE}" \
@@ -100,12 +100,12 @@ END {
 }' "${DATASET_PATH}" \
 | sort -k2,2nr \
 | head -n 11 \
-| tee "${EVID_DIR}/top_states_revenue.txt"
+| tee "${EVID_DIR}/top10_us_states_by_revenue.txt" || true
 
 echo
 
 # Decision-driving artifact 2: order status breakdown by state (for US states)
-echo "Generating state_order_status.txt"
+echo "Generating order_status_breakdown_by_state.txt"
 
 awk -F "${DELIM}" \
   -v state="${FIELD_STATE}" \
@@ -130,12 +130,12 @@ END {
   }
 }' "${DATASET_PATH}" \
 | sort -k1,1 -k3,3nr \
-| tee "${EVID_DIR}/state_order_status.txt"
+| tee "${EVID_DIR}/order_status_breakdown_by_state.txt"
 
 echo
 
 # Decision-driving artifact 3: top 20 sellers by performance (total revenue, order count, avg order value)
-echo "Generating seller_performance.txt"
+echo "Generating top20_seller_performance.txt"
 
 awk -F "${DELIM}" \
   -v seller="${FIELD_SELLER_ID}" \
@@ -156,7 +156,7 @@ END {
 }' "${DATASET_PATH}" \
 | sort -k3,3nr \
 | head -n 21 \
-| tee "${EVID_DIR}/seller_performance.txt"
+| tee "${EVID_DIR}/top20_seller_performance.txt" || true
 
 echo
 
@@ -182,6 +182,30 @@ END {
   print "total_rows\t" n;
 }' "${DATASET_PATH}" \
 | tee "${EVID_DIR}/trust_check_missing_values.txt"
+
+echo
+
+# Decision-driving artifact 4: payment method breakdown (count and percentage of total orders)
+echo "Generating payment_method_breakdown.txt"
+ 
+awk -F "${DELIM}" \
+  -v payment="${FIELD_PAYMENT_METHOD}" '
+NR==1 { next }
+{
+  if ($payment!="" ) {
+    count[$payment]++;
+    n++;
+  }
+}
+END {
+  print "payment_method\torder_count\tpct_of_total";
+  for (p in count) {
+    pct = (n>0 ? count[p]/n : 0);
+    printf "%s\t%d\t%.4f\n", p, count[p], pct;
+  }
+}' "${DATASET_PATH}" \
+| sort -k2,2nr \
+| tee "${EVID_DIR}/payment_method_breakdown.txt"
 
 echo
 
