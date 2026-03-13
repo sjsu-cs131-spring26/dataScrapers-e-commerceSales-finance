@@ -1,0 +1,3 @@
+OrderID,OrderDate,CustomerID,CustomerName,ProductID,ProductName,Category,Brand,Quantity,UnitPrice,Discount,Tax,ShippingCost,TotalAmount,PaymentMethod,OrderStatus,City,State,Country,SellerID
+ORD0011695,2022-12-15,CUST048777,Sneha Kumar,P00030,Dress Shirt,Electronics,CoreTech,3,548.59,0.1,177.74,10.43,1669.36,Debit Card,Delivered,Columbus,OH,India,SELL01186
+ORD0041047,2023-09-04,CUST007575,Aditya Verma,P00003,Smartphone Case,Home & Kitchen,Apex,3,229.91,0.05,117.94,1.06,774.24,UPI,Delivered,San Jose,CA,India,SELL00351

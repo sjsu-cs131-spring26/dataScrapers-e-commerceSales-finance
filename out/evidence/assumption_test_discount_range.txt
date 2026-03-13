@@ -1,0 +1,5 @@
+total_rows=1000
+valid_discount_rows=1000
+invalid_discount_rows=
+missing_discount_rows=
+invalid_rate=0.0000
