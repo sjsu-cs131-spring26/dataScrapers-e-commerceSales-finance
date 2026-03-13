@@ -1,0 +1,7 @@
+UPI	152	0.1520
+Amazon Pay	137	0.1370
+Cash on Delivery	60	0.0600
+Credit Card	353	0.3530
+Debit Card	203	0.2030
+Net Banking	95	0.0950
+payment_method	order_count	pct_of_total

@@ -1,0 +1,1 @@
+-rwxr-xr-x 1 nathanl jelenag 171K Mar 11 18:00 data/samples/Amazon_sample_1k.csv
