@@ -9,3 +9,4 @@ chmod -R g+rX "$(dirname "$INPUT")" 2>/dev/null || true
 
 mkdir -p out logs
 
+
