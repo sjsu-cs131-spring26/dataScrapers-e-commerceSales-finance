@@ -10,15 +10,15 @@
 
 # Dataset Documentation 🗒️: 
 
-**Dataset link:** https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset/data  
-**Overview:** The database is made up of synthetic e-commerce sales records modeled to closely resemble real-world online retail activity. The records contain information about products, pricing, order status, payment options, as well as location data.
+**Dataset link:** https://amazon-reviews-2023.github.io/  
+**Overview:** The dataset is large scale aggregation of 2023 Amazon reviews, descriptions, prices, and etc that showcase real-world online retail activity. The records contain information about products, pricing, interactions with Amazon between 1996 to 2023, user ratings, as well as helpfulness votes. For the immense amount of data, our team will be focusing on the health and personal care sector.
 
 **Size / Scope:** 
-* 100,000 rows and 20 columns
-* Around 17.38 MB
+* 494,100 rows and 10 columns
+* Around 221 MB
 
 **Justificaton:**
-* This dataset is directly relevant to the team’s chosen domain of finance, more specifically, eCommerce sales. Going over several consumer atttributes such as order details, customer information, product attributes, pricing, fulfillment, and delivery status will simulate the large-scale data analysis retail sellers would utilize. Understanding customer-cenetered needs is a major focus for large corporations to make the most sales, so by creating scalable data pipelines over the entire semester, it will potentially highlight significant factors that may be overlooked initially.
+* This dataset is directly relevant to the team’s chosen domain of finance, more specifically, eCommerce sales. Going over several consumer atttributes such as user rating, asin information, user I.D., pricing, nearly exact timestamp, and verified purchased reviews that will showcase the large-scale data analysis retail sellers would utilize. Understanding customer-cenetered needs is a major focus for large corporations to make the most sales, so by creating scalable data pipelines over the entire semester, it will potentially highlight significant factors that may be overlooked initially.
 
 # Data Card 🗂️
 
@@ -26,14 +26,14 @@
 * CSV (Comma seperated Values)
 
 **Compression:**
-* .zip (4 MB)
-* .csv (17.38 MB)
+* .zip (68.199 MB)
+* .csv (221.671 MB)
 
 **Row Count:**
-* 100,000
+* 494,100
 
 **Column Count:**
-* 20
+* 10
 
 **Delimiter(s):**
 * Comma (,)
