@@ -11,7 +11,7 @@
 # Dataset Documentation 🗒️: 
 
 **Dataset link:** https://amazon-reviews-2023.github.io/  
-**Overview:** The dataset is large scale aggregation of 2023 Amazon reviews, descriptions, prices, and etc that showcase real-world online retail activity. The records contain information about products, pricing, interactions with Amazon between 1996 to 2023, user ratings, as well as helpfulness votes. For the immense amount of data, our team will be focusing on the health and personal care sector.
+**Overview:** This dataset is a large-scale aggregation of Amazon reviews collected in 2023 by McAuley Lab at UC San Diego. It contains real-world consumer review activity spanning May 1996 through September 2023, including user ratings, review text, helpfulness votes, verified purchase flags, and product identifiers. Our team focuses specifically on the Health and Personal Care category, which represents one of the most active and consistently reviewed segments on the platform.
 
 **Size / Scope:** 
 * 494,100 rows and 10 columns
@@ -23,11 +23,10 @@
 # Data Card 🗂️
 
 **File Formating:**
-* CSV (Comma seperated Values)
+* JSONL
 
 **Compression:**
-* .zip (68.199 MB)
-* .csv (221.671 MB)
+* .gz
 
 **Row Count:**
 * 494,100
@@ -36,21 +35,29 @@
 * 10
 
 **Delimiter(s):**
-* Comma (,)
+* Newline-delimited (JSON)
 
 **Header row presence**
-* yes ✅
+* No 
 
 **Encoding:**
-* charset=us-ascii
+* UTF-8
+
+# Key Fields
+**Fields:**
+* rating (float) - Star rating from 1.0 to 5.0
+* title (string) - Review headline
+* text (string) - Full review body
+* timestamp (int) - Unix timestamp
+* verified_purchase (boolean) - Whether the purchase was verified
+* helpful_vote (int) - Number of helpful votes on the review
+* asin (string) - Unique product identifier
+* parent_asin (string) - Product family identifier
+* user_id (string) - Unique reviewer identifier
 
 # Obvious Quality Notes ✏️
 
-* City and State categories align; however, country is not relevant
-* Due to the synthetic nature of the dataset, some correlations are too linear
-  * All customer names have South Asian origins
-  * No typos when searching for items
-* Sales are heavily skewed with the United States leading with 62.3M sales and the second being India with only 13.5M
-* The Timeline of the dataset ranges from the end of 2019 to the end of 2024
-* 43233 unique customers in the dataset
-* Moreover the Category and Brands categories are not realistic, so we are not using them due to the inaccurate synthetic nature of them.
+* A portion of reviews contain null or empty text fields, requiring filtering before text-based analysis
+* Some records exhibit inconsistencies in timestamp precision and required normalization during cleaning
+* The parent_asin and asin relationship requires careful handling, as product variants such as different sizes or colors share a parent ID, which can inflate product counts if not accounted for
+* No geographic data is present in the review records, which limits analysis to national-level demand patterns
